@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ほねでざいん</title>
-    <link>https://honestdesireinc.github.io/</link>
+    <link>https://blog.honestdesireinc.com/</link>
     <description>Recent content on ほねでざいん</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 25 Dec 2020 17:11:09 +0900</lastBuildDate><atom:link href="https://honestdesireinc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Dec 2020 17:11:09 +0900</lastBuildDate><atom:link href="https://blog.honestdesireinc.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2020 12 25 Honestdesireinc</title>
-      <link>https://honestdesireinc.github.io/post/2020-12-25-honestdesireinc/</link>
+      <link>https://blog.honestdesireinc.com/post/2020-12-25-honestdesireinc/</link>
       <pubDate>Fri, 25 Dec 2020 17:11:09 +0900</pubDate>
       
-      <guid>https://honestdesireinc.github.io/post/2020-12-25-honestdesireinc/</guid>
+      <guid>https://blog.honestdesireinc.com/post/2020-12-25-honestdesireinc/</guid>
       <description>ほねでざいん ほねでざいん ほねでざいん なんとなくGithub Pagesでブログを作ってみた
  メリット  無料 画像をインスタから持ってくる手順を覚えたから容量食わない 全体ソースが1GBまで使える 月間100万アクセスまで使える カスタムドメインが使える 広告をつけるのもOK   デメリット  ビルド&amp;amp;Githubにアップが必要なので、どこでも記事が書けるわけじゃない    とりあえずやってみようの精神</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://honestdesireinc.github.io/page/about/</link>
+      <link>https://blog.honestdesireinc.com/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://honestdesireinc.github.io/page/about/</guid>
+      <guid>https://blog.honestdesireinc.com/page/about/</guid>
       <description>My name is Inigo Montoya. I have the following qualities:
  I rock a great mustache I&amp;rsquo;m extremely loyal to my family  What else do you need?
 my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
