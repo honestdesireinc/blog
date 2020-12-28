@@ -1,0 +1,1 @@
+cp -Force C:\Users\aki3t\Desktop\github_pages\blog\public\* C:\Users\aki3t\Desktop\github_pages\honestdesireinc.github.io
