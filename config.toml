@@ -1,7 +1,7 @@
 baseurl = "https://blog.honestdesireinc.com"
 # DefaultContentLanguage = "en"
 DefaultContentLanguage = "ja"
-title = "ほねでざいん"
+title = "くろしろ"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -15,7 +15,7 @@ googleAnalytics = "G-N8WJH9PK5R"
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "右ねじの法則とは何ら関係のないブログ"
+  subtitle = "苦労は買ってでもしろ"
   mainSections = ["post","posts"]
   logo = "images/rightscrew.jpg" # Expecting square dimensions
   favicon = "img/favicon.ico"
@@ -44,6 +44,7 @@ googleAnalytics = "G-N8WJH9PK5R"
 #[[Params.bigimg]]
 #  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
+  custom_css = ["css/custom-font.css"]
 
 [Author]
   name = "右ねじ"
@@ -89,3 +90,7 @@ googleAnalytics = "G-N8WJH9PK5R"
   name = "About"
   url = "page/about/"
   weight = 3
+
+[markup.goldmark.renderer]
+  unsafe = true
+
