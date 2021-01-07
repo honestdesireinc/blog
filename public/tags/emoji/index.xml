@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>emoji on くろしろ</title>
+    <title>emoji on くろしろ -苦労は買ってでもしろ-</title>
     <link>https://blog.honestdesireinc.com/tags/emoji/</link>
-    <description>Recent content in emoji on くろしろ</description>
+    <description>Recent content in emoji on くろしろ -苦労は買ってでもしろ-</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
     <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.honestdesireinc.com/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoji Support</title>
-      <link>https://blog.honestdesireinc.com/post/emoji-support/</link>
+      <link>https://blog.honestdesireinc.com/p/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.honestdesireinc.com/post/emoji-support/</guid>
+      <guid>https://blog.honestdesireinc.com/p/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
