@@ -1,26 +1,16 @@
 ---
-title: ほねでざいん
-subtitle: 右ねじによる、右ねじの法則とは何ら関係のないブログ
+title: About me
+subtitle: Why you'd want to go on a date with me
 comments: false
 ---
 
-*右ねじとは*
-- like
-  - パソコン
-  - カメラ
-  - 変なものを作ること
-  - 作り方を知ること
-  - 何を意味しているのか考えること
+My name is Inigo Montoya. I have the following qualities:
 
-### 経歴
-|西暦||
-| :----|:--- |
-|2006|前略プロフィールを開始|
-|2007|mixiを開始|
-|2011|Facebookを開始|
-||Twitterを開始|
-|2012|livedoor blogを開始|
-|2016|AmebaOwndを開始|
-|2019|電車遅延情報βを開始|
-|2020|noteを開始|
-||GithubPagesを開始|
+- I rock a great mustache
+- I'm extremely loyal to my family
+
+What else do you need?
+
+### my history
+
+To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
