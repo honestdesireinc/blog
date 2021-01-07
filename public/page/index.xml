@@ -4,15 +4,35 @@
     <title>Pages on くろしろ</title>
     <link>https://blog.honestdesireinc.com/page/</link>
     <description>Recent content in Pages on くろしろ</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://blog.honestdesireinc.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.honestdesireinc.com/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ほねでざいん</title>
+      <title>Archives</title>
+      <link>https://blog.honestdesireinc.com/page/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.honestdesireinc.com/page/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
       <link>https://blog.honestdesireinc.com/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://blog.honestdesireinc.com/page/about/</guid>
-      <description>右ねじとは
- like  パソコン カメラ 変なものを作ること 作り方を知ること 何を意味しているのか考えること    経歴    西暦      2006 前略プロフィールを開始   2007 mixiを開始   2011 Facebookを開始    Twitterを開始   2012 livedoor blogを開始   2016 AmebaOwndを開始   2019 電車遅延情報βを開始   2020 noteを開始    GithubPagesを開始    </description>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+ https://github.</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://blog.honestdesireinc.com/page/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.honestdesireinc.com/page/search/</guid>
+      <description></description>
     </item>
     
   </channel>
