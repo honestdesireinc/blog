@@ -12,7 +12,9 @@
       <pubDate>Fri, 25 Dec 2020 17:11:09 +0900</pubDate>
       
       <guid>https://blog.honestdesireinc.com/post/2020-12-25-honestdesireinc/</guid>
-      <description>&lt;h3 id=&#34;ほねでざいん&#34;&gt;ほねでざいん&lt;/h3&gt;
+      <description>&lt;h2&gt;目次&lt;/h2&gt;
+{{ .TableOfContents }}
+&lt;h3 id=&#34;ほねでざいん&#34;&gt;ほねでざいん&lt;/h3&gt;
 &lt;h2 id=&#34;ほねでざいん-1&#34;&gt;ほねでざいん&lt;/h2&gt;
 &lt;h1 id=&#34;ほねでざいん-2&#34;&gt;ほねでざいん&lt;/h1&gt;
 &lt;p&gt;なんとなくGithub Pagesでブログを作ってみた&lt;/p&gt;
