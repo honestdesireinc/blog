@@ -94,3 +94,8 @@ googleAnalytics = "G-N8WJH9PK5R"
 [markup.goldmark.renderer]
   unsafe = true
 
+[markup]
+    [markup.tableOfContents]
+        endLevel = 2
+        ordered = true
+        startLevel = 3

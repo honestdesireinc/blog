@@ -5,6 +5,9 @@ tags: ["githubpages", "beautifulhugo"]
 draft: false
 ---
 
+<h2>目次</h2>
+{{ .TableOfContents }}
+
 ### ほねでざいん
 ## ほねでざいん
 # ほねでざいん
