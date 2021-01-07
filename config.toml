@@ -44,7 +44,7 @@ googleAnalytics = "G-N8WJH9PK5R"
 #[[Params.bigimg]]
 #  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
-  custom_css = ["css/custom-font.css"]
+#  custom_css = ["css/custom-font.css"]
 
 [Author]
   name = "右ねじ"
@@ -95,7 +95,7 @@ googleAnalytics = "G-N8WJH9PK5R"
   unsafe = true
 
 [markup]
-    [markup.tableOfContents]
-        endLevel = 2
-        ordered = true
-        startLevel = 3
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
