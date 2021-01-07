@@ -1,343 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>くろしろ -苦労は買ってでもしろ-</title>
-        <link>https://blog.honestdesireinc.com/</link>
-        <description>Recent content on くろしろ -苦労は買ってでもしろ-</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>ja-jp</language>
-        <lastBuildDate>Tue, 05 Jan 2021 09:59:34 +0900</lastBuildDate><atom:link href="https://blog.honestdesireinc.com/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>性能が同じPCの中だったら何を選びますか？</title>
-        <link>https://blog.honestdesireinc.com/p/%E6%80%A7%E8%83%BD%E3%81%8C%E5%90%8C%E3%81%98pc%E3%81%AE%E4%B8%AD%E3%81%A0%E3%81%A3%E3%81%9F%E3%82%89%E4%BD%95%E3%82%92%E9%81%B8%E3%81%B3%E3%81%BE%E3%81%99%E3%81%8B/</link>
-        <pubDate>Tue, 05 Jan 2021 09:59:34 +0900</pubDate>
-        
-        <guid>https://blog.honestdesireinc.com/p/%E6%80%A7%E8%83%BD%E3%81%8C%E5%90%8C%E3%81%98pc%E3%81%AE%E4%B8%AD%E3%81%A0%E3%81%A3%E3%81%9F%E3%82%89%E4%BD%95%E3%82%92%E9%81%B8%E3%81%B3%E3%81%BE%E3%81%99%E3%81%8B/</guid>
-        <description>&lt;p&gt;右ねじです。&lt;/p&gt;
+  <channel>
+    <title>くろしろ</title>
+    <link>https://blog.honestdesireinc.com/</link>
+    <description>Recent content on くろしろ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 05 Jan 2021 09:59:34 +0900</lastBuildDate><atom:link href="https://blog.honestdesireinc.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>性能が同じPCの中だったら何を選びますか？</title>
+      <link>https://blog.honestdesireinc.com/post/2021-01-05-choose-pc-by-same-range/</link>
+      <pubDate>Tue, 05 Jan 2021 09:59:34 +0900</pubDate>
+      
+      <guid>https://blog.honestdesireinc.com/post/2021-01-05-choose-pc-by-same-range/</guid>
+      <description>&lt;p&gt;右ねじです。&lt;/p&gt;
 &lt;h3 id=&#34;国産メーカーはサポートがしっかりしているは本当にメリットなのか&#34;&gt;「国産メーカーはサポートがしっかりしている」は本当にメリットなのか？&lt;/h3&gt;
 &lt;p&gt;日本メーカーは、VAIOだけです。&lt;br&gt;
 NEC, FujitsuはIBMを買収した香港のレノボグループ。&lt;br&gt;
 dynabookは東芝から切り離されてSHARPと共に台湾のホンハイグループ。&lt;/p&gt;
 &lt;p&gt;日本メーカーだから安心ではなく、サポートが日本語対応だから安心ということ？&lt;br&gt;
-でもみなさんに問いたい。購入するときにサポートがどうなってるか確認して買ってますか？&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;普通に買って、落下や水濡れもカバーする3年保証がついている&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;VAIO(3年、オプションで4年に延長可)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;通常は自然故障のみの1年保証で、オプションで落下や水濡れもカバー(3~5年まで)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;DELL&lt;/li&gt;
-&lt;li&gt;HP&lt;/li&gt;
-&lt;li&gt;NEC&lt;/li&gt;
-&lt;li&gt;dynabook&lt;/li&gt;
-&lt;li&gt;Fujitsu&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;自然故障のみの1年保証&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ASUS&lt;/li&gt;
-&lt;li&gt;Acer&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;使い方サポートという意味&#34;&gt;使い方サポートという意味？&lt;/h3&gt;
-&lt;p&gt;HP 無料で1年間、有償で最大1年とか、「何日間でいくら」という購入の仕方で、本体だけでなくメール設定とかも相談可能(電話orLINE)
-DELL 1~4年、使い方サポートだけならそこそこ、落下・水漏れも保証するとなると高い
-NEC 電話し放題の使い方サポートは月額880円、チャットやLINEでの相談でよければ無料っぽい　https://support.nec-lavie.jp/chat&lt;/p&gt;
-&lt;h3 id=&#34;わからない情報を怖がる必要はないようはこういうこと&#34;&gt;わからない情報を怖がる必要はない。ようはこういうこと&lt;/h3&gt;
-&lt;p&gt;教育機関のランクで例えてみました。
-ちなみに、日本の教育機関で比較すると、公立校の方が私立校よりも2倍多く存在するようです。&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;公立&lt;!-- raw HTML omitted --&gt;Intel&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;私立&lt;!-- raw HTML omitted --&gt;AMD&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;保育園児&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Pentium&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;幼稚園児&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Celeron&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Athlon&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;小学生&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Core i3&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Ryzen 3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;中学生&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Core i5&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Ryzen 5&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;高校生&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Core i7&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Ryzen 7&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;大学生&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Core i9&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Ryzen 9&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;IntelもAMDも同じ言葉を使う同じくらいの年代の力を持っています。&lt;br&gt;
-公立も私立も学習指導要領は同じです。違うのは設立者だけですよね。&lt;br&gt;
-CPUもそんな感じの違いしかありません。&lt;/p&gt;
-&lt;p&gt;どやねん
-tuika
-最終&lt;/p&gt;
-&lt;p&gt;いけたかもしれない
-いややっぱこうだわ&lt;/p&gt;</description>
-        </item>
-        <item>
-        <title>冷蔵庫が冷えてなかった代わりに、ぼくの肝が冷えた話</title>
-        <link>https://blog.honestdesireinc.com/p/%E5%86%B7%E8%94%B5%E5%BA%AB%E3%81%8C%E5%86%B7%E3%81%88%E3%81%A6%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%AB%E3%81%BC%E3%81%8F%E3%81%AE%E8%82%9D%E3%81%8C%E5%86%B7%E3%81%88%E3%81%9F%E8%A9%B1/</link>
-        <pubDate>Fri, 01 Jan 2021 17:50:10 +0900</pubDate>
-        
-        <guid>https://blog.honestdesireinc.com/p/%E5%86%B7%E8%94%B5%E5%BA%AB%E3%81%8C%E5%86%B7%E3%81%88%E3%81%A6%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%AB%E3%81%BC%E3%81%8F%E3%81%AE%E8%82%9D%E3%81%8C%E5%86%B7%E3%81%88%E3%81%9F%E8%A9%B1/</guid>
-        <description>&lt;p&gt;右ねじです。&lt;br&gt;
+でもみなさんに問いたい。購入するときにサポートがどうなってるか確認して買ってますか？&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>冷蔵庫が冷えてなかった代わりに、ぼくの肝が冷えた話</title>
+      <link>https://blog.honestdesireinc.com/post/2021-01-01-refrigerator-repair/</link>
+      <pubDate>Fri, 01 Jan 2021 17:50:10 +0900</pubDate>
+      
+      <guid>https://blog.honestdesireinc.com/post/2021-01-01-refrigerator-repair/</guid>
+      <description>&lt;p&gt;右ねじです。&lt;br&gt;
 僕は2015年から都内で一人暮らしをしております。&lt;br&gt;
 最初は家電を中古でそろえましたが、2019年の夏に冷蔵庫と洗濯機を買い替えました。&lt;br&gt;
 こちらは、その時の僕の喜びを表したツイートです。&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;12月28日、ぼくの2020年最終出勤が終わり、冬休みが始まりました。&lt;/p&gt;
-&lt;p&gt;ここ数日は年末の追い込みを乗り切るために、&lt;br&gt;
-自分にとことん甘く、食べたいものを食べたいだけ食べていたので、&lt;br&gt;
-「今日はちょっと、栄養もあるもの食べよう。冬休みで時間あるし、UberEatsはやめよう」&lt;br&gt;
-と思って冷凍餃子を食べることにしました。&lt;br&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;h2 id=&#34;冷凍餃子が常温だった&#34;&gt;冷凍餃子が常温だった。&lt;/h2&gt;
-&lt;p&gt;ゆるゆるでした。加熱用生牡蠣ぐらい柔らかくなっていました。&lt;br&gt;
-冷凍餃子ってそういうものじゃないですよね。&lt;br&gt;
-というか、冷凍庫全体がちょっと温かかった。&lt;br&gt;
-真冬の夜、エアコンのないアパートの廊下ですよ。&lt;br&gt;
-手をかざしてみたら、ぬるい空気が出ていました。&lt;br&gt;
-これは絶対壊れてる。&lt;br&gt;
-他の食材も触ってみましたがすべて溶けており、勘違いじゃないことがわかりました。&lt;/p&gt;
-&lt;p&gt;繰り返しますが、これは2020年12月28日のことです。&lt;br&gt;
-2020年の12月は残り3日しかなく、普通の企業は年末休暇に入っています。&lt;br&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;h2 id=&#34;冷蔵庫が壊れたら何をしなきゃいけない&#34;&gt;冷蔵庫が壊れたら何をしなきゃいけない？&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;ol&gt;
-&lt;li&gt;自力で治るか試してみる
-&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;冷凍庫だけでなく、冷蔵庫も冷えていませんでした。&lt;br&gt;
-先日冷蔵庫の位置を調整したときに、側面がキッチンに接してしまっていたため、冷却ができなくなり故障してしまったみたいです。&lt;br&gt;
-じゃあ、離してしばらく待てば治るかな？と思い20分ほど待ってみたが改善せず。&lt;br&gt;
-これは修理の手配をするしかないな、ということになりました。
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;メーカーサイトで調べてみる&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;僕が使っていたのはこれでした。&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://jp.sharp/support/repair.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;修理のご相談 | SHARP&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;こちらのページに従うと、「故障診断ナビ」で症状を選択していって、故障していると診断されたら、そのままネットで修理申し込みができるようです。&lt;br&gt;
-製品の型式や製造番号(冷蔵庫扉の内側に記載)を入力。&lt;br&gt;
-症状は「冷蔵庫が冷えていない」、診断結果は「圧縮機の故障」。&lt;/p&gt;
-&lt;p&gt;12,000~24,000円(税込)かかるようです。そのままWEB修理受付に進むことができますが、その際先ほどの診断結果がパラメータに引き継がれていました。&lt;/p&gt;
-&lt;p&gt;最短で手配できるのは、1/4(月)でした。とりあえずそこで申し込みました。&lt;br&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;購入した量販店にも問い合わせてみる&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;家電って、メーカー修理のほかにも、購入したときに申し込んでいれば、家電量販店の延長保証サービスが使えます。&lt;br&gt;
-そのため、家電量販店にも修理受付窓口が存在します。&lt;/p&gt;
-&lt;p&gt;僕の場合はヤマダ電機で購入しているので、スマホアプリでログインしようとしましたが、&lt;br&gt;
-メールアドレスとパスワードがわからず出来ませんでした。&lt;br&gt;
-電話問い合わせをして、パスワードリセットのメールを送ってもらいましたが、&lt;br&gt;
-hotmailのアドレスにはなぜか届きませんでした。&lt;br&gt;
-電話口でメールアドレス登録を変更してもらい、ようやく再設定メールが到着。&lt;br&gt;
-アプリにログインできました。&lt;/p&gt;
-&lt;p&gt;ヤマダ電機のスマホアプリには、「電子保証書」という機能があります。&lt;br&gt;
-本来なら商品の入っていた箱や取説についている保証書を、電子化して保管しておいてくれる機能です。&lt;br&gt;
-この機能で、購入したときのレシート番号や購入日を調べることができます。&lt;br&gt;
-ヤマダ電機の修理受付に申し込むには、このレシート番号が必要です。&lt;/p&gt;
-&lt;p&gt;レシート番号・商品型番などを伝えて、ヤマダ電機の修理受付に申し込むことができました。&lt;br&gt;
-実はこの後、ヤマダ電機からメーカーに修理依頼が飛び、その際にすでにメーカーサイトでも申し込んでることがバレました。&lt;br&gt;
-「もしかしたらヤマダ電機さんに依頼したら、1/4よりも早く来てくれるかと思って…」&lt;br&gt;
-と言ったら、うまいこと手続きをすすめてくださることになりました。&lt;/p&gt;
-&lt;p&gt;翌朝、シャープ修理受付センターからお電話があり、1/4訪問の受付完了の旨と、&lt;br&gt;
-改めて修理費の確認がありました。&lt;br&gt;
-その際、ダメ元で「1/4より早くって無理なんですよね…？」と言ってみたところ、&lt;br&gt;
-「特別枠というものがありまして、12/30または1/2でしたら訪問可能です」と言ってもらえたので、狂喜乱舞してお願いしました。&lt;br&gt;
-WEB申し込みで終わらせないで本当に良かった…！！
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;ol start=&#34;4&#34;&gt;
-&lt;li&gt;人生がときめかないものに別れを告げる&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;僕の住んでいる地域は、12/29の朝が燃えるゴミの日でした。&lt;br&gt;
-ですから28日の夜であるこの時点で、冷蔵庫・冷凍庫の中身を処分するのであればごみにまとめる必要があります。&lt;/p&gt;
-&lt;p&gt;あの常温ゆるゆる餃子も、ふるさと納税でもらったけど美味しくなくて食べてなかったハンバーグも、&lt;br&gt;
-冷蔵庫に入ってたわけじゃないけど賞味期限が切れていたものも全部、いい機会だし処分しました。&lt;br&gt;
-こんな悲しいことが起きたんだから、この食材処分が僕なりの大掃除だと思うことにして、思いっきり捨てました。&lt;/p&gt;
-&lt;p&gt;冷蔵庫が壊れた時、修理してもらえるまでに時間がかかることが多いと思います。&lt;br&gt;
-時期にもよりますが、中に入っているものは急いで食べるか、諦めて捨てるかの判断が必要です。&lt;br&gt;
-次の燃えるごみの日を逃さないように（修理作業するにも、最悪買い替えるにも、中身はないほうがいいから）しましょう。
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;h2 id=&#34;圧縮機部品交換12980&#34;&gt;圧縮機部品交換：￥12,980&lt;/h2&gt;
-&lt;p&gt;意外と安い金額で収まってよかったです。2万超えてたら買い替えも視野に入っていたのですが、そうするとまたいつ届くんだという問題もありましたので。
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;h2 id=&#34;今後何に気を付ければいい&#34;&gt;今後何に気を付ければいい？&lt;/h2&gt;
-&lt;p&gt;修理してくださった作業員さんに「どうしたら今回みたいなことにならないですか？」としらばっくれて聞いてみました。&lt;br&gt;
-「冷蔵庫は本体外側を使って放熱しているので、壁などに密着させないことですね」と言われました。&lt;br&gt;
-自力で直せないかなと思った時に少しスペースを空けていたのですが、恐らく床についた跡でバレていたんだと思います。
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;h2 id=&#34;振り返ってみて本当に必要だったこと&#34;&gt;振り返ってみて、本当に必要だったこと&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;家電を買うときにちゃんとレシートを保管する&amp;amp;後で調べられるようにしておく&lt;/li&gt;
-&lt;li&gt;電話で修理受付をしてくれる、家電量販店にまずは連絡してみる&lt;/li&gt;
-&lt;li&gt;ダメになった食材をタイミング逃さず処分する&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;自力で直そうとしても直るもんじゃないんだなというのがよくわかりました。&lt;br&gt;
-あと、冷蔵庫を壁に密着させない。設置サービスの人が置いた場所から動かそうと思わないほうがいいですね。&lt;br&gt;
-1万円ちょっとで助かったので、本当によかったです。シャープさん、ヤマダ電機さんのおかげで無事に年を越せました。&lt;br&gt;
-サンキューフォーザピーポー。大事に使います。&lt;/p&gt;
-&lt;p&gt;おわり&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
-        </item>
-        <item>
-        <title>2020年に買ったものまとめ</title>
-        <link>https://blog.honestdesireinc.com/p/2020%E5%B9%B4%E3%81%AB%E8%B2%B7%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE%E3%81%BE%E3%81%A8%E3%82%81/</link>
-        <pubDate>Thu, 31 Dec 2020 17:43:55 +0900</pubDate>
-        
-        <guid>https://blog.honestdesireinc.com/p/2020%E5%B9%B4%E3%81%AB%E8%B2%B7%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE%E3%81%BE%E3%81%A8%E3%82%81/</guid>
-        <description>&lt;p&gt;&lt;img src=&#34;https://instagram.fkix2-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/134755923_453948535613620_5537288735716230456_n.jpg?_nc_ht=instagram.fkix2-1.fna.fbcdn.net&amp;amp;_nc_cat=104&amp;amp;_nc_ohc=Q9uhidh8UnsAX-wZ0kC&amp;amp;tp=1&amp;amp;oh=c38658e6d4f89385b5fca3be78c003b3&amp;amp;oe=6016145A&#34; alt=&#34;2020年の僕・あなたたち&#34;  /&gt; 
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;今日は新しい冷蔵庫と洗濯機が来る！&lt;/p&gt;&amp;mdash; 右ねじの法則 (@Rightscrew) &lt;a href=&#34;https://twitter.com/Rightscrew/status/1174814557576916992?ref_src=twsrc%5Etfw&#34;&gt;September 19, 2019&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;</description>
+    </item>
+    
+    <item>
+      <title>2020年に買ったものまとめ</title>
+      <link>https://blog.honestdesireinc.com/post/2020-12-31-2020summery/</link>
+      <pubDate>Thu, 31 Dec 2020 17:43:55 +0900</pubDate>
+      
+      <guid>https://blog.honestdesireinc.com/post/2020-12-31-2020summery/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://instagram.fkix2-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/134755923_453948535613620_5537288735716230456_n.jpg?_nc_ht=instagram.fkix2-1.fna.fbcdn.net&amp;amp;_nc_cat=104&amp;amp;_nc_ohc=Q9uhidh8UnsAX-wZ0kC&amp;amp;tp=1&amp;amp;oh=c38658e6d4f89385b5fca3be78c003b3&amp;amp;oe=6016145A&#34; alt=&#34;2020年の僕・あなたたち&#34;&gt; 
 右ねじです。&lt;br&gt;
 2020年、旅行に行けなかったかわりに、ガジェットを買って経済を回しまくったところ、&lt;br&gt;
-例年より100万円以上貯金が増えました。仕事しすぎ。&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h2 id=&#34;自作パソコン&#34;&gt;自作パソコン&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;マザーボード ASRock Fatal1ty B450 Gaming-ITX/ac&lt;/li&gt;
-&lt;li&gt;グラフィックボード ZOTAC GeForce GTX 1650 OC&lt;/li&gt;
-&lt;li&gt;メモリ CFD DDR4-3200 16GB×2&lt;/li&gt;
-&lt;li&gt;SSD WESTERN DIGITAL Black SN750 NVMe WDS500G3X0C&lt;/li&gt;
-&lt;li&gt;キーボード&amp;amp;マウス Logicool K260&lt;/li&gt;
-&lt;li&gt;PCケース RIJINTEK METIS PLUS&lt;/li&gt;
-&lt;li&gt;外付けHDD BUFFALO HD-TPA2U3-B&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;ある程度時代進んだのであと少し。やりたいのは&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;CPU：Ryzen 5 1600 → Ryzen 5 5600X&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;あんまり重いゲームはやらないので、GPUはこれでも十分なんですよね…なのでSFX電源にしたり、グラボを変える必要はないかなと思っています。
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ノートパソコン&#34;&gt;ノートパソコン&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;DELL Inspiron 14 5405(AMD)&lt;/li&gt;
-&lt;li&gt;マウス DELL MS5320W&lt;/li&gt;
-&lt;li&gt;メモリ Crucial S.O.DIMM DDR4-3200 8GB×2&lt;/li&gt;
-&lt;li&gt;モニター DELL P2419HC 一度壊したので×2&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;個人的に今年のMVP級に良かったのは、USB Type-C対応のモニターでした。
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;h2 id=&#34;機材関係&#34;&gt;機材関係&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;ボイチェン Roland VT-4&lt;/li&gt;
-&lt;li&gt;マルチトラックレコーダー ZOOM MRS-4B&lt;/li&gt;
-&lt;li&gt;HDMIキャプチャーボード Elgato Game Capture HD60 S&lt;/li&gt;
-&lt;li&gt;オーディオインターフェース Creative SOUND BLASTER G3&lt;/li&gt;
-&lt;li&gt;コンデンサーマイク&amp;amp;マイクスタンド&lt;/li&gt;
-&lt;li&gt;Bluetoothスピーカー ANKER SoundCore 2&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;それと、友達とゲームやるときにヘッドセットするのが嫌でマイク&amp;amp;スタンドを買ったんだけど、コンデンサーマイクってカラオケとかで使うやつなので、感度がめっちゃ低かった。アンプ通すかミキサーで増幅させないと聞こえない感じだったので、ハードオフでMTRを買ってリカバリーしました。
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;h2 id=&#34;家具類&#34;&gt;家具類&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;ビーズクッション Yogibo MAX&lt;/li&gt;
-&lt;li&gt;ベッドマットレス 無印良品&lt;/li&gt;
-&lt;li&gt;ゲーミングチェア GTRACING&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h2 id=&#34;ふるさと納税&#34;&gt;ふるさと納税&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;北海道千歳市
-&lt;ul&gt;
-&lt;li&gt;にくやまハムギフトセットＢ&lt;/li&gt;
-&lt;li&gt;キリンのどごし＜生＞ ＜北海道千歳工場産＞350ml（24本）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;北海道白糠町
-&lt;ul&gt;
-&lt;li&gt;エンペラーサーモン【1kg】&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;長野県富士見町
-&lt;ul&gt;
-&lt;li&gt;野菜一日これ一本（２４本入り） ×2&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;福岡県新宮町
-&lt;ul&gt;
-&lt;li&gt;どーんと3kg!デミ＆チーズハンバーグセット【150g×20個】&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;熊本県長洲町
-&lt;ul&gt;
-&lt;li&gt;赤身馬刺し500g以上【純国産熊本肥育】 たっぷり500g以上 約100g前後×5ブロック(タレ5ml×10袋)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;上から、〇△◎◎×△でした。
-〇以上のやつは来年もまた頼みたい。
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;h2 id=&#34;来年は何が欲しいか&#34;&gt;来年は何が欲しいか&lt;/h2&gt;
-&lt;p&gt;もしも2021年、相変わらずおおっぴらに旅行行けない感じだったら欲しいのはこれ。&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;一人暮らし始めた時に、実家の祖母が使ってたのをもらってきた電子レンジ・炊飯器。正直そんなに米食べないから、炊飯より圧力鍋としての機能が充実してるのが欲しい。&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
-        </item>
-        <item>
-        <title>blog.honestdesireinc.com爆誕</title>
-        <link>https://blog.honestdesireinc.com/p/blog.honestdesireinc.com%E7%88%86%E8%AA%95/</link>
-        <pubDate>Fri, 25 Dec 2020 17:11:09 +0900</pubDate>
-        
-        <guid>https://blog.honestdesireinc.com/p/blog.honestdesireinc.com%E7%88%86%E8%AA%95/</guid>
-        <description>&lt;h3 id=&#34;ほねでざいん&#34;&gt;ほねでざいん&lt;/h3&gt;
+例年より100万円以上貯金が増えました。仕事しすぎ。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>blog.honestdesireinc.com爆誕</title>
+      <link>https://blog.honestdesireinc.com/post/2020-12-25-honestdesireinc/</link>
+      <pubDate>Fri, 25 Dec 2020 17:11:09 +0900</pubDate>
+      
+      <guid>https://blog.honestdesireinc.com/post/2020-12-25-honestdesireinc/</guid>
+      <description>&lt;h3 id=&#34;ほねでざいん&#34;&gt;ほねでざいん&lt;/h3&gt;
 &lt;h2 id=&#34;ほねでざいん-1&#34;&gt;ほねでざいん&lt;/h2&gt;
 &lt;h1 id=&#34;ほねでざいん-2&#34;&gt;ほねでざいん&lt;/h1&gt;
 &lt;p&gt;なんとなくGithub Pagesでブログを作ってみた&lt;/p&gt;
@@ -358,398 +73,98 @@ WEB申し込みで終わらせないで本当に良かった…！！
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;とりあえずやってみようの精神&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/130211672_743560009587439_4515971491348063501_n.jpg?_nc_ht=scontent-lax3-2.cdninstagram.com&amp;amp;_nc_cat=107&amp;amp;_nc_ohc=Eh4WSBCVu-YAX9es8M9&amp;amp;tp=1&amp;amp;oh=c2239dcede266efb5bbfd0c0faf5bf8c&amp;amp;oe=600F5F9E&#34; alt=&#34;dell&#34;  /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://scontent-nrt1-1.cdninstagram.com/v/t51.2885-15/e35/129761545_1272499239783434_6877526869706709404_n.jpg?_nc_ht=scontent-nrt1-1.cdninstagram.com&amp;amp;_nc_cat=102&amp;amp;_nc_ohc=VMgjehlFnI4AX93IY7L&amp;amp;tp=1&amp;amp;oh=c92b289c2d5c4858143e6c075538b5f9&amp;amp;oe=60114939&#34; alt=&#34;second&#34;  /&gt;&lt;/p&gt;</description>
-        </item>
-        <item>
-        <title>Chinese Test</title>
-        <link>https://blog.honestdesireinc.com/p/test-chinese/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.honestdesireinc.com/p/test-chinese/</guid>
-        <description>&lt;img src="https://blog.honestdesireinc.com/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试&lt;/h2&gt;
-&lt;p&gt;而这些并不是完全重要，更加重要的问题是， 带着这些问题，我们来审视一下学生会退会。 既然如何， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 我们不得不面对一个非常尴尬的事实，那就是， 可是，即使是这样，学生会退会的出现仍然代表了一定的意义。 学生会退会，发生了会如何，不发生又会如何。 经过上述讨论， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 学生会退会，到底应该如何实现。 这样看来， 在这种困难的抉择下，本人思来想去，寝食难安。 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 就我个人来说，学生会退会对我的意义，不能不说非常重大。 莎士比亚曾经提到过，人的一生是短的，但如果卑劣地过这一生，就太长了。这似乎解答了我的疑惑。 莫扎特说过一句富有哲理的话，谁和我一样用功，谁就会和我一样成功。这启发了我， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 学生会退会，到底应该如何实现。 一般来说， 从这个角度来看， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 在这种困难的抉择下，本人思来想去，寝食难安。 了解清楚学生会退会到底是一种怎么样的存在，是解决一切问题的关键。 一般来说， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 问题的关键究竟为何？ 而这些并不是完全重要，更加重要的问题是。&lt;/p&gt;
-&lt;p&gt;奥斯特洛夫斯基曾经说过，共同的事业，共同的斗争，可以使人们产生忍受一切的力量。　带着这句话，我们还要更加慎重的审视这个问题： 一般来讲，我们都必须务必慎重的考虑考虑。 既然如此， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 带着这些问题，我们来审视一下学生会退会。 我认为， 我认为， 在这种困难的抉择下，本人思来想去，寝食难安。 问题的关键究竟为何？ 每个人都不得不面对这些问题。 在面对这种问题时， 要想清楚，学生会退会，到底是一种怎么样的存在。 我认为， 既然如此， 每个人都不得不面对这些问题。 在面对这种问题时， 那么， 我认为， 学生会退会因何而发生。&lt;/p&gt;
-&lt;h2 id=&#34;引用&#34;&gt;引用&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;思念是最暖的忧伤像一双翅膀&lt;br&gt;
-让我停不了飞不远在过往游荡&lt;br&gt;
-不告而别的你 就算为了我着想&lt;br&gt;
-这么沉痛的呵护 我怎么能翱翔&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=3aypp_YlBzI&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;最暖的憂傷 - 田馥甄&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;图片&#34;&gt;图片&lt;/h2&gt;
-&lt;p&gt;&lt;figure style=&#34;flex-grow: 66; flex-basis: 160px&#34;&gt;
-		&lt;a href=&#34;https://blog.honestdesireinc.com/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash.jpg&#34; data-size=&#34;667x1000&#34;&gt;&lt;img src=&#34;https://blog.honestdesireinc.com/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash.jpg&#34;
-				srcset=&#34;https://blog.honestdesireinc.com/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu595aaf3b3dbbb41af5aed8d3958cc9f9_13854_480x0_resize_q75_box.jpg 480w, https://blog.honestdesireinc.com/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu595aaf3b3dbbb41af5aed8d3958cc9f9_13854_1024x0_resize_q75_box.jpg 1024w&#34;
-				width=&#34;667&#34;
-				height=&#34;1000&#34;
-				loading=&#34;lazy&#34;
-				alt=&#34;Photo by Florian Klauer on Unsplash&#34;&gt;
-		&lt;/a&gt;
-		
-		&lt;figcaption&gt;Photo by Florian Klauer on Unsplash&lt;/figcaption&gt;
-		
-	&lt;/figure&gt;  &lt;figure style=&#34;flex-grow: 149; flex-basis: 359px&#34;&gt;
-		&lt;a href=&#34;https://blog.honestdesireinc.com/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg&#34; data-size=&#34;1000x667&#34;&gt;&lt;img src=&#34;https://blog.honestdesireinc.com/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg&#34;
-				srcset=&#34;https://blog.honestdesireinc.com/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu0a3f1163de68d0b9471979ebf0ecf11e_32400_480x0_resize_q75_box.jpg 480w, https://blog.honestdesireinc.com/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu0a3f1163de68d0b9471979ebf0ecf11e_32400_1024x0_resize_q75_box.jpg 1024w&#34;
-				width=&#34;1000&#34;
-				height=&#34;667&#34;
-				loading=&#34;lazy&#34;
-				alt=&#34;Photo by Luca Bravo on Unsplash&#34;&gt;
-		&lt;/a&gt;
-		
-		&lt;figcaption&gt;Photo by Luca Bravo on Unsplash&lt;/figcaption&gt;
-		
-	&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;figure style=&#34;flex-grow: 133; flex-basis: 320px&#34;&gt;
-		&lt;a href=&#34;https://blog.honestdesireinc.com/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg&#34; data-size=&#34;1000x750&#34;&gt;&lt;img src=&#34;https://blog.honestdesireinc.com/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg&#34;
-				srcset=&#34;https://blog.honestdesireinc.com/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu45a5e3ad5e058da6a00650ed8fd40bea_15530_480x0_resize_q75_box.jpg 480w, https://blog.honestdesireinc.com/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu45a5e3ad5e058da6a00650ed8fd40bea_15530_1024x0_resize_q75_box.jpg 1024w&#34;
-				width=&#34;1000&#34;
-				height=&#34;750&#34;
-				loading=&#34;lazy&#34;
-				alt=&#34;Photo by Helena Hertz on Unsplash&#34;&gt;
-		&lt;/a&gt;
-		
-		&lt;figcaption&gt;Photo by Helena Hertz on Unsplash&lt;/figcaption&gt;
-		
-	&lt;/figure&gt;  &lt;figure style=&#34;flex-grow: 66; flex-basis: 160px&#34;&gt;
-		&lt;a href=&#34;https://blog.honestdesireinc.com/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&#34; data-size=&#34;667x1000&#34;&gt;&lt;img src=&#34;https://blog.honestdesireinc.com/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&#34;
-				srcset=&#34;https://blog.honestdesireinc.com/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hub241c2a9c7a2caf7e16a2a5bbc7141ff_18711_480x0_resize_q75_box.jpg 480w, https://blog.honestdesireinc.com/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hub241c2a9c7a2caf7e16a2a5bbc7141ff_18711_1024x0_resize_q75_box.jpg 1024w&#34;
-				width=&#34;667&#34;
-				height=&#34;1000&#34;
-				loading=&#34;lazy&#34;
-				alt=&#34;Photo by Hudai Gayiran on Unsplash&#34;&gt;
-		&lt;/a&gt;
-		
-		&lt;figcaption&gt;Photo by Hudai Gayiran on Unsplash&lt;/figcaption&gt;
-		
-	&lt;/figure&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;![&lt;span class=&#34;nt&#34;&gt;Photo by Florian Klauer on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;florian-klauer-nptLmg6jqDo-unsplash.jpg&lt;/span&gt;)  ![&lt;span class=&#34;nt&#34;&gt;Photo by Luca Bravo on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;luca-bravo-alS7ewQ41M8-unsplash.jpg&lt;/span&gt;) 
-
-![&lt;span class=&#34;nt&#34;&gt;Photo by Helena Hertz on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;helena-hertz-wWZzXlDpMog-unsplash.jpg&lt;/span&gt;)  ![&lt;span class=&#34;nt&#34;&gt;Photo by Hudai Gayiran on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&lt;/span&gt;)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;相册语法来自 &lt;a class=&#34;link&#34; href=&#34;https://typlog.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Typlog&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Markdown Syntax Guide</title>
-        <link>https://blog.honestdesireinc.com/p/markdown-syntax-guide/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.honestdesireinc.com/p/markdown-syntax-guide/</guid>
-        <description>&lt;img src="https://blog.honestdesireinc.com/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
-&lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;
-&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
-&lt;h1 id=&#34;h1&#34;&gt;H1&lt;/h1&gt;
-&lt;h2 id=&#34;h2&#34;&gt;H2&lt;/h2&gt;
-&lt;h3 id=&#34;h3&#34;&gt;H3&lt;/h3&gt;
-&lt;h4 id=&#34;h4&#34;&gt;H4&lt;/h4&gt;
-&lt;h5 id=&#34;h5&#34;&gt;H5&lt;/h5&gt;
-&lt;h6 id=&#34;h6&#34;&gt;H6&lt;/h6&gt;
-&lt;h2 id=&#34;paragraph&#34;&gt;Paragraph&lt;/h2&gt;
-&lt;p&gt;Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p&gt;
-&lt;p&gt;Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.&lt;/p&gt;
-&lt;h2 id=&#34;blockquotes&#34;&gt;Blockquotes&lt;/h2&gt;
-&lt;p&gt;The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a &lt;code&gt;footer&lt;/code&gt; or &lt;code&gt;cite&lt;/code&gt; element, and optionally with in-line changes such as annotations and abbreviations.&lt;/p&gt;
-&lt;h4 id=&#34;blockquote-without-attribution&#34;&gt;Blockquote without attribution&lt;/h4&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-&lt;strong&gt;Note&lt;/strong&gt; that you can use &lt;em&gt;Markdown syntax&lt;/em&gt; within a blockquote.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h4 id=&#34;blockquote-with-attribution&#34;&gt;Blockquote with attribution&lt;/h4&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.&lt;!-- raw HTML omitted --&gt;
-— &lt;!-- raw HTML omitted --&gt;Rob Pike&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;tables&#34;&gt;Tables&lt;/h2&gt;
-&lt;p&gt;Tables aren&amp;rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Name&lt;/th&gt;
-&lt;th&gt;Age&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Bob&lt;/td&gt;
-&lt;td&gt;27&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Alice&lt;/td&gt;
-&lt;td&gt;23&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4 id=&#34;inline-markdown-within-tables&#34;&gt;Inline Markdown within tables&lt;/h4&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Italics&lt;/th&gt;
-&lt;th&gt;Bold&lt;/th&gt;
-&lt;th&gt;Code&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;em&gt;italics&lt;/em&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;bold&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;code&lt;/code&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;code-blocks&#34;&gt;Code Blocks&lt;/h2&gt;
-&lt;h4 id=&#34;code-block-with-backticks&#34;&gt;Code block with backticks&lt;/h4&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&amp;lt;!doctype html&amp;gt;&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;lang&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;charset&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Example HTML5 Document&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Test&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;code-block-indented-with-four-spaces&#34;&gt;Code block indented with four spaces&lt;/h4&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;!doctype html&amp;gt;
-&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
-&amp;lt;head&amp;gt;
-  &amp;lt;meta charset=&amp;quot;utf-8&amp;quot;&amp;gt;
-  &amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt;
-&amp;lt;/head&amp;gt;
-&amp;lt;body&amp;gt;
-  &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt;
-&amp;lt;/body&amp;gt;
-&amp;lt;/html&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h4 id=&#34;code-block-with-hugos-internal-highlight-shortcode&#34;&gt;Code block with Hugo&amp;rsquo;s internal highlight shortcode&lt;/h4&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&amp;lt;!doctype html&amp;gt;&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;lang&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;charset&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Example HTML5 Document&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Test&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2 id=&#34;list-types&#34;&gt;List Types&lt;/h2&gt;
-&lt;h4 id=&#34;ordered-list&#34;&gt;Ordered List&lt;/h4&gt;
-&lt;ol&gt;
-&lt;li&gt;First item&lt;/li&gt;
-&lt;li&gt;Second item&lt;/li&gt;
-&lt;li&gt;Third item&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&#34;unordered-list&#34;&gt;Unordered List&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;List item&lt;/li&gt;
-&lt;li&gt;Another item&lt;/li&gt;
-&lt;li&gt;And another item&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;nested-list&#34;&gt;Nested list&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Fruit
-&lt;ul&gt;
-&lt;li&gt;Apple&lt;/li&gt;
-&lt;li&gt;Orange&lt;/li&gt;
-&lt;li&gt;Banana&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Dairy
-&lt;ul&gt;
-&lt;li&gt;Milk&lt;/li&gt;
-&lt;li&gt;Cheese&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;other-elements--abbr-sub-sup-kbd-mark&#34;&gt;Other Elements — abbr, sub, sup, kbd, mark&lt;/h2&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;GIF&lt;!-- raw HTML omitted --&gt; is a bitmap image format.&lt;/p&gt;
-&lt;p&gt;H&lt;!-- raw HTML omitted --&gt;2&lt;!-- raw HTML omitted --&gt;O&lt;/p&gt;
-&lt;p&gt;X&lt;!-- raw HTML omitted --&gt;n&lt;!-- raw HTML omitted --&gt; + Y&lt;!-- raw HTML omitted --&gt;n&lt;!-- raw HTML omitted --&gt; = Z&lt;!-- raw HTML omitted --&gt;n&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;Press &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;CTRL&lt;!-- raw HTML omitted --&gt;+&lt;!-- raw HTML omitted --&gt;ALT&lt;!-- raw HTML omitted --&gt;+&lt;!-- raw HTML omitted --&gt;Delete&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; to end the session.&lt;/p&gt;
-&lt;p&gt;Most &lt;!-- raw HTML omitted --&gt;salamanders&lt;!-- raw HTML omitted --&gt; are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=PAAkCSZUG1c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;talk&lt;/a&gt; during Gopherfest, November 18, 2015. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;</description>
-        </item>
-        <item>
-        <title>Rich Content</title>
-        <link>https://blog.honestdesireinc.com/p/rich-content/</link>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.honestdesireinc.com/p/rich-content/</guid>
-        <description>&lt;p&gt;Hugo ships with several &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;youtube-privacy-enhanced-shortcode&#34;&gt;YouTube Privacy Enhanced Shortcode&lt;/h2&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe loading=&#34;lazy&#34; src=&#34;https://www.youtube.com/embed/ZJthWmvUzzc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;!-- raw HTML omitted --&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;twitter-simple-shortcode&#34;&gt;Twitter Simple Shortcode&lt;/h2&gt;
-
-
-
-
-&lt;style type=&#34;text/css&#34;&gt;
-  .twitter-tweet {
-  font: 14px/1.45 -apple-system,BlinkMacSystemFont,&#34;Segoe UI&#34;,Roboto,Oxygen-Sans,Ubuntu,Cantarell,&#34;Helvetica Neue&#34;,sans-serif;
-  border-left: 4px solid #2b7bb9;
-  padding-left: 1.5em;
-  color: #555;
-}
-  .twitter-tweet a {
-  color: #2b7bb9;
-  text-decoration: none;
-}
-  blockquote.twitter-tweet a:hover,
-  blockquote.twitter-tweet a:focus {
-  text-decoration: underline;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;“In addition to being more logical, asymmetry has the advantage that its complete appearance is far more optically effective than symmetry.”&lt;br&gt;— Jan Tschichold &lt;a href=&#34;https://t.co/gcv7SrhvJb&#34;&gt;pic.twitter.com/gcv7SrhvJb&lt;/a&gt;&lt;/p&gt;&amp;mdash; Graphic Design History (@DesignReviewed) &lt;a href=&#34;https://twitter.com/DesignReviewed/status/1085870671291310081?ref_src=twsrc%5Etfw&#34;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;!-- raw HTML omitted --&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;vimeo-simple-shortcode&#34;&gt;Vimeo Simple Shortcode&lt;/h2&gt;
-
-
-
-
-
-
-&lt;style&gt;
-.__h_video {
-   position: relative;
-   padding-bottom: 56.23%;
-   height: 0;
-   overflow: hidden;
-   width: 100%;
-   background: #000;
-}
-.__h_video img {
-   width: 100%;
-   height: auto;
-   color: #000;
-}
-.__h_video .play {
-   height: 72px;
-   width: 72px;
-   left: 50%;
-   top: 50%;
-   margin-left: -36px;
-   margin-top: -36px;
-   position: absolute;
-   cursor: pointer;
-}
-&lt;/style&gt;
-
-
-&lt;div class=&#34;s_video_simple __h_video&#34;&gt;
-&lt;a href=&#34;https://vimeo.com/4.8912912e&amp;#43;07&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;
-
-
-&lt;img src=&#34;https://i.vimeocdn.com/video/337401969_640.jpg&#34; srcset=&#34;https://i.vimeocdn.com/video/337401969_640.jpg 1x, https://i.vimeocdn.com/video/337401969.jpg 2x&#34; alt=&#34;Sing Jan Swing - Kinetic Type&#34;&gt;
-&lt;div class=&#34;play&#34;&gt;&lt;svg version=&#34;1&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 61 61&#34;&gt;&lt;circle cx=&#34;30.5&#34; cy=&#34;30.5&#34; r=&#34;30.5&#34; opacity=&#34;.8&#34; fill=&#34;#000&#34;&gt;&lt;/circle&gt;&lt;path d=&#34;M25.3 19.2c-2.1-1.2-3.8-.2-3.8 2.2v18.1c0 2.4 1.7 3.4 3.8 2.2l16.6-9.1c2.1-1.2 2.1-3.2 0-4.4l-16.6-9z&#34; fill=&#34;#fff&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;</description>
-        </item>
-        <item>
-        <title>Placeholder Text</title>
-        <link>https://blog.honestdesireinc.com/p/placeholder-text/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.honestdesireinc.com/p/placeholder-text/</guid>
-        <description>&lt;img src="https://blog.honestdesireinc.com/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
-&lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;
-&lt;li&gt;Duce pollice&lt;/li&gt;
-&lt;li&gt;Eris modo&lt;/li&gt;
-&lt;li&gt;Spargitque ferrea quos palude&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Comas hunc haec pietate fetum procerum dixit&lt;/li&gt;
-&lt;li&gt;Post torum vates letum Tiresia&lt;/li&gt;
-&lt;li&gt;Flumen querellas&lt;/li&gt;
-&lt;li&gt;Arcanaque montibus omnes&lt;/li&gt;
-&lt;li&gt;Quidem et&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1 id=&#34;vagus-elidunt&#34;&gt;Vagus elidunt&lt;/h1&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;The Van de Graaf Canon&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;mane-refeci-capiebant-unda-mulcebat&#34;&gt;Mane refeci capiebant unda mulcebat&lt;/h2&gt;
-&lt;p&gt;Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. &lt;strong&gt;Faces illo pepulere&lt;/strong&gt; tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.&lt;/p&gt;
-&lt;p&gt;Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.&lt;/p&gt;
-&lt;p&gt;Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel &lt;strong&gt;mitis temploque&lt;/strong&gt; vocatus, inque alis, &lt;em&gt;oculos nomen&lt;/em&gt; non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides &lt;strong&gt;parte&lt;/strong&gt;.&lt;/p&gt;</description>
-        </item>
-        <item>
-        <title>Math Typesetting</title>
-        <link>https://blog.honestdesireinc.com/p/math-typesetting/</link>
-        <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.honestdesireinc.com/p/math-typesetting/</guid>
-        <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
-&lt;p&gt;In this example we will be using &lt;a class=&#34;link&#34; href=&#34;https://katex.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;KaTeX&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Create a partial under &lt;code&gt;/layouts/partials/math.html&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Within this partial reference the &lt;a class=&#34;link&#34; href=&#34;https://katex.org/docs/autorender.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Auto-render Extension&lt;/a&gt; or host these scripts locally.&lt;/li&gt;
-&lt;li&gt;Include the partial in your templates like so:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; or .Params.math .Site.Params.math &lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
-&lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt; partial &lt;span class=&#34;s2&#34;&gt;&amp;#34;math.html&amp;#34;&lt;/span&gt; . &lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
-&lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt; end &lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
-&lt;li&gt;To enable KaTex globally set the parameter &lt;code&gt;math&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in a project&amp;rsquo;s configuration&lt;/li&gt;
-&lt;li&gt;To enable KaTex on a per page basis include the parameter &lt;code&gt;math: true&lt;/code&gt; in content files&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Use the online reference of &lt;a class=&#34;link&#34; href=&#34;https://katex.org/docs/supported.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Supported TeX Functions&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;examples&#34;&gt;Examples&lt;/h3&gt;
-
-&lt;p&gt;Block math:
-$$
-\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
-$$&lt;/p&gt;</description>
-        </item>
-        <item>
-        <title>Emoji Support</title>
-        <link>https://blog.honestdesireinc.com/p/emoji-support/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.honestdesireinc.com/p/emoji-support/</guid>
-        <description>&lt;img src="https://blog.honestdesireinc.com/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
-&lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;To enable emoji globally, set &lt;code&gt;enableEmoji&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in your site&amp;rsquo;s &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/getting-started/configuration/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;configuration&lt;/a&gt; and then you can type emoji shorthand codes directly in content files; e.g.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;http://www.emoji-cheat-sheet.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Emoji cheat sheet&lt;/a&gt; is a useful reference for emoji shorthand codes.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;N.B.&lt;/strong&gt; The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;.emoji {
-  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-        </item>
-        
-    </channel>
+&lt;p&gt;とりあえずやってみようの精神&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chinese Test</title>
+      <link>https://blog.honestdesireinc.com/post/test-chinese/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.honestdesireinc.com/post/test-chinese/</guid>
+      <description>正文测试 而这些并不是完全重要，更加重要的问题是， 带着这些问题，我们来审视一下学生会退会。 既然如何， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 我们不得不面对一个非常尴尬的事实，那就是， 可是，即使是这样，学生会退会的出现仍然代表了一定的意义。 学生会退会，发生了会如何，不发生又会如何。 经过上述讨论， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 学生会退会，到底应该如何实现。 这样看来， 在这种困难的抉择下，本人思来想去，寝食难安。 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 就我个人来说，学生会退会对我的意义，不能不说非常重大。 莎士比亚曾经提到过，人的一生是短的，但如果卑劣地过这一生，就太长了。这似乎解答了我的疑惑。 莫扎特说过一句富有哲理的话，谁和我一样用功，谁就会和我一样成功。这启发了我， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 学生会退会，到底应该如何实现。 一般来说， 从这个角度来看， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 在这种困难的抉择下，本人思来想去，寝食难安。 了解清楚学生会退会到底是一种怎么样的存在，是解决一切问题的关键。 一般来说， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 问题的关键究竟为何？ 而这些并不是完全重要，更加重要的问题是。
+奥斯特洛夫斯基曾经说过，共同的事业，共同的斗争，可以使人们产生忍受一切的力量。　带着这句话，我们还要更加慎重的审视这个问题： 一般来讲，我们都必须务必慎重的考虑考虑。 既然如此， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 带着这些问题，我们来审视一下学生会退会。 我认为， 我认为， 在这种困难的抉择下，本人思来想去，寝食难安。 问题的关键究竟为何？ 每个人都不得不面对这些问题。 在面对这种问题时， 要想清楚，学生会退会，到底是一种怎么样的存在。 我认为， 既然如此， 每个人都不得不面对这些问题。 在面对这种问题时， 那么， 我认为， 学生会退会因何而发生。
+引用  思念是最暖的忧伤像一双翅膀
+让我停不了飞不远在过往游荡
+不告而别的你 就算为了我着想
+这么沉痛的呵护 我怎么能翱翔
+最暖的憂傷 - 田馥甄
+ 图片 ![Photo by Florian Klauer on Unsplash](florian-klauer-nptLmg6jqDo-unsplash.jpg) ![Photo by Luca Bravo on Unsplash](luca-bravo-alS7ewQ41M8-unsplash.</description>
+    </item>
+    
+    <item>
+      <title>Archives</title>
+      <link>https://blog.honestdesireinc.com/page/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.honestdesireinc.com/page/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://blog.honestdesireinc.com/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.honestdesireinc.com/post/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://blog.honestdesireinc.com/post/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.honestdesireinc.com/post/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://blog.honestdesireinc.com/post/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.honestdesireinc.com/post/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://blog.honestdesireinc.com/post/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.honestdesireinc.com/post/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://blog.honestdesireinc.com/post/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.honestdesireinc.com/post/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://blog.honestdesireinc.com/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.honestdesireinc.com/page/about/</guid>
+      <description>My name is Inigo Montoya. I have the following qualities:
+ I rock a great mustache I&amp;rsquo;m extremely loyal to my family  What else do you need?
+my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://blog.honestdesireinc.com/page/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.honestdesireinc.com/page/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
 </rss>

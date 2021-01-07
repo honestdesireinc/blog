@@ -1,38 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on くろしろ -苦労は買ってでもしろ-</title>
+    <title>Pages on くろしろ</title>
     <link>https://blog.honestdesireinc.com/page/</link>
-    <description>Recent content in Pages on くろしろ -苦労は買ってでもしろ-</description>
+    <description>Recent content in Pages on くろしろ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
     <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.honestdesireinc.com/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archives</title>
-      <link>https://blog.honestdesireinc.com/archives/</link>
+      <link>https://blog.honestdesireinc.com/page/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.honestdesireinc.com/archives/</guid>
+      <guid>https://blog.honestdesireinc.com/page/archives/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://blog.honestdesireinc.com/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <title>About me</title>
+      <link>https://blog.honestdesireinc.com/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.honestdesireinc.com/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
+      <guid>https://blog.honestdesireinc.com/page/about/</guid>
+      <description>My name is Inigo Montoya. I have the following qualities:
+ I rock a great mustache I&amp;rsquo;m extremely loyal to my family  What else do you need?
+my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://blog.honestdesireinc.com/search/</link>
+      <link>https://blog.honestdesireinc.com/page/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.honestdesireinc.com/search/</guid>
+      <guid>https://blog.honestdesireinc.com/page/search/</guid>
       <description></description>
     </item>
     
