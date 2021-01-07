@@ -24,4 +24,4 @@ git commit -m "$msg"
 # Push source and build repos.
 git push origin master
 
-cp -r ./public ../honestdesireinc.github.io/
+cp -r E:\github_pages\blog\public E:\github_pages\honestdesireinc.github.io
