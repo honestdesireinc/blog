@@ -1,0 +1,14 @@
+{{ with $.Param "contact" }}<meta name="contact" content="{{ . }}">{{ end }}
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:url" content="{{ .Permalink | absLangURL }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:description" content="{{ $.Param "description" }}">
+{{ with $.Param "meta_image" }}
+<meta property="og:image" content="{{ . | absURL }}">
+<meta property="og:image:url" content="{{ . | absURL }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:app:name:iphone" content="{{ $.Site.Title }}">
+<meta property="twitter:title" content="{{ $.Param "title" }}">
+<meta property="twitter:description" content="{{ $.Param "description" }}">
+{{ end }}
