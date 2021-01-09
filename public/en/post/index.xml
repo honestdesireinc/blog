@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Posts on くろしろ</title>
+    <link>https://blog.honestdesireinc.com/en/post/</link>
+    <description>Recent content in Posts on くろしろ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
+    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 25 Dec 2020 17:11:09 +0900</lastBuildDate>
+    
+        <atom:link href="https://blog.honestdesireinc.com/en/post/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>blog.honestdesireinc.com爆誕</title>
+        <link>https://blog.honestdesireinc.com/en/post/2020-12-25-honestdesireinc/</link>
+        <pubDate>Fri, 25 Dec 2020 17:11:09 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Fri, 25 Dec 2020 17:11:09 +0900</atom:modified>
+        <guid>https://blog.honestdesireinc.com/en/post/2020-12-25-honestdesireinc/</guid>
+        <description>&lt;h3 id=&#34;ほねでざいん&#34;&gt;ほねでざいん&lt;/h3&gt;
+&lt;h2 id=&#34;ほねでざいん-1&#34;&gt;ほねでざいん&lt;/h2&gt;
+&lt;h1 id=&#34;ほねでざいん-2&#34;&gt;ほねでざいん&lt;/h1&gt;
+&lt;p&gt;なんとなくGithub Pagesでブログを作ってみた&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;メリット
+&lt;ul&gt;
+&lt;li&gt;無料&lt;/li&gt;
+&lt;li&gt;画像をインスタから持ってくる手順を覚えたから容量食わない&lt;/li&gt;
+&lt;li&gt;全体ソースが1GBまで使える&lt;/li&gt;
+&lt;li&gt;月間100万アクセスまで使える&lt;/li&gt;
+&lt;li&gt;カスタムドメインが使える&lt;/li&gt;
+&lt;li&gt;広告をつけるのもOK&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;デメリット
+&lt;ul&gt;
+&lt;li&gt;ビルド&amp;amp;Githubにアップが必要なので、どこでも記事が書けるわけじゃない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;とりあえずやってみようの精神&lt;/p&gt;</description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>githubpages</category>
+            
+          
+            
+              <category>beautifulhugo</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

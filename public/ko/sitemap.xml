@@ -3,162 +3,132 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/ko/</loc>
+    <loc>https://blog.honestdesireinc.com/ko/ko/archive/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.honestdesireinc.com/ko/ko/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/"
+                href="https://blog.honestdesireinc.com/en/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/"
+                href="https://blog.honestdesireinc.com/ko/ko/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/ko/archive/</loc>
+    <loc>https://blog.honestdesireinc.com/ko/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="https://blog.honestdesireinc.com/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/archive/"
+                href="https://blog.honestdesireinc.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/archive/"
+                href="https://blog.honestdesireinc.com/ko/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/ko/about/</loc>
+    <loc>https://blog.honestdesireinc.com/ko/ko/about/</loc>
     <lastmod>2019-10-09T11:44:14+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://example.org/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://example.org/ko/about/"
-                />
   </url>
   
   <url>
-    <loc>http://example.org/ko/gallery/</loc>
+    <loc>https://blog.honestdesireinc.com/ko/ko/gallery/photo/</loc>
     <lastmod>2018-10-12T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://example.org/en/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://example.org/ko/gallery/"
-                />
   </url>
   
   <url>
-    <loc>http://example.org/ko/gallery/photo/</loc>
-    <lastmod>2018-10-12T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://example.org/en/gallery/photo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://example.org/ko/gallery/photo/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://example.org/ko/gallery/cartoon/</loc>
+    <loc>https://blog.honestdesireinc.com/ko/ko/gallery/cartoon/</loc>
     <lastmod>2018-10-11T10:20:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.honestdesireinc.com/ko/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://blog.honestdesireinc.com/ja/categories/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/gallery/cartoon/"
+                href="https://blog.honestdesireinc.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/gallery/cartoon/"
+                href="https://blog.honestdesireinc.com/ko/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/ko/categories/</loc>
+    <loc>https://blog.honestdesireinc.com/ko/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/"
+                href="https://blog.honestdesireinc.com/en/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/categories/"
+                href="https://blog.honestdesireinc.com/ko/tags/index/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/ko/tags/index/</loc>
+    <loc>https://blog.honestdesireinc.com/ko/ko/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.honestdesireinc.com/ko/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://blog.honestdesireinc.com/ja/series/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/index/"
+                href="https://blog.honestdesireinc.com/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/tags/index/"
+                href="https://blog.honestdesireinc.com/ko/series/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/ko/posts/</loc>
+    <loc>https://blog.honestdesireinc.com/ko/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://blog.honestdesireinc.com/ja/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/"
+                href="https://blog.honestdesireinc.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://example.org/ko/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://example.org/en/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://example.org/ko/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://example.org/ko/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://example.org/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://example.org/ko/tags/"
+                href="https://blog.honestdesireinc.com/ko/tags/"
                 />
   </url>
   
