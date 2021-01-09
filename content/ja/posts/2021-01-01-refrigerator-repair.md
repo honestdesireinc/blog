@@ -12,7 +12,9 @@ toc: true
   
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今日は新しい冷蔵庫と洗濯機が来る！</p>&mdash; 右ねじの法則 (@Rightscrew) <a href="https://twitter.com/Rightscrew/status/1174814557576916992?ref_src=twsrc%5Etfw">September 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
 <!--more-->
+
 
 
 
