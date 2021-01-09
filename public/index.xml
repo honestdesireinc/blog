@@ -145,7 +145,7 @@
         
         <atom:modified>Sun, 11 Oct 2020 22:01:18 +0900</atom:modified>
         <guid>https://blog.honestdesireinc.com/posts/2020-10-11-dell-ambassador-inspiron14ryzen/</guid>
-        <description>右ねじです。新しいノートパソコンを買って、ひと月ちょっと経過しました。自慢させてください。 購入に至った経緯(と言う名の言い訳) 自分用ノートP</description>
+        <description>右ねじです。 新しいノートパソコンを買って、ひと月ちょっと経過しました。 自慢させてください。 購入に至った経緯(と言う名の言い訳) 自分用ノートP</description>
         
         <dc:creator>右ねじ</dc:creator>
         
@@ -163,6 +163,18 @@
           
             
               <category>ディスプレイ</category>
+            
+          
+            
+              <category>inspiron14</category>
+            
+          
+            
+              <category>Ryzen</category>
+            
+          
+            
+              <category>AMD</category>
             
           
         
