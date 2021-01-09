@@ -1,82 +1,186 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on くろしろ</title>
     <link>https://blog.honestdesireinc.com/tags/</link>
     <description>Recent content in Tags on くろしろ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 01 Jan 2021 17:50:10 +0900</lastBuildDate><atom:link href="https://blog.honestdesireinc.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>修理手配レポ</title>
-      <link>https://blog.honestdesireinc.com/tags/%E4%BF%AE%E7%90%86%E6%89%8B%E9%85%8D%E3%83%AC%E3%83%9D/</link>
-      <pubDate>Fri, 01 Jan 2021 17:50:10 +0900</pubDate>
-      
-      <guid>https://blog.honestdesireinc.com/tags/%E4%BF%AE%E7%90%86%E6%89%8B%E9%85%8D%E3%83%AC%E3%83%9D/</guid>
-      <description></description>
-    </item>
+    <language>ja</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 01 Jan 2021 17:50:10 +0900</lastBuildDate>
     
-    <item>
-      <title>冷蔵庫</title>
-      <link>https://blog.honestdesireinc.com/tags/%E5%86%B7%E8%94%B5%E5%BA%AB/</link>
-      <pubDate>Fri, 01 Jan 2021 17:50:10 +0900</pubDate>
-      
-      <guid>https://blog.honestdesireinc.com/tags/%E5%86%B7%E8%94%B5%E5%BA%AB/</guid>
-      <description></description>
-    </item>
+        <atom:link href="https://blog.honestdesireinc.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>ふるさと納税</title>
-      <link>https://blog.honestdesireinc.com/tags/%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E7%B4%8D%E7%A8%8E/</link>
-      <pubDate>Thu, 31 Dec 2020 17:43:55 +0900</pubDate>
+
       
-      <guid>https://blog.honestdesireinc.com/tags/%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E7%B4%8D%E7%A8%8E/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>カメラ</title>
-      <link>https://blog.honestdesireinc.com/tags/%E3%82%AB%E3%83%A1%E3%83%A9/</link>
-      <pubDate>Thu, 31 Dec 2020 17:43:55 +0900</pubDate>
+      <item>
+        <title>修理手配レポ</title>
+        <link>https://blog.honestdesireinc.com/tags/%E4%BF%AE%E7%90%86%E6%89%8B%E9%85%8D%E3%83%AC%E3%83%9D/</link>
+        <pubDate>Fri, 01 Jan 2021 17:50:10 +0900</pubDate>
+        
+        
+        <guid>https://blog.honestdesireinc.com/tags/%E4%BF%AE%E7%90%86%E6%89%8B%E9%85%8D%E3%83%AC%E3%83%9D/</guid>
+        <description></description>
+        
+        <dc:creator>右ねじ</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
-      <guid>https://blog.honestdesireinc.com/tags/%E3%82%AB%E3%83%A1%E3%83%A9/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>パソコン</title>
-      <link>https://blog.honestdesireinc.com/tags/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/</link>
-      <pubDate>Thu, 31 Dec 2020 17:43:55 +0900</pubDate>
+      <item>
+        <title>冷蔵庫</title>
+        <link>https://blog.honestdesireinc.com/tags/%E5%86%B7%E8%94%B5%E5%BA%AB/</link>
+        <pubDate>Fri, 01 Jan 2021 17:50:10 +0900</pubDate>
+        
+        
+        <guid>https://blog.honestdesireinc.com/tags/%E5%86%B7%E8%94%B5%E5%BA%AB/</guid>
+        <description></description>
+        
+        <dc:creator>右ねじ</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
-      <guid>https://blog.honestdesireinc.com/tags/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>機材</title>
-      <link>https://blog.honestdesireinc.com/tags/%E6%A9%9F%E6%9D%90/</link>
-      <pubDate>Thu, 31 Dec 2020 17:43:55 +0900</pubDate>
+      <item>
+        <title>ふるさと納税</title>
+        <link>https://blog.honestdesireinc.com/tags/%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E7%B4%8D%E7%A8%8E/</link>
+        <pubDate>Thu, 31 Dec 2020 17:43:55 +0900</pubDate>
+        
+        
+        <guid>https://blog.honestdesireinc.com/tags/%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E7%B4%8D%E7%A8%8E/</guid>
+        <description></description>
+        
+        <dc:creator>右ねじ</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
-      <guid>https://blog.honestdesireinc.com/tags/%E6%A9%9F%E6%9D%90/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>beautifulhugo</title>
-      <link>https://blog.honestdesireinc.com/tags/beautifulhugo/</link>
-      <pubDate>Fri, 25 Dec 2020 17:11:09 +0900</pubDate>
+      <item>
+        <title>カメラ</title>
+        <link>https://blog.honestdesireinc.com/tags/%E3%82%AB%E3%83%A1%E3%83%A9/</link>
+        <pubDate>Thu, 31 Dec 2020 17:43:55 +0900</pubDate>
+        
+        
+        <guid>https://blog.honestdesireinc.com/tags/%E3%82%AB%E3%83%A1%E3%83%A9/</guid>
+        <description></description>
+        
+        <dc:creator>右ねじ</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
-      <guid>https://blog.honestdesireinc.com/tags/beautifulhugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>githubpages</title>
-      <link>https://blog.honestdesireinc.com/tags/githubpages/</link>
-      <pubDate>Fri, 25 Dec 2020 17:11:09 +0900</pubDate>
+      <item>
+        <title>パソコン</title>
+        <link>https://blog.honestdesireinc.com/tags/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/</link>
+        <pubDate>Thu, 31 Dec 2020 17:43:55 +0900</pubDate>
+        
+        
+        <guid>https://blog.honestdesireinc.com/tags/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/</guid>
+        <description></description>
+        
+        <dc:creator>右ねじ</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
-      <guid>https://blog.honestdesireinc.com/tags/githubpages/</guid>
-      <description></description>
-    </item>
+      <item>
+        <title>機材</title>
+        <link>https://blog.honestdesireinc.com/tags/%E6%A9%9F%E6%9D%90/</link>
+        <pubDate>Thu, 31 Dec 2020 17:43:55 +0900</pubDate>
+        
+        
+        <guid>https://blog.honestdesireinc.com/tags/%E6%A9%9F%E6%9D%90/</guid>
+        <description></description>
+        
+        <dc:creator>右ねじ</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>beautifulhugo</title>
+        <link>https://blog.honestdesireinc.com/tags/beautifulhugo/</link>
+        <pubDate>Fri, 25 Dec 2020 17:11:09 +0900</pubDate>
+        
+        
+        <guid>https://blog.honestdesireinc.com/tags/beautifulhugo/</guid>
+        <description></description>
+        
+        <dc:creator>右ねじ</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>githubpages</title>
+        <link>https://blog.honestdesireinc.com/tags/githubpages/</link>
+        <pubDate>Fri, 25 Dec 2020 17:11:09 +0900</pubDate>
+        
+        
+        <guid>https://blog.honestdesireinc.com/tags/githubpages/</guid>
+        <description></description>
+        
+        <dc:creator>右ねじ</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>index</title>
+        <link>https://blog.honestdesireinc.com/tags/index/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://blog.honestdesireinc.com/tags/index/</guid>
+        <description></description>
+        
+        <dc:creator>右ねじ</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
     
   </channel>
 </rss>
