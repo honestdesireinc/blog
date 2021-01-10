@@ -3,7 +3,7 @@ title: "デルのモニターを破損させて修理を申し込んだ結果…
 date: 2020-07-08T21:45:36+09:00
 draft: false
 toc: true
-tags: ["デルアンバサダー", "DELL", "ディスプレイ"]
+tags: ["デルアンバサダー", "DELL", "ディスプレイ", "修理手配レポ"]
 meta_image: "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/ef7270b22c0892dfcf234060460203d1_cf8138229c19faf8f8359ae4e9fefae2.jpg?width=1600"
 
 ---
