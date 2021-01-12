@@ -4,10 +4,10 @@ date: 2020-12-01T22:27:32+09:00
 draft: false
 toc: true
 tags: ["デルアンバサダー", "DELL", "NewXPS15", "XPS体験モニター", "デルでDAZN"]
-meta_image: "https://raw.githubusercontent.com/honestdesireinc/blog/master/static/images/posts/130211672_743560009587439_4515971491348063501_n.jpg" 
+meta_image: "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/8d7852269ca918092778b61c6cce42c8_c974a8ca694bb94141f2c07bd4af815f.jpg?width=1600" 
 ---
 
-{{< img src="https://raw.githubusercontent.com/honestdesireinc/blog/master/static/images/posts/130211672_743560009587439_4515971491348063501_n.jpg" alt="image alt" width="700px" position="center" >}}
+{{< img src="https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/8d7852269ca918092778b61c6cce42c8_c974a8ca694bb94141f2c07bd4af815f.jpg?width=1600" alt="image alt" width="700px" position="center" >}}
 
 右ねじです。
 2020年6月にラインナップが一新された、デルのXPSシリーズ。
