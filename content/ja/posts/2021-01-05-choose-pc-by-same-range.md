@@ -1,8 +1,10 @@
 ---
 title: "「日本のPCメーカーはサポートがしっかりしている」が本当かを調査する"
 date: 2021-01-05T09:59:34+09:00
+tags: ["デルアンバサダー", "DELL", "サポート"]
 draft: false
 toc: true
+meta_image: "https://github.com/honestdesireinc/images/blob/master/posts/DELL_%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B.PNG?raw=true"
 ---
 右ねじです。
 皆さんに質問なのですが、**「日本のPCメーカーはサポートがしっかりしている」** みたいなイメージ、ありませんか？
