@@ -11,7 +11,7 @@ meta_image: "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/1999
 
 
 さきほど、デルアンバサダープログラムでモニター体験していた、
-**「ALIENWARE m15」**を返却してきました。
+**「ALIENWARE m15」** を返却してきました。
 <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 75%; padding-top: 120px;"><a href="https://blog.honestdesireinc.com/posts/2020-03-20-dell-ambassador-alienware-m15-r2/" data-iframely-url="//cdn.iframe.ly/BUQ8teL"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 <!--more-->
 ゲーミングノートPCを持っていなかった自分にとっては、「ノートPCでこんなに快適にゲームができるんだ」というのが正直な感想でした。
