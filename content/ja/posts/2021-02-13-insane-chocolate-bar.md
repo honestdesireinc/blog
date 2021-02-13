@@ -4,6 +4,8 @@ date: 2021-02-13T16:34:54+09:00
 draft: false
 toc: true
 tags: ["バレンタインデー","お菓子作り","チョコレート"]
+meta_image: "https://user-images.githubusercontent.com/76581368/107839359-b7e7d500-6dee-11eb-927d-193ac02afc75.jpeg"
+
 ---
 
 {{< notice warning "ご注意ください" >}} 
@@ -27,6 +29,7 @@ tags: ["バレンタインデー","お菓子作り","チョコレート"]
 
 洒落てる板チョコ、作ってみましょう。
 
+<!-- more -->
 
 # 洒落てる板チョコを作る
 
