@@ -1,9 +1,9 @@
 ---
-title: "ビーントゥバーチョコをなめてはいけない"
+title: "なめるな！ビーントゥバーチョコレート"
 date: 2021-02-13T16:34:54+09:00
 draft: false
 toc: true
-tags: ["バレンタインデー","お菓子作り","チョコレート"]
+tags: ["バレンタインデー","お菓子作り","チョコレート","ビーントゥバー"]
 meta_image: "https://user-images.githubusercontent.com/76581368/107839359-b7e7d500-6dee-11eb-927d-193ac02afc75.jpeg"
 
 ---
