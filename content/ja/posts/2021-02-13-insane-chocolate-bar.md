@@ -11,7 +11,7 @@ meta_image: "https://user-images.githubusercontent.com/76581368/107839359-b7e7d5
 {{< notice warning "ご注意ください" >}} 
 この記事の通りに作っても、美味しいチョコレートができるとは限りません。ビーントゥバーのメーカーさん本当にすごい。マジリスペクトっす。
 {{< /notice >}}
-<br>
+
 ボーントゥビーワ～イルド
 右ねじです。
 
