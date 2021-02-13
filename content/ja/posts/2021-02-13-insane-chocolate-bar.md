@@ -78,6 +78,8 @@ meta_image: "https://user-images.githubusercontent.com/76581368/107839359-b7e7d5
 
 普通じゃない板チョコだと呼びづらいので、以下「**非常識板チョコ**」とします。
 
+<br>
+
 
 
 ### 使用したもの
@@ -113,11 +115,7 @@ meta_image: "https://user-images.githubusercontent.com/76581368/107839359-b7e7d5
 
 くらいでした。
 
-
-
-
-
-
+<br>
 
 ### エイヤーで作ってみる
 
