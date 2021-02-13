@@ -198,7 +198,7 @@ Kalitaのコーヒーミルで挽くとこれくらいになる。
 ![冷やした結果](https://user-images.githubusercontent.com/76581368/107656454-86281e80-6cc7-11eb-935b-1e12a482e16b.jpeg)
 
 
-
+一時間冷やしてみたらイイ感じに固まってくれた。
 型は使い捨てる気持ちで左右に歪ませると、チョコをスッと引き出せる
 
 ![若干偏り](https://user-images.githubusercontent.com/76581368/107656525-9b04b200-6cc7-11eb-9847-0627a8d4e3aa.jpeg)
