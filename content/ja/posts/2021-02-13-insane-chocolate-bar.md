@@ -31,7 +31,7 @@ meta_image: "https://user-images.githubusercontent.com/76581368/107839359-b7e7d5
 
 <!-- more -->
 
-# 洒落てる板チョコを作る
+## 洒落てる板チョコを作る
 
 洒落てる板チョコって何なんだ？何が洒落てる板チョコを洒落てる板チョコたらせているのか？
 構成要素を分析してみましょう。
@@ -84,7 +84,7 @@ meta_image: "https://user-images.githubusercontent.com/76581368/107839359-b7e7d5
 
 
 
-## 使用したもの
+### 使用したもの
 {{< boxmd >}}
 **食材**
 - [カカオニブ(トーゴ産)](https://bean-to-bar-org.stores.jp/items/5966e447f22a5b1559008346)
@@ -123,7 +123,7 @@ meta_image: "https://user-images.githubusercontent.com/76581368/107839359-b7e7d5
 
 
 
-## エイヤーで作ってみる
+### エイヤーで作ってみる
 
 1. コーヒーミルでカカオニブを挽く
 ![chocotogo](https://user-images.githubusercontent.com/76581368/107839378-d9e15780-6dee-11eb-8b99-45d34c31bce3.jpeg)
@@ -219,7 +219,7 @@ Kalitaのコーヒーミルで挽くとこれくらいになる。
 
 <br>
 
-## 洒落てる包装を作る
+### 洒落てる包装を作る
 
 
 
@@ -240,7 +240,7 @@ Kalitaのコーヒーミルで挽くとこれくらいになる。
 
 <br>
 
-## 商品ラベルをデザインする
+### 商品ラベルをデザインする
 
 外側のラッピングが決まったので、
 あとは商品名のラベルを作ってそれを貼ればそれっぽくなるはず。
@@ -278,7 +278,7 @@ tasted by Rightscrew
 
 <br>
 
-## 貼り付けてみる
+### 貼り付けてみる
 
 
 ![完成品](https://user-images.githubusercontent.com/76581368/107656665-bcfe3480-6cc7-11eb-8ce3-7416a03fe9fa.jpeg)
