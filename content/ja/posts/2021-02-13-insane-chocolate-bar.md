@@ -20,7 +20,7 @@ meta_image: "https://user-images.githubusercontent.com/76581368/107839359-b7e7d5
 
 洒落てる板チョコ、作ってみましょう。
 
-<!-- more -->
+<!--more-->
 
 
 {{< notice warning "ご注意ください" >}} 

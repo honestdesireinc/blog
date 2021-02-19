@@ -5,3 +5,4 @@ type: "about"
 description: About Page
 ---
 
+やっています。こうしている今にも。

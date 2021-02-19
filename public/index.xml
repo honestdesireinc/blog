@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 13 Feb 2021 16:34:54 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 18 Feb 2021 14:10:16 +0900</lastBuildDate>
     
         <atom:link href="https://blog.honestdesireinc.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -40,13 +40,67 @@
 
       
       <item>
+        <title>Evoを迎える準備は出来てる。XPS 13(9300) is cool,right?</title>
+        <link>https://blog.honestdesireinc.com/posts/2021-02-18-dell-ambassador-xps13-9300/</link>
+        <pubDate>Thu, 18 Feb 2021 14:10:16 +0900</pubDate>
+        
+        <atom:modified>Thu, 18 Feb 2021 14:10:16 +0900</atom:modified>
+        <guid>https://blog.honestdesireinc.com/posts/2021-02-18-dell-ambassador-xps13-9300/</guid>
+        <description>&lt;p&gt;DELLのパソコンを使ってなくても入れる「デルアンバサダー」では、&lt;br /&gt;
+定期的に最高級ライン&amp;quot;XPS&amp;quot;の体験モニターが案内されます。&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;XPS&amp;quot;って何？高級と言ってもパソコンだし、DELLって海外メーカーだから&lt;br /&gt;
+どうせデカくて重くて無骨なデザインなんでしょ？&lt;/p&gt;
+&lt;p&gt;そう思うあなたに、罠カード発動!　みよ、このエレガントな姿を。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/76581368/107868451-cc4bd080-6ec7-11eb-9533-5f393f2b47b7.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;え　え　や　ん　菲　菲&lt;/p&gt;</description>
+        
+        <dc:creator>右ねじ</dc:creator>
+        
+        
+        <media:content url="https://blog.honestdesireinc.comhttps://user-images.githubusercontent.com/76581368/107868451-cc4bd080-6ec7-11eb-9533-5f393f2b47b7.jpeg" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>デルアンバサダー</category>
+            
+          
+            
+              <category>DELL</category>
+            
+          
+            
+              <category>XPS13</category>
+            
+          
+            
+              <category>XPS体験モニター</category>
+            
+          
+            
+              <category>デルでDAZN</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
         <title>なめちゃだめ！ビーントゥバーチョコレートを作ってみよう</title>
         <link>https://blog.honestdesireinc.com/posts/2021-02-13-insane-chocolate-bar/</link>
         <pubDate>Sat, 13 Feb 2021 16:34:54 +0900</pubDate>
         
         <atom:modified>Sat, 13 Feb 2021 16:34:54 +0900</atom:modified>
         <guid>https://blog.honestdesireinc.com/posts/2021-02-13-insane-chocolate-bar/</guid>
-        <description>ボーントゥビーワ～イルド 右ねじです。 バレンタインデーが近づいています。 一昨年は普通のチョコを作り、去年はムスカディーヌというチョコをオーダー</description>
+        <description>&lt;p&gt;ボーントゥビーワ～イルド&lt;br /&gt;
+右ねじです。&lt;/p&gt;
+&lt;p&gt;バレンタインデーが近づいています。&lt;br /&gt;
+一昨年は普通のチョコを作り、去年はムスカディーヌというチョコをオーダーされたので作りました。&lt;br /&gt;
+今年はどうしようか考えてみたのですが、チョコ作りの工程の中で僕は包装が一番嫌いです。&lt;br /&gt;
+なぜならそこにはレシピがないから。&lt;/p&gt;
+&lt;p&gt;だから今年は、シンプルな包装でも高見えしそうな、板チョコを作ってみようと思います。&lt;br /&gt;
+オーガニック雑貨店とかで売ってる、ああいうやつです。&lt;/p&gt;
+&lt;p&gt;洒落てる板チョコ、作ってみましょう。&lt;/p&gt;</description>
         
         <dc:creator>右ねじ</dc:creator>
         
@@ -256,7 +310,7 @@
             
           
             
-              <category>NewXPS15</category>
+              <category>XPS15</category>
             
           
             
@@ -402,7 +456,7 @@
             
           
             
-              <category>NewXPS13</category>
+              <category>XPS13</category>
             
           
             
@@ -467,7 +521,7 @@
             
           
             
-              <category>NewXPS13</category>
+              <category>XPS13</category>
             
           
             
@@ -671,7 +725,7 @@
             
           
             
-              <category>NewXPS13</category>
+              <category>XPS13</category>
             
           
             
@@ -838,7 +892,7 @@
             
           
             
-              <category>NewXPS13</category>
+              <category>XPS13</category>
             
           
             

@@ -3,7 +3,7 @@ title: "旅するクリエイターやDJ・DTMer向け最上級ノートパソ�
 date: 2020-12-01T22:27:32+09:00
 draft: false
 toc: true
-tags: ["デルアンバサダー", "DELL", "NewXPS15", "XPS体験モニター", "デルでDAZN"]
+tags: ["デルアンバサダー", "DELL", "XPS15", "XPS体験モニター", "デルでDAZN"]
 meta_image: "https://github.com/honestdesireinc/images/blob/master/posts/130211672_743560009587439_4515971491348063501_n.jpg?raw=true" 
 ---
 

@@ -3,7 +3,7 @@ title: "New XPS 13 2-in-1(7390)体験モニター でPCを借りたらゲーム�
 date: 2020-07-03T20:41:06+09:00
 draft: false
 toc: true
-tags: ["デルアンバサダー", "DELL", "NewXPS13", "XPS体験モニター", "デルでDAZN", "killercontrolcenter", "dellmobileconnect"]
+tags: ["デルアンバサダー", "DELL", "XPS13", "XPS体験モニター", "デルでDAZN", "killercontrolcenter", "dellmobileconnect"]
 meta_image: "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/d09df43300dd567c057709cc547af9ec_99882e01a9ed7d0d59aea26437d8bdc0.jpg?width=1600"
 ---
 {{< img src="https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/d09df43300dd567c057709cc547af9ec_99882e01a9ed7d0d59aea26437d8bdc0.jpg?width=1600" alt="image alt" width="700px" position="center" >}}

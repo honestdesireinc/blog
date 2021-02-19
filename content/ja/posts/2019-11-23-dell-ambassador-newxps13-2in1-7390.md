@@ -3,7 +3,7 @@ title: "KILLER CONTROL CENTERって知ってる？ New XPS 13 2-in-1(7390) 体�
 date: 2019-11-23T16:46:04+09:00
 draft: false
 toc: true
-tags: ["デルアンバサダー", "DELL", "NewXPS13", "XPS体験モニター", "デルでDAZN", "killercontrolcenter"]
+tags: ["デルアンバサダー", "DELL", "XPS13", "XPS体験モニター", "デルでDAZN", "killercontrolcenter"]
 meta_image: "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/cc2d696c7579be29e2453739c25fcc99_e066d847051e7b4e902c2fddc6fd2bc5.jpg?width=1600"
 ---
 {{< img src="https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/cc2d696c7579be29e2453739c25fcc99_e066d847051e7b4e902c2fddc6fd2bc5.jpg?width=1600" alt="image alt" width="700px" position="center" >}}
