@@ -27,9 +27,6 @@ Rightscrew所属デルアンバサダーの右ねじです。
 
 デルアンバサダーというのは、DELL製品、DELLという会社に触れた人が「DELLっていいよね～」って思った時に、唇から零れ落ちるように流れ出すメロディ、そのフレーズ一つ一つが重なって織りなすハーモニー。対有機生命体コンタクト用ヒューマノイドインターフェース。**それは私。**
 
-<div align="left">
-<img src="" width=20%>
-
 {{< img src="http://www.appbank.net/wp-content/uploads/2011/10/mzl.mehitxvy.png" caption="長門有希がツッコんでいます 珍しいね" width="20%" position="center" >}}
 
 
