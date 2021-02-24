@@ -1,7 +1,7 @@
-baseurl = "https://blog.honestdesireinc.com"
+baseurl = "https://www.rightscrew.com"
 # DefaultContentLanguage = "en"
 DefaultContentLanguage = "ja"
-title = "くろしろ"
+title = "右ねじの法則"
 theme = ""
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -11,11 +11,11 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
-googleAnalytics = "G-N8WJH9PK5R"
+googleAnalytics = "G-89D5XHLKNM"
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "苦労は買ってでもしろ"
+  subtitle = "それ、いいね"
   mainSections = ["post","posts"]
   logo = "images/rightscrew.jpg" # Expecting square dimensions
   favicon = "img/favicon.ico"
