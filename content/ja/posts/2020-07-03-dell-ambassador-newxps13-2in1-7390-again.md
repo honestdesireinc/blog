@@ -119,7 +119,7 @@ Dell Eyesafeは私たちの目をブルーライトから守るテクノロジ�
 
 映画を見ているときは映画優先、ゲームプレイ中はゲーム優先にすることで、読み込みで待つこともラグでキルされることもなくしましょう。
 
-<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 56.25%; padding-top: 120px;"><a href="https://blog.honestdesireinc.com/posts/2019-11-23-dell-ambassador-newxps13-2in1-7390/" data-iframely-url="//cdn.iframe.ly/tznPQg0"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 56.25%; padding-top: 120px;"><a href="https://www.rightscrew.com/posts/2019-11-23-dell-ambassador-newxps13-2in1-7390/" data-iframely-url="//cdn.iframe.ly/tznPQg0"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 
 

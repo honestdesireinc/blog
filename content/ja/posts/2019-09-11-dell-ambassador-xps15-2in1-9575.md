@@ -14,7 +14,7 @@ DELLさん、デルアンバサダーの皆さん、お久しぶりです。右�
 
 
 以前デルアンバサダープログラムのNew XPS体験モニターに当選し、 使用感やファーストインプレッションと、
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://blog.honestdesireinc.com/posts/2019-04-28-dell-ambassador-newxps13-9380/" data-iframely-url="//cdn.iframe.ly/CoV53Gc?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.rightscrew.com/posts/2019-04-28-dell-ambassador-newxps13-9380/" data-iframely-url="//cdn.iframe.ly/CoV53Gc?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 Dell Mobile Connectの便利さについて紹介させていただきました。
 
@@ -27,7 +27,7 @@ Dell Mobile Connectの記事についてはデルアンバサダーのFacebook�
 そして、その直後くらいなのですが実際に自分のPCを買い換えたいというタイミングがあり、 
 デルアンバサダー特別購入プログラムを利用して、PCを買い換えてみました。
 
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://blog.honestdesireinc.com/posts/2019-07-14-dell-ambassador-inspiron11-3180/" data-iframely-url="//cdn.iframe.ly/qm8QDTp?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.rightscrew.com/posts/2019-07-14-dell-ambassador-inspiron11-3180/" data-iframely-url="//cdn.iframe.ly/qm8QDTp?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 この時に買ったInspiron 11(3180)は、「最低限のスペックで良い」とか言いつつめちゃくちゃ使ってます。 
 CS5のPhotoshop,Illustratorは普通に動きますし、Premiere Proは多少もさりますが使えなくはないレベルです。 Radeon R5グラフィックス搭載が効いているのかなという感じです。
 ぶっちゃけ学生時代<a href="https://www.inversenet.co.jp/pclist/product/HP-note/GP239AV%252DABJN.html">もっと厳しいスペック</a>で制作していたので全然問題ないです。

@@ -15,7 +15,7 @@ meta_image: "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/1999
 
 
 ### 購入に至った経緯(と言う名の言い訳)
-- [自分用ノートPC](https://blog.honestdesireinc.com/posts/2019-07-14-dell-ambassador-inspiron11-3180/)が、いろいろ並行して作業するには厳しいスペック
+- [自分用ノートPC](https://www.rightscrew.com/posts/2019-07-14-dell-ambassador-inspiron11-3180/)が、いろいろ並行して作業するには厳しいスペック
 - Ren'pyでゲームを作ってみたくなったけど、iPadじゃできない
 - Ryzen5の最新シリーズ搭載で6万円台は安い
 - 気づいたら買っていた
@@ -79,7 +79,7 @@ AMD Ryzen 5 4500Uという最新CPUを搭載して、余裕ある14インチデ�
 ポート類は必要最低限+Type-C。普通のUSBが2口あるので、無線マウスのレシーバー＋スマホの充電は挿せる感じ。
 僕が家で使うときは、モニター(P2419)とUSB Type-C端子で接続して、そっち側のUSBポート使うので問題ナシ。
 
-<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 56.2637%; padding-top: 120px;"><a href="https://blog.honestdesireinc.com/posts/2020-07-05-dell-ambassador-display-and-displayarm/" data-iframely-url="//cdn.iframe.ly/W8wcPTu"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 56.2637%; padding-top: 120px;"><a href="https://www.rightscrew.com/posts/2020-07-05-dell-ambassador-display-and-displayarm/" data-iframely-url="//cdn.iframe.ly/W8wcPTu"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 
 

@@ -114,7 +114,7 @@ XPSシリーズのアイコニックなセールスポイント。
 ![](https://user-images.githubusercontent.com/76581368/108512223-40410b00-7304-11eb-96e0-1ad646191cde.png)
 ![](https://user-images.githubusercontent.com/76581368/108512291-564ecb80-7304-11eb-9f3d-7753b5677916.png)
 
-左から14インチの[Inspiron14(5405)](https://blog.honestdesireinc.com/posts/2020-10-11-dell-ambassador-inspiron14ryzen/)、ビジネス向け13インチVostro 5301、そして13.4インチのXPS 13(9300)です。
+左から14インチの[Inspiron14(5405)](https://www.rightscrew.com/posts/2020-10-11-dell-ambassador-inspiron14ryzen/)、ビジネス向け13インチVostro 5301、そして13.4インチのXPS 13(9300)です。
 ![](https://user-images.githubusercontent.com/76581368/106377886-8977fc00-63e3-11eb-98a8-8ce0f8c39bf5.jpeg)
 
 <br>
@@ -146,7 +146,7 @@ Windows Helloでも指紋認証でもログインできる生体認証は、
 「PC開いたらログインが完了してる」ところまでいっちゃいます。
 
 そして、内臓マイクとスピーカーを調整するWaves Maxx Audioであったり、
-このブログでも何度も評価してきた[Dell Mobile Connect](https://blog.honestdesireinc.com/posts/2019-05-23-dell-ambassador-dellmobileconnect/)のような固有便利ソフトウェアも健在です。
+このブログでも何度も評価してきた[Dell Mobile Connect](https://www.rightscrew.com/posts/2019-05-23-dell-ambassador-dellmobileconnect/)のような固有便利ソフトウェアも健在です。
 
 ここで注目したいのが、9310から冠している **"インテルEvoプラットフォーム"**。
 それを名乗るのに必要な条件が以下です。(インテルHPより)
