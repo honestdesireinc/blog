@@ -1,6 +1,6 @@
-baseURL = "https://blog.honestdesireinc.com"
-title = "くろしろ"
-subtitle = "苦労は買ってでもしろ"
+baseURL = "https://www.rightscrew.com"
+title = "右ねじの法則"
+subtitle = "それ、いいね。"
 theme = "zzo"
 
 defaultContentLanguage = "ja"
@@ -17,7 +17,7 @@ paginate = 13
 rssLimit = 100
 
 enableGitInfo = false
-googleAnalytics = "G-N8WJH9PK5R"
+googleAnalytics = "G-89D5XHLKNM"
 
 [markup]
   [markup.goldmark]
