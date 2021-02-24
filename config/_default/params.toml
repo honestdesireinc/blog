@@ -62,8 +62,8 @@ whoami = "Web Developer"
 bioImageUrl = "https://github.com/honestdesireinc/honestdesireinc.github.io/blob/master/images/rightscrew.jpg?raw=true"
 useGravatar = false
 location = "Shibuya, Tokyo"
-organization = "honestdesireinc"
-link = "https://www.honestdesireinc.com"
+organization = "rightscrew"
+link = "https://www.rightscrew.com"
 
 # sidebar
 enableBio = true
