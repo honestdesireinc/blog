@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on 右ねじの法則</title>
-    <link>https://blog.honestdesireinc.com/en/series/</link>
+    <link>https://www.rightscrew.com/en/series/</link>
     <description>Recent content in Series on 右ねじの法則</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="https://blog.honestdesireinc.com/en/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.rightscrew.com/en/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Themes Guide</title>
-        <link>https://blog.honestdesireinc.com/en/series/themes-guide/</link>
+        <link>https://www.rightscrew.com/en/series/themes-guide/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         
-        <guid>https://blog.honestdesireinc.com/en/series/themes-guide/</guid>
+        <guid>https://www.rightscrew.com/en/series/themes-guide/</guid>
         <description></description>
         
         <dc:creator>zzossig</dc:creator>

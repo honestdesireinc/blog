@@ -7,24 +7,24 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Galleries on 右ねじの法則</title>
-    <link>https://blog.honestdesireinc.com/gallery/</link>
+    <link>https://www.rightscrew.com/gallery/</link>
     <description>Recent content in Galleries on 右ねじの法則</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 12 Oct 2018 10:20:16 +0900</lastBuildDate>
     
-        <atom:link href="https://blog.honestdesireinc.com/gallery/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.rightscrew.com/gallery/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Photo</title>
-        <link>https://blog.honestdesireinc.com/gallery/photo/</link>
+        <link>https://www.rightscrew.com/gallery/photo/</link>
         <pubDate>Fri, 12 Oct 2018 10:20:16 +0900</pubDate>
         
         <atom:modified>Fri, 12 Oct 2018 10:20:16 +0900</atom:modified>
-        <guid>https://blog.honestdesireinc.com/gallery/photo/</guid>
+        <guid>https://www.rightscrew.com/gallery/photo/</guid>
         <description></description>
         
         <dc:creator>右ねじ</dc:creator>
@@ -38,11 +38,11 @@
       
       <item>
         <title>Cartoon</title>
-        <link>https://blog.honestdesireinc.com/gallery/cartoon/</link>
+        <link>https://www.rightscrew.com/gallery/cartoon/</link>
         <pubDate>Thu, 11 Oct 2018 10:20:16 +0900</pubDate>
         
         <atom:modified>Thu, 11 Oct 2018 10:20:16 +0900</atom:modified>
-        <guid>https://blog.honestdesireinc.com/gallery/cartoon/</guid>
+        <guid>https://www.rightscrew.com/gallery/cartoon/</guid>
         <description></description>
         
         <dc:creator>右ねじ</dc:creator>
