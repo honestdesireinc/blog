@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - くろしろ
+      - 右ねじの法則
     subtitle:
-      - 苦労は買ってでもしろ
+      - それ、いいね。
     titleColor: 
     titleShadow: true
     titleFontSize: 44

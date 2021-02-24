@@ -1,6 +1,6 @@
-logoText = "くろしろ"
+logoText = "右ねじの法則"
 logoType = "short" # long, short
-description = "くろしろ -苦労は買ってでもしろ-"
+description = "右ねじの法則 -それ、いいね。-"
 custom_css = []
 custom_js = []
 useFaviconGenerator = false # https://www.favicon-generator.org/
