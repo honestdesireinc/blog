@@ -13,8 +13,8 @@
 #   contentdir = "content/ko"
 
 [ja]
-  title = "くろしろ"
-  subtitle = "苦労は買ってでもしろ"
+  title = "右ねじの法則"
+  subtitle = "それ、いいね。"
   languageName = "Japanese"
   weight = 1
   languagedir = "ltr"
