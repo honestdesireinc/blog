@@ -1,8 +1,8 @@
-baseurl: https://blog.honestdesireinc.com
+baseurl: https://www.rightscrew.com
 languageCode: ja-jp
 theme: hugo-theme-stack
 paginate: 5
-title: くろしろ -苦労は買ってでもしろ-
+title: 右ねじの法則 -それ、いいね。-
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
