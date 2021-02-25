@@ -1,5 +1,5 @@
 ---
-title: "こういうのでいいんだよPCを買った"
+title: "こういうのでいいんだよPCを買った DELL Inspiron 14(5405)"
 date: 2020-10-11T22:01:18+09:00
 draft: false
 toc: true
