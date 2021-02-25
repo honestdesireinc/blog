@@ -239,7 +239,7 @@ fotomotiのセッションがある関係か、キヤノンの方も各テーブ
 
 2018年以降発売のDell PCであれば使えるという事ですので、是非試してみてほしいです。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Dell Mobile Connectって凄くない？凄いよ！ <a href="https://t.co/uqcqEFRcHR">https://t.co/uqcqEFRcHR</a> <a href="https://twitter.com/hashtag/%E3%83%87%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%90%E3%82%B5%E3%83%80%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#デルアンバサダー</a> <a href="https://twitter.com/hashtag/DELL?src=hash&amp;ref_src=twsrc%5Etfw">#DELL</a> <a href="https://twitter.com/hashtag/NewXPS%E4%BD%93%E9%A8%93%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#NewXPS体験モニター</a> <a href="https://twitter.com/hashtag/DellMobileConnect?src=hash&amp;ref_src=twsrc%5Etfw">#DellMobileConnect</a></p>&mdash; 右ねじの法則 (@Rightscrew) <a href="https://twitter.com/Rightscrew/status/1347789772043939842?ref_src=twsrc%5Etfw">January 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Dell Mobile Connectって凄くない？凄いよ！ <a href="https://t.co/PZIjIVDqJm">https://t.co/PZIjIVDqJm</a> <a href="https://twitter.com/hashtag/%E3%83%87%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%90%E3%82%B5%E3%83%80%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#デルアンバサダー</a> <a href="https://twitter.com/hashtag/DELL?src=hash&amp;ref_src=twsrc%5Etfw">#DELL</a> <a href="https://twitter.com/hashtag/DellMobileConnect?src=hash&amp;ref_src=twsrc%5Etfw">#DellMobileConnect</a></p>&mdash; 右ねじの法則 (@Rightscrew) <a href="https://twitter.com/Rightscrew/status/1364775096477306889?ref_src=twsrc%5Etfw">February 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
