@@ -11,7 +11,7 @@ meta_image: "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/1999
 
 前回、デルのモニターとモニターアームを導入して大変浮かれていた右ねじです。
 
-<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 56.2637%; padding-top: 120px;"><a href="https://www.honestdesireinc.com/posts/8705050/" data-iframely-url="//cdn.iframe.ly/Gzni6XW"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.rightscrew.com/posts/2020-07-05-dell-ambassador-display-and-displayarm/" data-iframely-url="//cdn.iframe.ly/T3voEWK?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 <!--more-->
 <br>
 
@@ -28,7 +28,7 @@ meta_image: "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/1999
 
 モニタは液晶画面を下にして机にバタンときれいに倒れたので、僕は「あ～倒れたな」ぐらいにしか思ってませんでした。持ち上げようとしたとき、謎にモニターと机の間に隙間があることに気づいたのです。隙間を生んでいたのは、体験モニターでお借りしているNew XPS 13 2-in-1でした。
 
-<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 56.2865%; padding-top: 120px;"><a href="https://www.honestdesireinc.com/posts/8690900/" data-iframely-url="//cdn.iframe.ly/xW3jGKP"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.rightscrew.com/posts/2020-07-03-dell-ambassador-newxps13-2in1-7390-again/" data-iframely-url="//cdn.iframe.ly/j7I4kcT?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 このPC、見る目麗しいデザインの特徴として、スモールエッジを実現するダイヤモンドカット加工が施されています。丸みを帯びたというよりは、シュッとスタイリッシュな形状になっています。
 
@@ -151,4 +151,4 @@ meta_image: "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/1999
 今度からモニターを壊したら何も迷わずに即新品購入します。
 良い経験を2万円で購入できてよかった！
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">デルのモニターを破損させて修理を申し込んだ結果… <a href="https://t.co/db6Ksk7lBv">https://t.co/db6Ksk7lBv</a> <a href="https://twitter.com/hashtag/%E3%83%87%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%90%E3%82%B5%E3%83%80%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#デルアンバサダー</a> <a href="https://twitter.com/hashtag/DELL?src=hash&amp;ref_src=twsrc%5Etfw">#DELL</a> <a href="https://twitter.com/hashtag/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4?src=hash&amp;ref_src=twsrc%5Etfw">#ディスプレイ</a></p>&mdash; 右ねじの法則 (@Rightscrew) <a href="https://twitter.com/Rightscrew/status/1347897154602352643?ref_src=twsrc%5Etfw">January 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">デルのモニターを破損させて修理を申し込んだ結果… <a href="https://t.co/rtAhh8OYsh">https://t.co/rtAhh8OYsh</a> <a href="https://twitter.com/hashtag/%E3%83%87%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%90%E3%82%B5%E3%83%80%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#デルアンバサダー</a> <a href="https://twitter.com/hashtag/DELL?src=hash&amp;ref_src=twsrc%5Etfw">#DELL</a> <a href="https://twitter.com/hashtag/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4?src=hash&amp;ref_src=twsrc%5Etfw">#ディスプレイ</a> <a href="https://twitter.com/hashtag/%E4%BF%AE%E7%90%86%E6%89%8B%E9%85%8D%E3%83%AC%E3%83%9D?src=hash&amp;ref_src=twsrc%5Etfw">#修理手配レポ</a></p>&mdash; 右ねじの法則 (@Rightscrew) <a href="https://twitter.com/Rightscrew/status/1364776631462555654?ref_src=twsrc%5Etfw">February 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
