@@ -12,11 +12,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 18 Feb 2021 14:10:16 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 06 Mar 2021 12:57:31 +0900</lastBuildDate>
     
         <atom:link href="https://www.rightscrew.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>AWSのインスタンスを消し忘れるくせに2段階認証アプリは消すアホが、公証役場で外国文認証を取得することになった話</title>
+        <link>https://www.rightscrew.com/posts/2021-03-06-aws-billing-and-affidavit/</link>
+        <pubDate>Sat, 06 Mar 2021 12:57:31 +0900</pubDate>
+        
+        <atom:modified>Sat, 06 Mar 2021 12:57:31 +0900</atom:modified>
+        <guid>https://www.rightscrew.com/posts/2021-03-06-aws-billing-and-affidavit/</guid>
+        <description>&lt;p&gt;右ねじです。長らくお待たせしました。&lt;br /&gt;
+お待ちかねの、失敗のリカバリシリーズ新作です。&lt;/p&gt;
+&lt;p&gt;今回は、&lt;strong&gt;AWSのインスタンスを残したまま2段階認証アプリを消してみました！&lt;/strong&gt;&lt;/p&gt;</description>
+        
+        <dc:creator>右ねじ</dc:creator>
+        
+        
+        <media:content url="https://www.rightscrew.comhttps://user-images.githubusercontent.com/76581368/110194529-fc114700-7e7b-11eb-865d-aeb35245e709.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>やらかしリカバリ</category>
+            
+          
+            
+              <category>AWS</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>Evoを迎える準備は出来てる。XPS 13(9300) is cool,right?</title>
@@ -203,6 +233,10 @@
           
             
               <category>修理手配レポ</category>
+            
+          
+            
+              <category>やらかしリカバリ</category>
             
           
         
