@@ -3,7 +3,7 @@ title: "motorola razr 5G …買っちゃった！"
 date: 2021-03-28T17:20:51+09:00
 draft: false
 toc: true
-meta_image: "https://user-images.githubusercontent.com/76581368/112746229-7bf88000-8fe8-11eb-8f0f-e9ab7a58ea37.png"
+meta_image: "https://user-images.githubusercontent.com/76581368/112746277-bfeb8500-8fe8-11eb-82a1-ec39091c4036.png"
 tags: ["motorola","razr","Android","gadget"]
 ---
 どうもこうもねぇ右ねじです。
