@@ -1,5 +1,5 @@
 ---
-title: "Think Blues Count One Tow"
+title: "Think BlueS Count One Tow"
 date: 2021-05-16T20:56:37+09:00
 draft: false
 toc: true
