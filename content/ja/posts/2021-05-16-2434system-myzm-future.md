@@ -1,6 +1,6 @@
 ---
 title: "Think Blues Count One Tow"
-date: 2021-05-15T17:50:37+09:00
+date: 2021-05-16T20:56:37+09:00
 draft: false
 toc: true
 meta_image: "https://user-images.githubusercontent.com/76581368/118396116-eb096100-b688-11eb-8ae0-247298218182.png"
