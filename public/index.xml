@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 31 May 2021 19:24:16 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jun 2021 23:35:19 +0900</lastBuildDate>
     
         <atom:link href="https://www.rightscrew.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -38,6 +38,24 @@
         
       
 
+      
+      <item>
+        <title>推しVTuberのアーカイブサイトをNotionでサクっと作った</title>
+        <link>https://www.rightscrew.com/posts/2021-06-02-fave-vtuber-notion/</link>
+        <pubDate>Wed, 02 Jun 2021 23:35:19 +0900</pubDate>
+        
+        <atom:modified>Wed, 02 Jun 2021 23:35:19 +0900</atom:modified>
+        <guid>https://www.rightscrew.com/posts/2021-06-02-fave-vtuber-notion/</guid>
+        <description>成果物 黛灰のアーカイブサイト：黛灰.vlog 来栖夏芽のアーカイブサイト：来栖夏芽archives なぜこんなことをしたのか？ Notionくんの</description>
+        
+        <dc:creator>右ねじ</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>find ./blueprint.dat</title>
