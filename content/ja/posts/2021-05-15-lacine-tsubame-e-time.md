@@ -41,7 +41,7 @@ meta_image: "https://static.camp-fire.jp/uploads/editor_uploaded_image/image/149
 
 <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 66.6667%; padding-top: 120px;"><a href="https://www.lifehacker.jp/2021/04/233548-campfire-lacine.html" data-iframely-url="//cdn.iframe.ly/9eZMn4d"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
-僕ずーっと、電動アシスト自転車が欲しいんですよ。
+僕ずーっと、電動アシスト自転車が欲しいんですよ…
 
 4年前くらいまでは折りたたみ自転車があったんですけど、アパートの1Fに鍵かけないで置いといたら盗まれてたんですよね。 **3回も。** 
 
