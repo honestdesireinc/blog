@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>黛灰 on 右ねじの法則</title>
+    <link>https://www.rightscrew.com/tags/%E9%BB%9B%E7%81%B0/</link>
+    <description>Recent content in 黛灰 on 右ねじの法則</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 02 Jun 2021 23:35:19 +0900</lastBuildDate>
+    
+        <atom:link href="https://www.rightscrew.com/tags/%E9%BB%9B%E7%81%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>推しVTuberのアーカイブサイトをNotionでサクっと作った</title>
+        <link>https://www.rightscrew.com/posts/2021-06-02-fave-vtuber-notion/</link>
+        <pubDate>Wed, 02 Jun 2021 23:35:19 +0900</pubDate>
+        
+        <atom:modified>Wed, 02 Jun 2021 23:35:19 +0900</atom:modified>
+        <guid>https://www.rightscrew.com/posts/2021-06-02-fave-vtuber-notion/</guid>
+        <description>&lt;h2 id=&#34;成果物&#34;&gt;成果物&lt;/h2&gt;
+&lt;p&gt;黛灰のアーカイブサイト：&lt;a href=&#34;https://www.notion.so/mayuzumikai/vlog-92176004090b4f79966119faf94f2bab&#34;&gt;黛灰.vlog&lt;/a&gt;&lt;br /&gt;
+来栖夏芽のアーカイブサイト：&lt;a href=&#34;https://www.notion.so/natsumevlog/vlog-cb48f84b66ae4c99a22c3d6829a6e467&#34;&gt;来栖夏芽archives&lt;/a&gt;&lt;/p&gt;</description>
+        
+        <dc:creator>右ねじ</dc:creator>
+        
+        
+        <media:content url="https://www.rightscrew.comhttps://user-images.githubusercontent.com/76581368/120514063-ddcdcf80-c407-11eb-8c2d-7134d6010f41.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>VTuber</category>
+            
+          
+            
+              <category>にじさんじ</category>
+            
+          
+            
+              <category>黛灰</category>
+            
+          
+            
+              <category>来栖夏芽</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>find ./blueprint.dat</title>
+        <link>https://www.rightscrew.com/posts/2021-05-31-myzm-logue/</link>
+        <pubDate>Mon, 31 May 2021 19:24:16 +0900</pubDate>
+        
+        <atom:modified>Mon, 31 May 2021 19:24:16 +0900</atom:modified>
+        <guid>https://www.rightscrew.com/posts/2021-05-31-myzm-logue/</guid>
+        <description>&lt;div class=&#34;alert alert-danger&#34; role=&#34;alert&#34; data-dir=&#34;ltr&#34;&gt;&lt;strong&gt;ユーザーネーム: &amp;lsquo;黛灰&amp;rsquo; には、参照権限がありません&lt;/strong&gt;&lt;/div&gt;</description>
+        
+        <dc:creator>右ねじ</dc:creator>
+        
+        
+        <media:content url="https://www.rightscrew.comhttps://user-images.githubusercontent.com/76581368/118396116-eb096100-b688-11eb-8ae0-247298218182.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>VTuber</category>
+            
+          
+            
+              <category>にじさんじ</category>
+            
+          
+            
+              <category>黛灰</category>
+            
+          
+            
+              <category>考察</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Think BlueS Count One Tow</title>
+        <link>https://www.rightscrew.com/posts/2021-05-16-2434system-myzm-future/</link>
+        <pubDate>Mon, 17 May 2021 00:23:37 +0900</pubDate>
+        
+        <atom:modified>Mon, 17 May 2021 00:23:37 +0900</atom:modified>
+        <guid>https://www.rightscrew.com/posts/2021-05-16-2434system-myzm-future/</guid>
+        <description>&lt;div class=&#34;alert alert-danger&#34; role=&#34;alert&#34; data-dir=&#34;ltr&#34;&gt;&lt;strong&gt;ユーザーネーム: &amp;lsquo;黛灰&amp;rsquo; には、参照権限がありません&lt;/strong&gt;&lt;/div&gt;</description>
+        
+        <dc:creator>右ねじ</dc:creator>
+        
+        
+        <media:content url="https://www.rightscrew.comhttps://user-images.githubusercontent.com/76581368/118396116-eb096100-b688-11eb-8ae0-247298218182.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>VTuber</category>
+            
+          
+            
+              <category>にじさんじ</category>
+            
+          
+            
+              <category>黛灰</category>
+            
+          
+            
+              <category>考察</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

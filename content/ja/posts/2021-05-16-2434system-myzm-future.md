@@ -3,7 +3,7 @@ title: "Think BlueS Count One Tow"
 date: 2021-05-17T00:23:37+09:00
 draft: false
 toc: true
-tag: ['VTuber','にじさんじ','黛灰','考察']
+tags: ['VTuber','にじさんじ','黛灰','考察']
 meta_image: "https://user-images.githubusercontent.com/76581368/118396116-eb096100-b688-11eb-8ae0-247298218182.png"
 ---
 {{< alert theme="danger" dir="ltr" >}}

@@ -3,7 +3,7 @@ title: "シャキッとして走れて軽い電動アシスト自転車 「La Ci
 date: 2021-05-15T14:10:14+09:00
 draft: false
 toc: true
-tag: ['クラファン','電動アシスト自転車']
+tags: ["クラファン","電動アシスト自転車"]
 meta_image: "https://static.camp-fire.jp/uploads/editor_uploaded_image/image/1491986/LaCine_Image_Weight_3.jpg?ixlib=rails-2.1.4&fit=max&auto=format"
 ---
 目を覚ます、まだ眠い、頭に靄がかかっている、
