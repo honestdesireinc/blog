@@ -27,7 +27,7 @@ meta_image: "https://static.camp-fire.jp/uploads/editor_uploaded_image/image/149
 
 正直これだけの話なんだけど、せっかくなので
 なぜ支援者になったかを書いていこうかなと思います。
-
+ 
 ## 「La Cine」、コンパクトな車体でよく走るらしいね
 僕発のダジャレというわけではない、と思う
 
