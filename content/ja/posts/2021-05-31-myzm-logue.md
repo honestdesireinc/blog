@@ -3,6 +3,7 @@ title: "find ./blueprint.dat"
 date: 2021-05-31T19:24:16+09:00
 draft: false
 toc: true
+tag: ['VTuber','にじさんじ','黛灰','考察']
 meta_image: "https://user-images.githubusercontent.com/76581368/118396116-eb096100-b688-11eb-8ae0-247298218182.png"
 ---
 {{< alert theme="danger" dir="ltr" >}}

@@ -3,6 +3,7 @@ title: "推しVTuberのアーカイブサイトをNotionでサクっと作った
 date: 2021-06-02T23:35:19+09:00
 draft: false
 toc: true
+tag: ['VTuber','にじさんじ','黛灰','来栖夏芽']
 meta_image: "https://user-images.githubusercontent.com/76581368/120514063-ddcdcf80-c407-11eb-8c2d-7134d6010f41.png"
 ---
 
