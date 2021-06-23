@@ -1,5 +1,5 @@
 ---
-title: "黛灰って結局今どうなってんの？"
+title: "黛灰の現在についての株価予想的言説"
 date: 2021-06-23T21:14:18+09:00
 draft: false
 toc: true
@@ -20,6 +20,10 @@ meta_image: "https://user-images.githubusercontent.com/76581368/118396116-eb0961
 {{< expand "$ view index.md" >}}
 あめもようボイス2021聞きました。
 しかしこれから書く文章はそれとは関係ありません。
+
+これは株価予想のように、
+「現時点の情報から、公開されていない部分については推測して導き出した未来予測」
+(もっともらしい表現をしているが、責任はとらない)です。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaQqmgul3wE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
