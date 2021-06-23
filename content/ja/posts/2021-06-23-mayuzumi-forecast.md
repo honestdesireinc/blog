@@ -23,7 +23,7 @@ meta_image: "https://user-images.githubusercontent.com/76581368/118396116-eb0961
 
 これは株価予想のように、
 「現時点の情報から、公開されていない部分については推測して導き出した未来予測」
-(もっともらしい表現をしているが、責任はとらない)です。
+(もっともらしい表現をしているが、責任はとらないよ)です。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaQqmgul3wE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
