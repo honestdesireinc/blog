@@ -46,7 +46,15 @@
         
         <atom:modified>Tue, 12 Oct 2021 10:16:51 +0900</atom:modified>
         <guid>https://www.rightscrew.com/posts/2021-10-12-amebaownd-instagram-failure/</guid>
-        <description>どうも右ねじです。 表題の件、利用者の中でも気づいている人は気づいているのですが、 なかなか気づきにくい障害が発生しています。 発生している障害に</description>
+        <description>&lt;p&gt;どうも右ねじです。&lt;/p&gt;
+&lt;p&gt;表題の件、利用者の中でも気づいている人は気づいているのですが、&lt;br /&gt;
+なかなか気づきにくい障害が発生しています。&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;発生している障害について&#34;&gt;発生している障害について&lt;/h2&gt;
+&lt;div class=&#34;iframely-embed&#34;&gt;&lt;div class=&#34;iframely-responsive&#34; style=&#34;height: 140px; padding-bottom: 0;&#34;&gt;&lt;a href=&#34;https://blog.amebaownd.com/posts/11080844/&#34; data-iframely-url=&#34;//cdn.iframe.ly/VfDQc6K?card=small&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;script async src=&#34;//cdn.iframe.ly/embed.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;p&gt;昨年10月26日に報告された、Amebaownd でInstagram連携に障害が発生している件。&lt;br /&gt;
+症状の説明が無いので、どういったことが起きているか説明します。&lt;/p&gt;</description>
         
         <dc:creator>右ねじ</dc:creator>
         
