@@ -199,7 +199,7 @@ Instagram連携したと思われる画像を、全て再取得してほしい�
 ブログ記事が少ない場合は、画像を一枚ずつ貼り直すという荒業で対処することもできます。
 
 デベロッパーツールを使ってブログエディタのソースを見ると、
-**「どのInstagram画像を連携しようとしていたか」**を調べることができるので、
+**どのInstagram画像を連携しようとしていたか**を調べることができるので、
 それを探し出すことで、もう一度連携しなおせます。
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">AmebaOwndでInstagram画像が表示できなくなった件につき、<br>手動で復活させる方法を動画にしました。<br><br>もし他にもっといいやり方をご存じの方がいらっしゃったら、共有いただけますと幸いです。<br><br>公式の障害情報についてはこちら<br>↓<a href="https://t.co/FQ2FC4WLoh">https://t.co/FQ2FC4WLoh</a><a href="https://twitter.com/hashtag/amebaownd?src=hash&amp;ref_src=twsrc%5Etfw">#amebaownd</a> <a href="https://t.co/7aV5YX0MOA">pic.twitter.com/7aV5YX0MOA</a></p>&mdash; 右ねじの法則 (@Rightscrew) <a href="https://twitter.com/Rightscrew/status/1327546323432718336?ref_src=twsrc%5Etfw">November 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
