@@ -3,7 +3,7 @@ title: "AmebaowndのInstagram画像連携障害が解消されないまま1年�
 date: 2021-10-12T10:16:51+09:00
 draft: false
 toc: true
-tag: ['Amebaownd','Instagram','blog']
+tags: ['Amebaownd','Instagram','blog']
 ---
 どうも右ねじです。
 
