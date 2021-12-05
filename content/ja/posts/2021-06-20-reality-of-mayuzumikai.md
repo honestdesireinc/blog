@@ -31,7 +31,7 @@ meta_image: "https://user-images.githubusercontent.com/76581368/118396116-eb0961
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL9RNvrP87_1VSPnS--lUXKWUikkdCVOAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 何より、Youtube・Twitter・そしてアルタビジョンといった数々のツールを組み合わせて組み上げられ、リスナーを巻き込んだ参加型演劇であることは、否定のしようもありません。
-「Episode 0 交信」なんかは字幕もついている。流石にこれをリアルと認めるのは難しい。
+流石にこれをリアルと認めるのは難しい。
 
 ですので、僕の理解の中でも「黛灰の物語」は虚構であり、
 そこで自らを架空の存在であると認識した黛灰については、架空の存在であると認めます。
