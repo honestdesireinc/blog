@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 05 Dec 2021 15:55:11 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 31 Dec 2021 15:17:39 +0900</lastBuildDate>
     
         <atom:link href="https://www.rightscrew.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -38,6 +38,35 @@
         
       
 
+      
+      <item>
+        <title>「Python 3 エンジニア認定データ分析試験」に合格してきた</title>
+        <link>https://www.rightscrew.com/posts/2021-12-31-python-data-analyst/</link>
+        <pubDate>Fri, 31 Dec 2021 15:17:39 +0900</pubDate>
+        
+        <atom:modified>Fri, 31 Dec 2021 15:17:39 +0900</atom:modified>
+        <guid>https://www.rightscrew.com/posts/2021-12-31-python-data-analyst/</guid>
+        <description>&lt;p&gt;お疲れさまです、右ねじです。&lt;br /&gt;
+2021年滑り込みで、Python3エンジニア認定試験に合格してきたので、どんな勉強だったかまとめておきます。&lt;/p&gt;</description>
+        
+        <dc:creator>右ねじ</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python試験</category>
+            
+          
+            
+              <category>Python 3 エンジニア認定データ分析試験</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>Impulse shopping -PS5無限連鎖編-</title>
