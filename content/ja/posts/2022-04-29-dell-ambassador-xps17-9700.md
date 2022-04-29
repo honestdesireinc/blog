@@ -4,7 +4,7 @@ date: 2022-04-29T15:02:18+09:00
 draft: false
 toc: true
 tags: ["デルアンバサダー", "DELL", "XPS17","XPS体験モニター"]
-meta_image: "https://user-images.githubusercontent.com/76581368/165971532-8f75e655-c7c6-482e-9d41-37d3104ec8bb.png"
+meta_image: "https://user-images.githubusercontent.com/76581368/165972309-9b2c7df5-dd93-4d5d-98b9-89ec3314231e.png"
 ---
 
 ![](https://user-images.githubusercontent.com/76581368/165904052-ac3c557b-a285-4649-b7f8-8c09e03c0556.jpg)
@@ -190,3 +190,5 @@ DELLのU2422HEなら、各種機材をUSBでディスプレイに接続でき、
 
 
 ここまでご精読ありがとうございました。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">人がXPS 17を選ぶのではない。XPS 17が人を選ぶのだ。 <a href="https://t.co/ys2Bd3IaTu">https://t.co/ys2Bd3IaTu</a> <a href="https://twitter.com/hashtag/%E3%83%87%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%90%E3%82%B5%E3%83%80%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#デルアンバサダー</a> <a href="https://twitter.com/hashtag/DELL?src=hash&amp;ref_src=twsrc%5Etfw">#DELL</a> <a href="https://twitter.com/hashtag/XPS17?src=hash&amp;ref_src=twsrc%5Etfw">#XPS17</a> <a href="https://twitter.com/hashtag/XPS%E4%BD%93%E9%A8%93%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#XPS体験モニター</a></p>&mdash; 右ねじ (@Rightscrew) <a href="https://twitter.com/Rightscrew/status/1520057617099669505?ref_src=twsrc%5Etfw">April 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
