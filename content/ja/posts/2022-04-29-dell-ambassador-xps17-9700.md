@@ -4,7 +4,7 @@ date: 2022-04-29T15:02:18+09:00
 draft: false
 toc: true
 tags: ["デルアンバサダー", "DELL", "XPS17","XPS体験モニター"]
-meta_image: "https://user-images.githubusercontent.com/76581368/165904052-ac3c557b-a285-4649-b7f8-8c09e03c0556.jpg"
+meta_image: "https://user-images.githubusercontent.com/76581368/165971532-8f75e655-c7c6-482e-9d41-37d3104ec8bb.png"
 ---
 
 ![](https://user-images.githubusercontent.com/76581368/165904052-ac3c557b-a285-4649-b7f8-8c09e03c0556.jpg)
