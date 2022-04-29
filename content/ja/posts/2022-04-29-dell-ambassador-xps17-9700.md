@@ -20,6 +20,8 @@ DELLのファンコミュニティ **「デルアンバサダー」** では、
 XPSシリーズの中で最もサイズの大きい **XPS 17(9700)** を体験できましたので、
 感触や使っていて考えたことを報告していきたいと思います。
 
+<!--more-->
+
 ## Spec/Exterior
 
 ![](https://user-images.githubusercontent.com/76581368/165904018-cb37d167-adda-4347-9741-c7cef22dafb3.jpg)
