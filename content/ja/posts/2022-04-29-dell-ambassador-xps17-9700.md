@@ -188,6 +188,7 @@ DELLのU2422HEなら、各種機材をUSBでディスプレイに接続でき、
 たまにXPSだけでなくALIENWAREのゲーミングPCも体験できますので、
 試しに参加してみてもらえたら嬉しいです。
 
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.dell.com/ja-jp/shop/dell-ambassador/cp/home" data-iframely-url="//iframely.net/V24JGcK"></a></div></div><script async src="//iframely.net/embed.js" charset="utf-8"></script>
 
 ここまでご精読ありがとうございました。
 
