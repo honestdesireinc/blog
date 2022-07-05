@@ -259,3 +259,7 @@ FPSをやる人なんかは、曲面モニターを2台で視野角いっぱい�
 **"これが欲しい"** と思ったら、その時は…
 
 ご精読ありがとうございました。
+
+・良かったらいいね、RTお願いします。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">薄くなって新登場。スマートかつパワフルにゲーム環境を実現する、Alienware x17 R1 <a href="https://t.co/SppWhYO1E5">https://t.co/SppWhYO1E5</a> <a href="https://twitter.com/hashtag/%E3%83%87%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%90%E3%82%B5%E3%83%80%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#デルアンバサダー</a> <a href="https://twitter.com/hashtag/DELL?src=hash&amp;ref_src=twsrc%5Etfw">#DELL</a> <a href="https://twitter.com/hashtag/ALIENWARE?src=hash&amp;ref_src=twsrc%5Etfw">#ALIENWARE</a> <a href="https://twitter.com/hashtag/ALIENWAREx17?src=hash&amp;ref_src=twsrc%5Etfw">#ALIENWAREx17</a> <a href="https://twitter.com/hashtag/%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0PC?src=hash&amp;ref_src=twsrc%5Etfw">#ゲーミングPC</a></p>&mdash; 右ねじ (@Rightscrew) <a href="https://twitter.com/Rightscrew/status/1544351810978484224?ref_src=twsrc%5Etfw">July 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
