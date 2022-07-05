@@ -9,6 +9,8 @@ tags: ["デルアンバサダー", "DELL", "ALIENWARE", "ALIENWAREx17", "ゲー�
 
 ## エイリアン、ちょっと痩せた？
 
+![ALIENWARE x17 R1](https://user-images.githubusercontent.com/76581368/177005285-8748e974-fbde-4212-9b56-ba2aeb366ec9.jpg)
+
 DELLのゲーミングブランド、ALIENWAREから発売された
 薄型ゲーミングノートの系譜、ALIENWARE xシリーズ。
 
@@ -222,7 +224,6 @@ FPSをやる人なんかは、曲面モニターを2台で視野角いっぱい�
 
 ### グラフィック特化のノートPCの中で、<br>デザイン性を磨き続けるのがALIENWARE。
 
-![ALIENWARE x17 R1](https://user-images.githubusercontent.com/76581368/177005285-8748e974-fbde-4212-9b56-ba2aeb366ec9.jpg)
 
 前回、RTX 2060搭載のXPS 17をレビューしました。
 
