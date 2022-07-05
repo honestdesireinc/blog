@@ -9,7 +9,7 @@ tags: ["デルアンバサダー", "DELL", "ALIENWARE", "ALIENWAREx17", "ゲー�
 
 ## エイリアン、ちょっと痩せた？
 
-![ALIENWARE x17 R1](https://user-images.githubusercontent.com/76581368/177005285-8748e974-fbde-4212-9b56-ba2aeb366ec9.jpg)
+![ALIENWARE x17 R1](https://user-images.githubusercontent.com/76581368/177367359-11c827e2-9f25-42f6-9e43-edb697f8ba77.png)
 
 DELLのゲーミングブランド、ALIENWAREから発売された
 薄型ゲーミングノートの系譜、ALIENWARE xシリーズ。
