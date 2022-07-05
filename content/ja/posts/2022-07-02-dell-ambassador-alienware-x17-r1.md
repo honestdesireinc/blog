@@ -3,7 +3,7 @@ title: "薄くなって新登場。スマートかつパワフルにゲーム環
 date: 2022-07-03T01:40:08+09:00
 draft: false
 toc: true
-meta_image: "https://user-images.githubusercontent.com/76581368/177005285-8748e974-fbde-4212-9b56-ba2aeb366ec9.jpg"
+meta_image: "https://user-images.githubusercontent.com/76581368/177367359-11c827e2-9f25-42f6-9e43-edb697f8ba77.png"
 tags: ["デルアンバサダー", "DELL", "ALIENWARE", "ALIENWAREx17", "ゲーミングPC"]
 ---
 
