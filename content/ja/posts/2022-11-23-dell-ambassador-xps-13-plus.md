@@ -3,7 +3,7 @@ title: "パソコンというよりアート。 シームレスなモノクロ�
 date: 2022-11-23T10:57:27+09:00
 draft: false
 toc: true
-meta_image: "https://user-images.githubusercontent.com/76581368/203492770-14a717a9-22c4-4da2-a064-47c380bbf8c4.jpg"
+meta_image: "https://user-images.githubusercontent.com/76581368/203547692-556b6fc1-05ca-4d1e-a0de-1bdc0104e462.jpg"
 tags: ["デルアンバサダー", "DELL", "XPS13PLUS", "XPS体験モニター"]
 ---
 
