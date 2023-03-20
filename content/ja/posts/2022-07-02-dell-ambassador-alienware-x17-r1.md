@@ -4,6 +4,7 @@ date: 2022-07-03T01:40:08+09:00
 draft: true
 toc: true
 meta_image: "https://user-images.githubusercontent.com/76581368/177005285-8748e974-fbde-4212-9b56-ba2aeb366ec9.jpg"
+tags: ["デルアンバサダー", "Alienware", "Alienwarex17R1"]
 ---
 
 ## エイリアン、ちょっと痩せた？

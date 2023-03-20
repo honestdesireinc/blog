@@ -1,9 +1,10 @@
 ---
-title: "Alienware x14"
+title: "ゲーマー長年の夢叶う。本当のカジュアルゲーミングPC、Alienware x14"
 date: 2023-03-19T20:07:31+09:00
 draft: false
 toc: true
 meta_image: "https://user-images.githubusercontent.com/76581368/226229923-3d36aff0-ae7b-4de3-ab87-5fea61336189.jpg"
+tags: ["デルアンバサダー", "Alienware", "Alienwarex14"]
 ---
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">わたくしヒカキンが愛用してるエイリアンウェアから世界最薄(※)14インチゲーミングノートPCが登場!💻👽🎉<br>コンパクトで持ち運びが便利、なのにバッテリーも長持ち！最新のCPU搭載でゲームやアプリもスムーズに体験可能✨<br>特別クーポンもあるので要チェック😎👍<br>(※2021年12月デル調べ)<a href="https://twitter.com/hashtag/Alienware?src=hash&amp;ref_src=twsrc%5Etfw">#Alienware</a> <a href="https://twitter.com/hashtag/PR?src=hash&amp;ref_src=twsrc%5Etfw">#PR</a></p>&mdash; HIKAKIN😎ヒカキン 【YouTuber】 (@hikakin) <a href="https://twitter.com/hikakin/status/1493131718638792705?ref_src=twsrc%5Etfw">February 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
