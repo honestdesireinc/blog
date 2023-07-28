@@ -4,7 +4,7 @@ date: 2023-07-28T15:30:59+09:00
 draft: false
 toc: true
 tags: ["鬼怒川温泉","ワーケーション","日光市","Otell"]
-meta_images: "https://user-images.githubusercontent.com/76581368/256786780-5f17e4b5-6c31-4a2a-a82d-56c6420fb5f3.jpg"
+meta_image: "https://user-images.githubusercontent.com/76581368/256791072-6e245f36-03b5-4163-93de-d08c67307338.jpg"
 ---
 
 どうも右ねじです。
