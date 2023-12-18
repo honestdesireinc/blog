@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>python試験 on 右ねじの法則</title>
+    <link>https://www.rightscrew.com/ja/tags/python%E8%A9%A6%E9%A8%93/</link>
+    <description>Recent content in python試験 on 右ねじの法則</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 31 Dec 2021 15:17:39 +0900</lastBuildDate>
+    
+        <atom:link href="https://www.rightscrew.com/ja/tags/python%E8%A9%A6%E9%A8%93/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>「Python 3 エンジニア認定データ分析試験」に合格してきた</title>
+        <link>https://www.rightscrew.com/ja/posts/2021-12-31-python-data-analyst/</link>
+        <pubDate>Fri, 31 Dec 2021 15:17:39 +0900</pubDate>
+        
+        <atom:modified>Fri, 31 Dec 2021 15:17:39 +0900</atom:modified>
+        <guid>https://www.rightscrew.com/ja/posts/2021-12-31-python-data-analyst/</guid>
+        <description>&lt;p&gt;お疲れさまです、右ねじです。&lt;br /&gt;
+2021年滑り込みで、Python3エンジニア認定試験に合格してきたので、どんな勉強だったかまとめておきます。&lt;/p&gt;</description>
+        
+        <dc:creator>右ねじ</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python試験</category>
+            
+          
+            
+              <category>Python 3 エンジニア認定データ分析試験</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>お菓子作り on 右ねじの法則</title>
+    <link>https://www.rightscrew.com/ja/tags/%E3%81%8A%E8%8F%93%E5%AD%90%E4%BD%9C%E3%82%8A/</link>
+    <description>Recent content in お菓子作り on 右ねじの法則</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 13 Feb 2021 16:34:54 +0900</lastBuildDate>
+    
+        <atom:link href="https://www.rightscrew.com/ja/tags/%E3%81%8A%E8%8F%93%E5%AD%90%E4%BD%9C%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>なめちゃだめ！ビーントゥバーチョコレートを作ってみよう</title>
+        <link>https://www.rightscrew.com/ja/posts/2021-02-13-insane-chocolate-bar/</link>
+        <pubDate>Sat, 13 Feb 2021 16:34:54 +0900</pubDate>
+        
+        <atom:modified>Sat, 13 Feb 2021 16:34:54 +0900</atom:modified>
+        <guid>https://www.rightscrew.com/ja/posts/2021-02-13-insane-chocolate-bar/</guid>
+        <description>&lt;p&gt;ボーントゥビーワ～イルド&lt;br /&gt;
+右ねじです。&lt;/p&gt;
+&lt;p&gt;バレンタインデーが近づいています。&lt;br /&gt;
+一昨年は普通のチョコを作り、去年はムスカディーヌというチョコをオーダーされたので作りました。&lt;br /&gt;
+今年はどうしようか考えてみたのですが、チョコ作りの工程の中で僕は包装が一番嫌いです。&lt;br /&gt;
+なぜならそこにはレシピがないから。&lt;/p&gt;
+&lt;p&gt;だから今年は、シンプルな包装でも高見えしそうな、板チョコを作ってみようと思います。&lt;br /&gt;
+オーガニック雑貨店とかで売ってる、ああいうやつです。&lt;/p&gt;
+&lt;p&gt;洒落てる板チョコ、作ってみましょう。&lt;/p&gt;</description>
+        
+        <dc:creator>右ねじ</dc:creator>
+        
+        
+        <media:content url="https://www.rightscrew.comhttps://user-images.githubusercontent.com/76581368/107839359-b7e7d500-6dee-11eb-927d-193ac02afc75.jpeg" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>バレンタインデー</category>
+            
+          
+            
+              <category>お菓子作り</category>
+            
+          
+            
+              <category>チョコレート</category>
+            
+          
+            
+              <category>ビーントゥバー</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
