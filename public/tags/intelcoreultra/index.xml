@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>IntelCoreUltra on 右ねじの法則</title>
+    <link>https://www.rightscrew.com/tags/intelcoreultra/</link>
+    <description>Recent content in IntelCoreUltra on 右ねじの法則</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 18 Dec 2023 22:25:35 +0900</lastBuildDate>
+    
+        <atom:link href="https://www.rightscrew.com/tags/intelcoreultra/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>2023年のDELL新製品発表会≒Intel新世代CPU発表会に参加しました</title>
+        <link>https://www.rightscrew.com/posts/2023-12-18-dell-new-products/</link>
+        <pubDate>Mon, 18 Dec 2023 22:25:35 +0900</pubDate>
+        
+        <atom:modified>Mon, 18 Dec 2023 22:25:35 +0900</atom:modified>
+        <guid>https://www.rightscrew.com/posts/2023-12-18-dell-new-products/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/GBpBd2racAAX3f5?format=jpg&amp;amp;name=large&#34; alt=&#34;Dell new Inspiron 13&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;どうも右ねじです。2023年12月15日(金)、私は東京の竹芝にあるメズム東京に来ていました。&lt;br /&gt;
+なぜなら&lt;strong&gt;デルアンバサダーだから。&lt;/strong&gt; そして&lt;strong&gt;抽選で選ばれたから&lt;/strong&gt;。&lt;br /&gt;
+DELLの新製品発表会がこの日行われ、プレス向けの発表の後にデルアンバサダー向けに&lt;br /&gt;
+発表会兼タッチ&amp;amp;トライ会を設けてくれました。&lt;/p&gt;</description>
+        
+        <dc:creator>右ねじ</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>デルアンバサダー</category>
+            
+          
+            
+              <category>新製品発表会</category>
+            
+          
+            
+              <category>DELL</category>
+            
+          
+            
+              <category>IntelCoreUltra</category>
+            
+          
+            
+              <category>NewInspiron13</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
