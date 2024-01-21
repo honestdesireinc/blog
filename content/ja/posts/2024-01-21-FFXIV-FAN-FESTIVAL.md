@@ -3,7 +3,7 @@ title: "デルアンバサダーが見た本気全力の感謝祭、FFXIV FAN FE
 date: 2024-01-21T00:45:06+09:00
 draft: false
 toc: true
-meta_images: "https://pbs.twimg.com/media/GEWkEwQbUAE0lnT?format=jpg&name=large" 
+meta_images: "https://raw.githubusercontent.com/honestdesireinc/images/master/posts/PXL_20240106_232335125.00_40_03_00.%E9%9D%99%E6%AD%A2%E7%94%BB019.png" 
 tags: ["FFXIVFanFes", "FF14", "デルアンバサダー", "ALIENWARE"]
 ---
 
