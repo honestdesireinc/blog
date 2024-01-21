@@ -3,7 +3,7 @@ title: "2023年のDELL新製品発表会≒Intel新世代CPU発表会に参加�
 date: 2023-12-18T22:25:35+09:00
 draft: false
 toc: true
-images: "https://pbs.twimg.com/media/GBpBd2racAAX3f5?format=jpg&name=large" 
+meta_image: "https://pbs.twimg.com/media/GBpBd2racAAX3f5?format=jpg&name=large" 
 tags: ["デルアンバサダー", "新製品発表会", "DELL", "IntelCoreUltra", "NewInspiron13"]
 ---
 
