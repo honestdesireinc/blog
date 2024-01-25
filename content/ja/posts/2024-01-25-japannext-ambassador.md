@@ -1,6 +1,6 @@
 ---
 title: "JAPANNEXTのガス式モニターアームってコスパ最強なんじゃない？ | JN-GC12Vレビュー"
-date: 2024-01-18T17:31:51+09:00
+date: 2024-01-25T17:31:51+09:00
 draft: false
 toc: true
 tags: ["モニターアーム", "JAPANNEXT", "アンバサダー"]
