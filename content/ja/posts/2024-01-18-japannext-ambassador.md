@@ -4,7 +4,7 @@ date: 2024-01-18T17:31:51+09:00
 draft: false
 toc: true
 tags: ["モニターアーム", "JAPANNEXT", "アンバサダー"]
-meta_image: "https://pbs.twimg.com/media/GEiFyeeaoAAfR_-?format=jpg&name=large"
+meta_image: images/JAPANNEXT_monitor_arm.jpg
 ---
 
 ![](https://pbs.twimg.com/media/GEiFyeeaoAAfR_-?format=jpg&name=large)
