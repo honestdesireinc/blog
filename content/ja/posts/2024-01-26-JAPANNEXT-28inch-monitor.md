@@ -1,7 +1,7 @@
 ---
 title: "大画面とウルトラワイドで迷ってる僕の28インチ4Kモニターレビュー | JN-IPSD28UR-C65W"
 date: 2024-01-26T10:56:19+09:00
-draft: true
+draft: false
 toc: true
 tags: ["4Kモニター", "JAPANNEXT", "アンバサダー"]
 meta_image: images/JAPANNEXT_28inch_4k_monitor.png
