@@ -74,10 +74,10 @@ HDMI接続モニター
 
 
 ## 朝・夕・夜で景色が全然違う露天風呂
-![](images/Onsen_Female_OpenAirBath.jpg)
-![](images/Onsen_Male_OpenAirBath.jpg)
+![](https://www.rightscrew.com/images/Onsen_Female_OpenAirBath.jpg)
+![](https://www.rightscrew.com/images/Onsen_Male_OpenAirBath.jpg)
 大浴場の営業時間ですが、朝は6−10時、午後は15−24時に入れます。
-露天風呂から外をみたら海が広がっていて、それが時間帯によって全然景色違います。
+露天風呂から外をみたら海が広がっていて、それが時間帯によって全然景色違う。
 ワーケーションのメリットの一つが、**好きな時に何度でも温泉に入れる**ことですが、
 その時間をうまく調整できれば、
 朝風呂で仕事にギアを入れて、16時頃にご褒美的に夕焼けに染まる海をみて、夜はライトアップされたお風呂を味わうみたいなことができます。
