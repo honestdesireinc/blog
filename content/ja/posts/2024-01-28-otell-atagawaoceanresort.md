@@ -1,7 +1,7 @@
 ---
 title: "温泉と海の絶景につかる熱川ワーケーション | 熱川オーシャンリゾート"
 date: 2024-01-28T11:10:42+09:00
-draft: true
+draft: false
 toc: true
 tags: ["熱川温泉","ワーケーション","Otell","アンバサダー"]
 meta_image: "images/Otell_AtagawaOceanResort.jpg"
@@ -64,6 +64,14 @@ HDMI接続モニター
 ![](https://pbs.twimg.com/media/GE21ZSMbEAEE99e?format=jpg&name=4096x4096)プールサイドカフェなのですが、冬季休業中のため非常に静か。海も見えて景色は最高ですし、15時〜23時と長時間利用できるのもありがたい。
 
 ![](https://pbs.twimg.com/media/GE2zpyzaEAE9cED?format=jpg&name=4096x4096)暗くなるとこのようにライトアップされて、リゾート気分も存分に楽しめます。
+
+また、伊豆高原駅には伊豆急グループが運営しているコワーキングスペースがありました。
+
+![](https://pbs.twimg.com/media/GE22wBPaUAAMaNa?format=jpg&name=4096x4096)しっっっかり職場。
+2時間¥700で利用できて、上の階にあるカフェのドリンク割引もあったので、
+私は最終日チェックアウト後にお昼を食べに伊豆高原にきて、ちょうどいい電車がくるまでここで仕事してました。
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.izukyu.co.jp/" data-iframely-url="//iframely.net/83W48At"></a></div></div><script async src="//iframely.net/embed.js"></script>
+
 
 ## 朝・夕・夜で景色が全然違う露天風呂
 ![](images/Onsen_Female_OpenAirBath.jpg)
