@@ -1,7 +1,7 @@
 ---
 title: "温泉と海の絶景につかる熱川ワーケーション | 熱川オーシャンリゾート"
 date: 2024-01-28T11:10:42+09:00
-draft: false
+draft: true
 toc: true
 tags: ["熱川温泉","ワーケーション","Otell","アンバサダー"]
 meta_image: "images/Otell_AtagawaOceanResort.jpg"
