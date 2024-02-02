@@ -1,7 +1,7 @@
 ---
 title: "かまくら・ダム・温泉…見どころだらけの湯西川温泉 | 亀の井ホテル 日光湯西川"
 date: 2024-02-01T15:02:18+09:00
-draft: true
+draft: false
 toc: true
 tags: ["湯西川温泉","ワーケーション","Otell","アンバサダー"]
 meta_image: "images/Otell_Nikko_Yunishigawa.jpg"
