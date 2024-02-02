@@ -1,6 +1,6 @@
 ---
 title: "かまくら・ダム・温泉…見どころだらけの湯西川温泉 | 亀の井ホテル 日光湯西川"
-date: 2024-02-01T15:02:18+09:00
+date: 2024-02-02T22:02:18+09:00
 draft: false
 toc: true
 tags: ["湯西川温泉","ワーケーション","Otell","アンバサダー"]
@@ -160,6 +160,21 @@ Zoomなどの会議に使うのは、セキュリティー上避けた方がい�
 
 ![](https://pbs.twimg.com/media/GFPNjb2b0AE14Lw?format=jpg&name=4096x4096)ワーケーションの観光要素って、山や川、海や歴史というジャンルが多い中で、
 こういった景色にふった場所を選ぶのも、**一味違って良いな**と思いましたね。
+
+## 湯西川ダムと橋梁もけっこう見ものですよ
+![](https://pbs.twimg.com/media/GFPYScObQAA2ww_?format=jpg&name=4096x4096)最終日、僕はお昼に温泉街を出るバスに乗り、湯西川温泉駅に向かいました。
+車窓には雄大な湖と、それを堰き止める湯西川ダム。
+
+![](https://pbs.twimg.com/media/GFPYfwjagAANEcq?format=jpg&name=4096x4096)川でも流れが緩やかだと、表面に氷張るんですね
+
+![](https://pbs.twimg.com/media/GFPYc6IboAA7WVf?format=jpg&name=4096x4096)上流側には湯西川を突っ切る湯西川橋梁。
+水面に青空が反射しているのが良いですね。お昼に来て良かった。
+
+![](https://pbs.twimg.com/media/GFPYXIGaEAAUOQE?format=jpg&name=4096x4096)ラッキーなことにちょうど電車が通ったりなんかして。
+
+駅に早めに着いて、天然温泉やコーヒーを楽しみながら、
+たまに景色見たり電車見たりしているうちに仕事が片付いていく。
+ワーケーションだから、時間が余ったら仕事すれば良いと考えると気が楽ですね。
 
 ## 最後に一言だけ言わせて
 ![](https://pbs.twimg.com/media/GFPYrNxakAAWLbY?format=jpg&name=4096x4096)湯西川温泉駅の改札からホームに降りる階段**怖すぎる。**
