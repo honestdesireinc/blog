@@ -38,6 +38,8 @@ meta_image: "images/Otell_Nikko_Yunishigawa.jpg"
 
 {{< img src="/images/Otell_Yunishigawa_drone.jpg" caption="写真提供：亀の井ホテル 日光湯西川" alt="image alt" width="700px" position="center" >}}
 
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://otell.jp/nikko_yunishigawa/" data-iframely-url="//iframely.net/LBqeisL?card=small"></a></div></div><script async src="//iframely.net/embed.js"></script>
+
 {{< img src="/images/Otell_Yunishigawa_Bath_men.jpg" caption="写真提供：亀の井ホテル 日光湯西川" alt="image alt" width="700px" position="center" >}}大浴場も抜群のクオリティで、窓の外は雪景色がぼうっと照らされていて
 露天もサウナも水風呂もあり、人それぞれのリフレッシュができるスペック。
 
