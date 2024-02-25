@@ -2,7 +2,7 @@
 title: "人が旅をするのは到着するためではなく、旅をするためである。"
 date: 2024-02-25T15:39:04+09:00
 draft: false
-toc: true
+toc: false
 meta_image: "images/Bluemusk.jpg"
 tags: ["旅行"]
 ---
