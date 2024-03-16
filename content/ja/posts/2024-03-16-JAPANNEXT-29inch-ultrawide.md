@@ -4,7 +4,7 @@ date: 2024-03-16T18:13:58+09:00
 draft: false
 toc: true
 tags: ["ウルトラワイドモニター", "JAPANNEXT", "アンバサダー"]
-meta_image: "https://pbs.twimg.com/media/GIzW-4EaoAAsWDr?format=jpg&name=medium"
+meta_image: images/JAPANNEXT_29inch_ultrawide_monitor.jpg
 ---
 ![](https://pbs.twimg.com/media/GIzW-4EaoAAsWDr?format=jpg&name=medium)
 **M3　Macbook air、モニター2台つなげるのかよ！**<br>
