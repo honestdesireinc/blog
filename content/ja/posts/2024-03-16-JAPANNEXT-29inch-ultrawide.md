@@ -1,5 +1,5 @@
 ---
-title: "モニターと話題は、“幅広い”方がいい。JAPANNEXTのウルトラワイドモニター|JN-IPS291WFHDR-C65W"
+title: "モニターと話題は、“幅広い”方がいい。JAPANNEXTのウルトラワイドモニター | JN-IPS291WFHDR-C65W"
 date: 2024-03-16T18:13:58+09:00
 draft: false
 toc: true
