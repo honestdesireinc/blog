@@ -6,7 +6,7 @@ toc: true
 tags: ["デルアンバサダー", "DELL"]
 ---
 
-![](https://pbs.twimg.com/media/GcWMq2GWQAA-vHv?format=jpg&name=large)
+![](https://pbs.twimg.com/media/GcWw3McW8AEPq9b?format=jpg&name=medium)
 
 どうもデルアンバサダーの右ねじです。
 もうすぐ4万人に到達するという、デルを愛する人たちの集いに応募したところ
