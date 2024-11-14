@@ -4,6 +4,7 @@ date: 2024-11-14T21:43:11+09:00
 draft: false
 toc: true
 tags: ["デルアンバサダー", "DELL"]
+meta_image: https://pbs.twimg.com/media/GcWw3McW8AEPq9b?format=jpg&name=medium
 ---
 
 ![](https://pbs.twimg.com/media/GcWw3McW8AEPq9b?format=jpg&name=medium)
