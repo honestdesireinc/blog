@@ -3,7 +3,7 @@ title: "デルアンバサダー もうすぐ4万人達成大感謝祭に行っ�
 date: 2024-11-14T21:43:11+09:00
 draft: false
 toc: true
-tags: ["デルアンバサダー", "新製品発表会", "DELL"]
+tags: ["デルアンバサダー", "DELL"]
 ---
 
 ![](https://pbs.twimg.com/media/GcWMq2GWQAA-vHv?format=jpg&name=large)
