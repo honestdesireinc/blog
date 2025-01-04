@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Snapdragon on 右ねじの法則</title>
+    <link>https://www.rightscrew.com/ja/tags/snapdragon/</link>
+    <description>Recent content in Snapdragon on 右ねじの法則</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>©2025, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 04 Jan 2025 17:23:10 +0900</lastBuildDate>
+    
+        <atom:link href="https://www.rightscrew.com/ja/tags/snapdragon/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>WindowsにスマホのCPU載せたらどうなるの？|DELL XPS13(9345)</title>
+        <link>https://www.rightscrew.com/ja/posts/2025-01-04-dell-xps-snapdragon/</link>
+        <pubDate>Sat, 04 Jan 2025 17:23:10 +0900</pubDate>
+        
+        <atom:modified>Sat, 04 Jan 2025 17:23:10 +0900</atom:modified>
+        <guid>https://www.rightscrew.com/ja/posts/2025-01-04-dell-xps-snapdragon/</guid>
+        <description>&lt;p&gt;どうも右ねじです。&lt;/p&gt;
+&lt;p&gt;ずっっっっっっっっっと気になっていた機種を デルアンバサダープログラムの1か月モニター企画でお借りすることができました！&lt;br /&gt;
+今回はその使い勝手や性能についてレビューしていきます！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/GgcKqAJa8AEy_IS?format=jpg&amp;amp;name=large&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
+        
+        <dc:creator>右ねじ</dc:creator>
+        
+        
+        <media:content url="https://www.rightscrew.comimages/XPS13-Snapdragon.jpeg" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>デルアンバサダー</category>
+            
+          
+            
+              <category>DELL</category>
+            
+          
+            
+              <category>Copilot&#43;PC</category>
+            
+          
+            
+              <category>Snapdragon</category>
+            
+          
+            
+              <category>XPS13</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
