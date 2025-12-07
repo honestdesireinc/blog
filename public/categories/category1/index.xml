@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Category1 on 右ねじの法則 -それ、いいね。-</title>
-    <link>http://localhost:54411/categories/category1/</link>
+    <link>https://www.rightscrew.com/categories/category1/</link>
     <description>Recent content in Category1 on 右ねじの法則 -それ、いいね。-</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 07 Dec 2025 20:06:47 +0900</lastBuildDate>
-    <atom:link href="http://localhost:54411/categories/category1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.rightscrew.com/categories/category1/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:54411/posts/2025-12-07-dell-pro-13-premium/</link>
+      <title>堅牢で軽く、どこでも繋がりすべてが満たされる | DELL Pro 13 Premium</title>
+      <link>https://www.rightscrew.com/posts/2025-12-07-dell-pro-13-premium/</link>
       <pubDate>Sun, 07 Dec 2025 20:06:47 +0900</pubDate>
-      <guid>http://localhost:54411/posts/2025-12-07-dell-pro-13-premium/</guid>
+      <guid>https://www.rightscrew.com/posts/2025-12-07-dell-pro-13-premium/</guid>
       <description></description>
     </item>
   </channel>

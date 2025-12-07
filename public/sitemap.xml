@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.rightscrew.com/categories/</loc>
+    <lastmod>2025-12-07T20:06:47+09:00</lastmod>
+  </url><url>
+    <loc>https://www.rightscrew.com/categories/category1/</loc>
+    <lastmod>2025-12-07T20:06:47+09:00</lastmod>
+  </url><url>
     <loc>https://www.rightscrew.com/posts/</loc>
     <lastmod>2025-12-07T20:06:47+09:00</lastmod>
   </url><url>
+    <loc>https://www.rightscrew.com/tags/tag1/</loc>
+    <lastmod>2025-12-07T20:06:47+09:00</lastmod>
+  </url><url>
+    <loc>https://www.rightscrew.com/tags/tag2/</loc>
+    <lastmod>2025-12-07T20:06:47+09:00</lastmod>
+  </url><url>
+    <loc>https://www.rightscrew.com/tags/</loc>
+    <lastmod>2025-12-07T20:06:47+09:00</lastmod>
+  </url><url>
     <loc>https://www.rightscrew.com/</loc>
+    <lastmod>2025-12-07T20:06:47+09:00</lastmod>
+  </url><url>
+    <loc>https://www.rightscrew.com/posts/2025-12-07-dell-pro-13-premium/</loc>
     <lastmod>2025-12-07T20:06:47+09:00</lastmod>
   </url><url>
     <loc>https://www.rightscrew.com/posts/2025-07-08-xps13-series2/</loc>
@@ -15,9 +33,6 @@
     <lastmod>2025-07-08T22:46:51+09:00</lastmod>
   </url><url>
     <loc>https://www.rightscrew.com/tags/intel-core-ultra-series-2/</loc>
-    <lastmod>2025-07-08T22:46:51+09:00</lastmod>
-  </url><url>
-    <loc>https://www.rightscrew.com/tags/</loc>
     <lastmod>2025-07-08T22:46:51+09:00</lastmod>
   </url><url>
     <loc>https://www.rightscrew.com/tags/xps13/</loc>
@@ -460,8 +475,6 @@
   </url><url>
     <loc>https://www.rightscrew.com/posts/2019-04-27-dellambassador-start/</loc>
     <lastmod>2019-04-27T13:52:13+09:00</lastmod>
-  </url><url>
-    <loc>https://www.rightscrew.com/categories/</loc>
   </url><url>
     <loc>https://www.rightscrew.com/tags/index/</loc>
   </url><url>
