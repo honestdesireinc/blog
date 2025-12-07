@@ -1,0 +1,708 @@
+<!DOCTYPE html>
+<html lang="ja-jp"
+  x-data
+  :class="$store.darkMode.class()"
+  :data-theme="$store.darkMode.theme()">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=54411&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>人が旅をするのは到着するためではなく、旅をするためである。 | 右ねじの法則 -それ、いいね。-</title>
+
+    
+
+<link rel="canonical" href="http://localhost:54411/posts/2024-02-21-travel-access-plan/" />
+
+
+
+<meta name="author" content="右ねじ" />
+<meta name="description" content="" />
+
+
+<meta name="keywords" content="旅行">
+
+
+
+<meta name="generator" content="Hugo 0.152.2">
+
+
+<meta property="og:url" content="http://localhost:54411/posts/2024-02-21-travel-access-plan/">
+  <meta property="og:site_name" content="右ねじの法則 -それ、いいね。-">
+  <meta property="og:title" content="人が旅をするのは到着するためではなく、旅をするためである。">
+  <meta property="og:locale" content="ja_jp">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2024-02-25T15:39:04+09:00">
+    <meta property="article:modified_time" content="2024-02-25T15:39:04+09:00">
+    <meta property="article:tag" content="旅行">
+
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="人が旅をするのは到着するためではなく、旅をするためである。">
+
+
+
+
+<link rel="stylesheet" href="/css/output.css" />
+
+
+
+
+    
+
+
+<style>
+  pre {
+    padding: 1em;
+    overflow: auto;
+  }
+</style>
+
+
+
+
+
+
+
+
+
+    
+
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.15.1/dist/cdn.min.js" integrity="sha256-Rmqrc5SKeSLTSnQ9shSKWmJco1ks8c1hLI8UG2Np03M=" crossorigin="anonymous"></script>
+  </head>
+
+  <body x-data="{
+    flip: false,
+  }">
+    
+    <div id="dream-global-bg"></div>
+
+    
+<nav class="mt-4 lg:mt-8 py-4">
+
+  
+  <div class="container flex justify-between px-4">
+  
+    <section class="flex items-center gap-4">
+      <div class="avatar cursor-pointer hover:avatar-online" @click="flip = !flip" title="Flip it!">
+        <div class="h-10 rounded-full">
+          <img src="/logo.png" alt="右ねじの法則" />
+        </div>
+      </div>
+
+      
+      <div>
+        
+        <a href="http://localhost:54411/" class="text-lg font-semibold cursor-pointer">
+          右ねじの法則
+        </a>
+        
+        
+        <div class="text-base-content/60 text-sm">それ、いいね。</div>
+        
+      </div>
+      
+    </section>
+
+    
+    
+
+    <div class="dropdown dropdown-end sm:hidden">
+      <div tabindex="0" role="button" class="btn btn-ghost btn-square" aria-label="Select an option">
+        <ion-icon name="menu" class="text-2xl"></ion-icon>
+      </div>
+      <ul tabindex="0" class="dropdown-content menu w-36 bg-base-100 rounded-box z-1 shadow-md">
+        
+
+
+
+
+
+
+
+<li>
+  <div role="link" tabindex="0" class="inline-flex items-center p-2 cursor-pointer" @click="flip = !flip" title="About">
+    <ion-icon name="information-circle"></ion-icon>About</div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/posts" title="Archives">
+    <ion-icon name="archive"></ion-icon>
+    Archives
+  </a>
+</li>
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/categories" title="All Categories">
+    <ion-icon name="grid"></ion-icon>
+    All Categories
+  </a>
+</li>
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/tags" title="All Tags">
+    <ion-icon name="pricetags"></ion-icon>
+    All Tags
+  </a>
+</li>
+
+
+
+
+
+
+      </ul>
+    </div>
+    <section class="hidden sm:flex sm:items-center sm:gap-2 md:gap-4">
+      
+
+      
+      
+
+
+
+
+<div role="link" tabindex="0" class="text-sm font-semibold cursor-pointer hover:underline" @click="flip = !flip" title="About">About</div>
+
+
+
+
+
+      
+      
+
+
+
+
+
+      
+      
+
+
+
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/posts" title="Archives">
+  <ion-icon class="group-hover:text-primary-content" name="archive"></ion-icon>
+</a>
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/categories" title="All Categories">
+  <ion-icon class="group-hover:text-primary-content" name="grid"></ion-icon>
+</a>
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/tags" title="All Tags">
+  <ion-icon class="group-hover:text-primary-content" name="pricetags"></ion-icon>
+</a>
+
+
+      
+
+      
+
+      
+    </section>
+  </div>
+</nav>
+
+
+    <div class="flip-container" :class="{ 'flip-it': flip }">
+      <div class="flipper">
+        <div class="front">
+          <div class="container">
+            
+<div class="lg:grid lg:grid-cols-4 gap-4 mt-4 px-4">
+  <div class="hidden lg:block">
+    
+  </div>
+
+  <div class="lg:col-span-2">
+    <article class="mx-auto prose prose-quoteless dark:prose-invert" id="dream-single-post-main" itemscope itemtype="http://schema.org/Article">
+      
+  <meta itemprop="name" content="人が旅をするのは到着するためではなく、旅をするためである。">
+  <meta itemprop="datePublished" content="2024-02-25T15:39:04+09:00">
+  <meta itemprop="dateModified" content="2024-02-25T15:39:04+09:00">
+  <meta itemprop="wordCount" content="71">
+  <meta itemprop="keywords" content="旅行">
+
+      <header>
+        <h1 itemprop="headline">人が旅をするのは到着するためではなく、旅をするためである。</h1>
+        <p class="text-sm">
+          
+            Sunday, Feb 25, 2024
+          
+
+          | <span>1 minute read</span>
+
+          
+          | <span>Updated at
+            
+              Sunday, Feb 25, 2024
+            </span>
+          
+        </p>
+
+        
+        <div class="flex justify-between">
+          
+            <div class="flex items-center">
+  
+  <span>@</span>
+  
+
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+  
+    <span itemprop="name">右ねじ</span>
+  
+  </span>
+</div>
+
+          
+
+          <div class="flex items-center gap-2">
+  
+  
+
+  
+  
+  
+  
+  
+    <a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary"
+      href="https://x.com/intent/post?text=%e4%ba%ba%e3%81%8c%e6%97%85%e3%82%92%e3%81%99%e3%82%8b%e3%81%ae%e3%81%af%e5%88%b0%e7%9d%80%e3%81%99%e3%82%8b%e3%81%9f%e3%82%81%e3%81%a7%e3%81%af%e3%81%aa%e3%81%8f%e3%80%81%e6%97%85%e3%82%92%e3%81%99%e3%82%8b%e3%81%9f%e3%82%81%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82&amp;url=http://localhost:54411/posts/2024-02-21-travel-access-plan/" target="_blank" rel="noopener noreferrer"
+      title="Share on X">
+      <ion-icon class="group-hover:text-primary-content" name="logo-x"></ion-icon>
+    </a>
+  
+    <a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary"
+      href="https://facebook.com/sharer/sharer.php?u=http://localhost:54411/posts/2024-02-21-travel-access-plan/" target="_blank" rel="noopener noreferrer"
+      title="Share on Facebook">
+      <ion-icon class="group-hover:text-primary-content" name="logo-facebook"></ion-icon>
+    </a>
+  
+    <a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary"
+      href="https://wa.me/?text=%e4%ba%ba%e3%81%8c%e6%97%85%e3%82%92%e3%81%99%e3%82%8b%e3%81%ae%e3%81%af%e5%88%b0%e7%9d%80%e3%81%99%e3%82%8b%e3%81%9f%e3%82%81%e3%81%a7%e3%81%af%e3%81%aa%e3%81%8f%e3%80%81%e6%97%85%e3%82%92%e3%81%99%e3%82%8b%e3%81%9f%e3%82%81%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82%20http://localhost:54411/posts/2024-02-21-travel-access-plan/" target="_blank" rel="noopener noreferrer"
+      title="Share on WhatsApp">
+      <ion-icon class="group-hover:text-primary-content" name="logo-whatsapp"></ion-icon>
+    </a>
+  
+
+  
+  
+</div>
+
+        </div>
+      </header>
+
+      <section id="dream-single-post-content" itemprop="articleBody">
+        
+
+        <p>ゲーテの言葉です。
+どうも右ねじです。
+久しぶりに文字でウダウダ言おうかなと思いまして。<br></p>
+<p>「旅に出ようと思うとき、映像が先か言葉が先か」というテーマが自分の中であって、
+よくいう自分探しの旅なんかは、言葉が先にあって、それを自分の目標にしているからその先の映像は何が待ち受けているかわからない旅になると思っているんですが
+たとえば図鑑や資料集、ネットで映像だけ見たことがある時は映像が先にあって、その後に「あれ見にいきたいな」っていう言葉がついてくると思うんです。</p>
+<p>多分昔は言葉が先の旅が多かったけど、最近では絶滅寸前なんじゃないかな。
+でも僕は言葉が先の旅が好きで、だからいつも旅に出ることにした経緯が大事で、行った先ではその言葉を実現させる以外のことは実はあまりこだわってない。
+旅程を組むのがものすごく好きなのは、それが理由だと思っているんです。</p>
+<p>映像が先の旅も時々やりますよ？
+僕は建築も好きなので、イスラム寺院の名建築をまわる旅とか、
+水族館の大水槽を泳ぐ色とりどりの魚を観たいとか、観たい映像が先にある旅。
+でもなぜか、なかなか計画段階で”良い旅”にすることができないんですよ。
+もしかしたら向き不向きがあるのかもしれないです。
+<img src="/images/Bluemusk.jpg" alt=""></p>
+<p>言葉が先の旅だったら、本当にわかりやすいところだと「４７都道府県埋める旅」とか。
+東京から長野を通り富山入り、黒部ダム見学だけして
+福井滋賀岐阜愛知三重と通って、伊勢神宮見学、
+あと鳥取島根を埋めたかったから行って、
+最後広島から帰ってくるという自家用車の旅でしたが
+白地図を埋めたいだけだったのが、サッカー観戦２試合＋観光もそこそこできて、充実度の高い旅でした。</p>
+<p>あとは大学卒業旅行として、「先祖に挨拶しにいく旅」。
+自分と仲の良かった友達2人がみんな九州にルーツを持っていて、
+親戚が今も住んでたり、史跡が残ってたりするから挨拶しにいくか！という旅は
+九州のバス乗り放題「SANQ」パスとも出会うことができ、思い出に残っています。</p>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.sunqpass.jp/" data-iframely-url="//iframely.net/w42hiFt"></a></div></div><script async src="//iframely.net/embed.js"></script>
+<br>
+<p>映像が先だと、天候や太陽の位置が関係ないものだったらいつでもよくなっちゃう。
+言葉が、目的が先であれば、まずその目的を果たすためのスケジュールを決められるから、
+その合間の時間に何を入れるかって考える方が、自分は得意なのかもしれません。
+結構どんなことも、締め切りがいつか？が決まってないと動き出せない人間だから。</p>
+<p>そういえば、2022年の11月から去年の夏まで、仕事をお休みしてました。
+社会人になってからずっと、平日も土日も関係なくずっと仕事しているみたいな感覚で、
+一人暮らしをはじめたり、リモート勤務がはじまって、だんだんと仕事とプライベートが切り離せなくなっていたんだと思います。
+会社からいつ電話がかかってくるかわからないからって、海外旅行にまで会社携帯を持ち歩いていたのは、
+今考えればおかしかったなってわかります。</p>
+<p>それまでずっと家に引きこもって仕事だけしていた生活から、
+自分をもう一度立ち上がれるようにするためにしたのが
+「温泉につかりたい」から決めた旅行でした。
+家にずっと居たくない、でも実家にもまだ行きたくない。やることも特にない。
+でも温泉に行けば、風呂入ってるだけで何かをできてることになる。達成したことになる。
+それってなんかお得なタスクに思えて、しかも幹線は高いから特急で
+松本の浅間温泉に行って、達成して、自己肯定感を回復しました。</p>
+<p>それから
+「USJに行きたい」
+「石和温泉行きたい」
+「有名な占い師にみてもらいたい」
+「沖縄いきたい」
+「15年ぶりに台湾行きたい」
+「にじさんじの４７都道府県広告おいかけたい」
+「広島県で3番目の都市に行きたい」
+「切り抜き動画作るための素材を撮りに行きたい」
+「無料で香港旅行行きたい」
+「ワーケーションしてみたい」
+「#岐阜県いいところつめの動画を作りたい」
+といった感じで湧き上がった言葉を実現させる旅を繰り返して、
+昨年職場復帰し、現在に至ります。</p>
+<p>旅行って、楽しかったとか美味しかっただけじゃなくて、
+良い旅行ができた！って思えると自己肯定感も上がる。
+企画し、計画を立て、予算を決め、実行し、成果を得る。
+コレ実は、やってること仕事と大枠で同じだと思うんです。</p>
+<p>僕がそうだったから誰でもそうってわけじゃないのは承知ですが
+仕事で自信を失ってる人とか
+自分には何ができるんだろうって悩んでる人は、
+目的地はどこでもいいから、
+「これなら自分が楽しめそうだ」って思える旅行の
+企画を考えてみてはいかがでしょうか。</p>
+<p>この記事のタイトルは冒頭に書いたようにゲーテの言葉らしいです。
+映像が先か言葉が先かのテーマの中で、
+ゲーテは言葉が先の旅が好きだったのかなと思うんです。</p>
+<p>インターネットの普及による昨今の「映像が先」になりがちな旅行ブームのなかで、
+オーバーツーリズムにより観光地側も、旅の充実度の観点で旅行者側も、
+モヤモヤしたり不完全燃焼感を抱えているんじゃないかと思います。
+少しでもそう感じたなら、言葉が先の、旅行をするために旅に出ませんか。</p>
+
+        
+      </section>
+
+      
+
+      
+    </article>
+  </div>
+
+  <div
+    x-data="tocHighlighter()"
+    @scroll.window="debouncedScroll"
+    class="hidden lg:flex lg:flex-col lg:items-end"
+  >
+    
+  </div>
+</div>
+
+
+            
+<footer class="flex justify-between items-center gap-2 px-4 py-12">
+
+  <div>
+  
+  <p>
+    © 2020 - 2025 右ねじの法則 -それ、いいね。-
+  </p>
+  
+
+  
+  <p class="text-sm">
+    🌱
+    <span class="text-base-content/60">
+      Powered by <a class="hover:underline" href="https://gohugo.io/" target="_blank">Hugo</a> with theme
+      <a class="hover:underline" href="https://github.com/g1eny0ung/hugo-theme-dream" target="_blank">Dream</a>.</span
+    >
+  </p>
+  
+</div>
+
+  <div
+  x-data="{ icons: [
+    { name: 'sunny', status: 'n' },
+    { name: 'moon', status: 'y' },
+    { name: 'desktop', status: 'auto' }
+  ] }"
+  class="flex items-center gap-2 h-[32px] px-2 bg-base-100 border border-base-content/30 rounded-full"
+>
+  <template x-for="icon in icons">
+    <div
+      role="button"
+      tabindex="0"
+      :aria-label="'Select ' + icon.name + ' mode'"
+      class="group inline-flex justify-center items-center p-1 rounded-full cursor-pointer hover:bg-primary"
+      :class="$store.darkMode.icon() === icon.name && 'bg-primary'"
+      @click="$store.darkMode.toggle(icon.status)"
+    >
+      <ion-icon
+        :name="`${icon.name}-outline`"
+        class="group-hover:text-primary-content"
+        :class="$store.darkMode.icon() === icon.name && 'text-primary-content'"
+      >
+      </ion-icon>
+    </div>
+  </template>
+</div>
+
+</footer>
+
+          </div>
+        </div>
+        <div class="back">
+          <div class="container">
+            
+            <div class="dream-grid dream-grid-about">
+  
+  
+  
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <article
+      class="card bg-base-100 hover:bg-base-content/10 shadow-xl dark:border dark:border-base-content/30"
+    >
+      <div class="card-body">
+        <div class="card-title">About</div>
+
+        <div class="prose dark:prose-invert">
+          <h2 id="rightscrew">Rightscrew</h2>
+<p>Rightscrewは、2011年に活動を開始した体験レポ・ガジェットレビューを行うマイクロメディアです。
+DELL社製PCの関連記事を累計21本執筆し、2020年に「デルアンバサダー 最優秀賞」受賞。</p>
+<h2 id="右ねじ">右ねじ</h2>
+<p>Rightscrew代表。学生時代より動画編集を得意とし、本業の傍らウェディングムービーなどを制作。
+幼少期に抱いていた美術に対するコンプレックスを克服してからは、
+イラストやデジタル油彩を中心に、LINEスタンプショップやSuzuriでグッズ化も行っている。</p>
+<p>資格取得が好きで、よく一夜漬けで試験にのぞみ、それもまた体験レポになる。</p>
+
+        </div>
+      </div>
+    </article>
+  </div>
+  
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <article
+      class="card bg-base-100 hover:bg-base-content/10 shadow-xl dark:border dark:border-base-content/30"
+    >
+      <div class="card-body">
+        <div class="card-title">Skills</div>
+
+        <div class="prose dark:prose-invert">
+          <h3 id="資格一覧">資格一覧</h3>
+<div class="box"><p><strong>IT IPA系</strong></p>
+<ul>
+<li>基本情報技術者</li>
+<li>応用情報技術者</li>
+<li>情報セキュリティマネジメント</li>
+<li>ITパスポート</li>
+</ul>
+<br>
+<p><strong>IT 実務系</strong></p>
+<ul>
+<li>AWS Certified Solutions Architect – Professional</li>
+<li>Ruby Association Certified Ruby Programmer Silver version 2.1</li>
+<li>Python3エンジニア認定データ分析試験</li>
+</ul>
+<br>
+<p><strong>商工会議所系</strong></p>
+<ul>
+<li>メンタルヘルス・マネジメント検定試験Ⅱ種（ラインケアコース）</li>
+<li>ビジネス実務法務検定試験2級</li>
+<li>日商簿記検定試験3級</li>
+<li>ビジネスマネジャー検定</li>
+</ul>
+<br>
+<p><strong>語学系</strong></p>
+<ul>
+<li>実用英語技能検定2級</li>
+<li>日本漢字能力検定準二級</li>
+</ul>
+</div>
+
+        </div>
+      </div>
+    </article>
+  </div>
+  
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <article
+      class="card bg-base-100 hover:bg-base-content/10 shadow-xl dark:border dark:border-base-content/30"
+    >
+      <div class="card-body">
+        <div class="card-title">Portfolio</div>
+
+        <div class="prose dark:prose-invert">
+          <h3 id="works">Works</h3>
+<ul>
+<li><strong>DELLアンバサダー</strong>: 関連記事累計25本執筆, 「デルアンバサダー 最優秀賞」受賞 (2020年)</li>
+<li><strong>制作物</strong>:
+<ul>
+<li><a href="https://www.youtube.com/@%E5%8F%B3%E3%81%AD%E3%81%98" target="_blank"><strong>YouTube</strong></a>
+ Vtuberの切り抜き中心</li>
+<li><a href="https://store.line.me/stickershop/author/251528/ja" target="_blank"><strong>LINEスタンプ</strong></a>
+</li>
+<li><a href="https://suzuri.jp/Rightscrew" target="_blank"><strong>Suzuri</strong></a>
+ グッズ販売 (イラスト・デジタル油彩)</li>
+<li><a href="https://www.instagram.com/smitho_00/" target="_blank"><strong>Instagram</strong></a>
+</li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+    </article>
+  </div>
+  
+  
+
+  
+
+  
+</div>
+
+            
+
+            
+<footer class="flex justify-between items-center gap-2 px-4 py-12">
+
+  <div>
+  
+  <p>
+    © 2020 - 2025 右ねじの法則 -それ、いいね。-
+  </p>
+  
+
+  
+  <p class="text-sm">
+    🌱
+    <span class="text-base-content/60">
+      Powered by <a class="hover:underline" href="https://gohugo.io/" target="_blank">Hugo</a> with theme
+      <a class="hover:underline" href="https://github.com/g1eny0ung/hugo-theme-dream" target="_blank">Dream</a>.</span
+    >
+  </p>
+  
+</div>
+
+  <div
+  x-data="{ icons: [
+    { name: 'sunny', status: 'n' },
+    { name: 'moon', status: 'y' },
+    { name: 'desktop', status: 'auto' }
+  ] }"
+  class="flex items-center gap-2 h-[32px] px-2 bg-base-100 border border-base-content/30 rounded-full"
+>
+  <template x-for="icon in icons">
+    <div
+      role="button"
+      tabindex="0"
+      :aria-label="'Select ' + icon.name + ' mode'"
+      class="group inline-flex justify-center items-center p-1 rounded-full cursor-pointer hover:bg-primary"
+      :class="$store.darkMode.icon() === icon.name && 'bg-primary'"
+      @click="$store.darkMode.toggle(icon.status)"
+    >
+      <ion-icon
+        :name="`${icon.name}-outline`"
+        class="group-hover:text-primary-content"
+        :class="$store.darkMode.icon() === icon.name && 'text-primary-content'"
+      >
+      </ion-icon>
+    </div>
+  </template>
+</div>
+
+</footer>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+  window.lightTheme = "emerald"
+  window.darkTheme = "forest"
+</script>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
+
+  
+  
+  <script src="/js/grid.js"></script>
+
+
+
+
+<script src="/js/main.js"></script>
+
+    
+
+
+
+
+
+
+
+<script src="/js/toc.js"></script>
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+    
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-89D5XHLKNM"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-89D5XHLKNM');
+        }
+      </script>
+    
+
+    <script type="module" src="https://cdn.jsdelivr.net/npm/ionicons@7.4.0/dist/ionicons/ionicons.esm.js" integrity="sha256-/IFmi82bIhdYWctu0UddSlJqpnzWm7Vh2C4CM32wF/k=" crossorigin="anonymous"></script>
+    <script nomodule src="https://cdn.jsdelivr.net/npm/ionicons@7.4.0/dist/ionicons/ionicons.js" integrity="sha256-mr7eJMX3VC3F7G32mk4oWp1C6a2tlMYxUdptfT7uKI8=" crossorigin="anonymous"></script>
+  </body>
+</html>

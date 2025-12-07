@@ -1,0 +1,44 @@
+baseURL = 'https://www.rightscrew.com/'
+languageCode = 'ja-jp'
+title = '右ねじの法則 -それ、いいね。-'
+theme = 'dream'
+
+# Google Analytics
+googleAnalytics = "UA-136465620-1"
+
+[services]
+  [services.googleAnalytics]
+    ID = "G-89D5XHLKNM"
+
+[params]
+zenMode = false # Disable zen mode to use the grid layout
+author = "右ねじ"
+headerTitle = "右ねじの法則"
+motto = "それ、いいね。"
+avatar = "/logo.png"
+siteStartYear = 2020
+
+lightTheme = "emerald"
+darkTheme = "forest"
+
+[menu] 
+  [[menu.main]]
+    identifier = "archives"
+    name = "アーカイブ"
+    url = "/posts"
+    pre = '<ion-icon name="archive"></ion-icon>'
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "タグ一覧"
+    url = "/tags"
+    pre = '<ion-icon name="pricetags"></ion-icon>'
+    weight = 2
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

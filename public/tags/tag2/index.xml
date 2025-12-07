@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag2 on 右ねじの法則 -それ、いいね。-</title>
+    <link>http://localhost:54411/tags/tag2/</link>
+    <description>Recent content in Tag2 on 右ねじの法則 -それ、いいね。-</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 07 Dec 2025 20:06:47 +0900</lastBuildDate>
+    <atom:link href="http://localhost:54411/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:54411/posts/2025-12-07-dell-pro-13-premium/</link>
+      <pubDate>Sun, 07 Dec 2025 20:06:47 +0900</pubDate>
+      <guid>http://localhost:54411/posts/2025-12-07-dell-pro-13-premium/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

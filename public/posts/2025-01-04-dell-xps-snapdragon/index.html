@@ -1,0 +1,819 @@
+<!DOCTYPE html>
+<html lang="ja-jp"
+  x-data
+  :class="$store.darkMode.class()"
+  :data-theme="$store.darkMode.theme()">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=54411&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WindowsにスマホのCPU載せたらどうなるの？|DELL XPS13(9345) | 右ねじの法則 -それ、いいね。-</title>
+
+    
+
+<link rel="canonical" href="http://localhost:54411/posts/2025-01-04-dell-xps-snapdragon/" />
+
+
+
+<meta name="author" content="右ねじ" />
+<meta name="description" content="" />
+
+
+<meta name="keywords" content="デルアンバサダー,DELL,Copilot&#43;PC,Snapdragon,XPS13">
+
+
+
+<meta name="generator" content="Hugo 0.152.2">
+
+
+<meta property="og:url" content="http://localhost:54411/posts/2025-01-04-dell-xps-snapdragon/">
+  <meta property="og:site_name" content="右ねじの法則 -それ、いいね。-">
+  <meta property="og:title" content="WindowsにスマホのCPU載せたらどうなるの？|DELL XPS13(9345)">
+  <meta property="og:locale" content="ja_jp">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2025-01-04T17:23:10+09:00">
+    <meta property="article:modified_time" content="2025-01-04T17:23:10+09:00">
+    <meta property="article:tag" content="デルアンバサダー">
+    <meta property="article:tag" content="DELL">
+    <meta property="article:tag" content="Copilot&#43;PC">
+    <meta property="article:tag" content="Snapdragon">
+    <meta property="article:tag" content="XPS13">
+
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="WindowsにスマホのCPU載せたらどうなるの？|DELL XPS13(9345)">
+
+
+
+
+<link rel="stylesheet" href="/css/output.css" />
+
+
+
+
+    
+
+
+<style>
+  pre {
+    padding: 1em;
+    overflow: auto;
+  }
+</style>
+
+
+
+
+
+
+
+
+
+    
+
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.15.1/dist/cdn.min.js" integrity="sha256-Rmqrc5SKeSLTSnQ9shSKWmJco1ks8c1hLI8UG2Np03M=" crossorigin="anonymous"></script>
+  </head>
+
+  <body x-data="{
+    flip: false,
+  }">
+    
+    <div id="dream-global-bg"></div>
+
+    
+<nav class="mt-4 lg:mt-8 py-4">
+
+  
+  <div class="container flex justify-between px-4">
+  
+    <section class="flex items-center gap-4">
+      <div class="avatar cursor-pointer hover:avatar-online" @click="flip = !flip" title="Flip it!">
+        <div class="h-10 rounded-full">
+          <img src="/logo.png" alt="右ねじの法則" />
+        </div>
+      </div>
+
+      
+      <div>
+        
+        <a href="http://localhost:54411/" class="text-lg font-semibold cursor-pointer">
+          右ねじの法則
+        </a>
+        
+        
+        <div class="text-base-content/60 text-sm">それ、いいね。</div>
+        
+      </div>
+      
+    </section>
+
+    
+    
+
+    <div class="dropdown dropdown-end sm:hidden">
+      <div tabindex="0" role="button" class="btn btn-ghost btn-square" aria-label="Select an option">
+        <ion-icon name="menu" class="text-2xl"></ion-icon>
+      </div>
+      <ul tabindex="0" class="dropdown-content menu w-36 bg-base-100 rounded-box z-1 shadow-md">
+        
+
+
+
+
+
+
+
+<li>
+  <div role="link" tabindex="0" class="inline-flex items-center p-2 cursor-pointer" @click="flip = !flip" title="About">
+    <ion-icon name="information-circle"></ion-icon>About</div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/posts" title="Archives">
+    <ion-icon name="archive"></ion-icon>
+    Archives
+  </a>
+</li>
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/categories" title="All Categories">
+    <ion-icon name="grid"></ion-icon>
+    All Categories
+  </a>
+</li>
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/tags" title="All Tags">
+    <ion-icon name="pricetags"></ion-icon>
+    All Tags
+  </a>
+</li>
+
+
+
+
+
+
+      </ul>
+    </div>
+    <section class="hidden sm:flex sm:items-center sm:gap-2 md:gap-4">
+      
+
+      
+      
+
+
+
+
+<div role="link" tabindex="0" class="text-sm font-semibold cursor-pointer hover:underline" @click="flip = !flip" title="About">About</div>
+
+
+
+
+
+      
+      
+
+
+
+
+
+      
+      
+
+
+
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/posts" title="Archives">
+  <ion-icon class="group-hover:text-primary-content" name="archive"></ion-icon>
+</a>
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/categories" title="All Categories">
+  <ion-icon class="group-hover:text-primary-content" name="grid"></ion-icon>
+</a>
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/tags" title="All Tags">
+  <ion-icon class="group-hover:text-primary-content" name="pricetags"></ion-icon>
+</a>
+
+
+      
+
+      
+
+      
+    </section>
+  </div>
+</nav>
+
+
+    <div class="flip-container" :class="{ 'flip-it': flip }">
+      <div class="flipper">
+        <div class="front">
+          <div class="container">
+            
+<div class="lg:grid lg:grid-cols-4 gap-4 mt-4 px-4">
+  <div class="hidden lg:block">
+    
+  </div>
+
+  <div class="lg:col-span-2">
+    <article class="mx-auto prose prose-quoteless dark:prose-invert" id="dream-single-post-main" itemscope itemtype="http://schema.org/Article">
+      
+  <meta itemprop="name" content="WindowsにスマホのCPU載せたらどうなるの？|DELL XPS13(9345)">
+  <meta itemprop="datePublished" content="2025-01-04T17:23:10+09:00">
+  <meta itemprop="dateModified" content="2025-01-04T17:23:10+09:00">
+  <meta itemprop="wordCount" content="205">
+  <meta itemprop="keywords" content="デルアンバサダー,DELL,Copilot&#43;PC,Snapdragon,XPS13">
+
+      <header>
+        <h1 itemprop="headline">WindowsにスマホのCPU載せたらどうなるの？|DELL XPS13(9345)</h1>
+        <p class="text-sm">
+          
+            Saturday, Jan 4, 2025
+          
+
+          | <span>1 minute read</span>
+
+          
+          | <span>Updated at
+            
+              Saturday, Jan 4, 2025
+            </span>
+          
+        </p>
+
+        
+        <div class="flex justify-between">
+          
+            <div class="flex items-center">
+  
+  <span>@</span>
+  
+
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+  
+    <span itemprop="name">右ねじ</span>
+  
+  </span>
+</div>
+
+          
+
+          <div class="flex items-center gap-2">
+  
+  
+
+  
+  
+  
+  
+  
+    <a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary"
+      href="https://x.com/intent/post?text=Windows%e3%81%ab%e3%82%b9%e3%83%9e%e3%83%9b%e3%81%aeCPU%e8%bc%89%e3%81%9b%e3%81%9f%e3%82%89%e3%81%a9%e3%81%86%e3%81%aa%e3%82%8b%e3%81%ae%ef%bc%9f%7cDELL%20XPS13%289345%29&amp;url=http://localhost:54411/posts/2025-01-04-dell-xps-snapdragon/" target="_blank" rel="noopener noreferrer"
+      title="Share on X">
+      <ion-icon class="group-hover:text-primary-content" name="logo-x"></ion-icon>
+    </a>
+  
+    <a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary"
+      href="https://facebook.com/sharer/sharer.php?u=http://localhost:54411/posts/2025-01-04-dell-xps-snapdragon/" target="_blank" rel="noopener noreferrer"
+      title="Share on Facebook">
+      <ion-icon class="group-hover:text-primary-content" name="logo-facebook"></ion-icon>
+    </a>
+  
+    <a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary"
+      href="https://wa.me/?text=Windows%e3%81%ab%e3%82%b9%e3%83%9e%e3%83%9b%e3%81%aeCPU%e8%bc%89%e3%81%9b%e3%81%9f%e3%82%89%e3%81%a9%e3%81%86%e3%81%aa%e3%82%8b%e3%81%ae%ef%bc%9f%7cDELL%20XPS13%289345%29%20http://localhost:54411/posts/2025-01-04-dell-xps-snapdragon/" target="_blank" rel="noopener noreferrer"
+      title="Share on WhatsApp">
+      <ion-icon class="group-hover:text-primary-content" name="logo-whatsapp"></ion-icon>
+    </a>
+  
+
+  
+  
+</div>
+
+        </div>
+      </header>
+
+      <section id="dream-single-post-content" itemprop="articleBody">
+        
+
+        <p>どうも右ねじです。</p>
+<p>ずっっっっっっっっっと気になっていた機種を デルアンバサダープログラムの1か月モニター企画でお借りすることができました！
+今回はその使い勝手や性能についてレビューしていきます！</p>
+<p><img src="https://pbs.twimg.com/media/GgcKqAJa8AEy_IS?format=jpg&amp;name=large" alt=""></p>
+<h2 id="xps-139345-snapdragon-x-elite">XPS 13(9345-Snapdragon X Elite)</h2>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 70.1754%; padding-top: 120px;"><a href="https://www.dell.com/ja-jp/shop/dell%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/xps-13-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/spd/xps-13-9345-laptop" data-iframely-url="//iframely.net/6DFmSZv"></a></div></div><script async src="//iframely.net/embed.js"></script>
+<br>
+<p>今回お借りしたのは以下のスペックです。公式ストアでは266,000円(税込・送料込)！</p>
+<table>
+  <thead>
+      <tr>
+          <th>モデル名</th>
+          <th>XPS 13(9345)</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>CPU</td>
+          <td>Snapdragon® X Elite X1E-80-100</td>
+      </tr>
+      <tr>
+          <td>メモリ</td>
+          <td>16GB 省電力DDR5メモリ</td>
+      </tr>
+      <tr>
+          <td>ストレージ</td>
+          <td>512GB NVMe SSD</td>
+      </tr>
+      <tr>
+          <td>グラフィックス</td>
+          <td>Qualcomm® Adreno™ GPU</td>
+      </tr>
+      <tr>
+          <td>ディスプレイ</td>
+          <td>13.4インチ 3K OLEDタッチパネル</td>
+      </tr>
+      <tr>
+          <td>OS</td>
+          <td>Windows 11 24H2</td>
+      </tr>
+      <tr>
+          <td>重量</td>
+          <td>1.17kg</td>
+      </tr>
+      <tr>
+          <td>ポート類</td>
+          <td>USB Type-C×2(充電&amp;映像出力可)</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>バッテリー持続時間は驚きの27時間！</strong>
+ただ起動バッテリーがもった、というわけではなくNETFLIXで1080pの動画を再生していて27時間もったというのですから、
+スマホのほとんどに採用されるSnapdragonの省電力性能はやっぱりすごい！</p>
+<p><img src="https://pbs.twimg.com/media/GgcK-oZbgAAXQWz?format=jpg&amp;name=large" alt=""></p>
+<p>ポートは他のXPSシリーズと同様、USB Type-Cポートが左右に1つずつあるだけです。
+ワイヤレスイヤホンが普及したし、モニターへの出力はハブ経由でやりな〜みたいな感じですね。</p>
+<p>デザイン面でいうと特にSnapdragonだからといって変わってる部分はなく、
+没入感を高めるフレームレスディスプレイ、極狭ベゼルに隠れているWebカメラだったり
+シームレスなタッチパッドは他に類を見ない特徴です。
+タッチ式のファンクションキーも健在で、Escやdeleteキーが物理キーから消えています。
+このあたりは以前レビューした時にも違和感を述べさせていただきましたが、
+XPSのターゲットユーザーはEscもdeleteもあまり使わない、ということなんでしょう。</p>
+<p><img src="https://pbs.twimg.com/media/GgcKyTXbQAAFqJH?format=jpg&amp;name=large" alt="">
+<img src="https://pbs.twimg.com/media/GgcK09Ra8AED-PP?format=jpg&amp;name=large" alt=""></p>
+<p>天板・底板は無機質なアルミ削り出しで、底板左右にスピーカーが配置されています。
+音質はというと「ノートパソコンなり」のものでしたが、かといって気にする程ではないレベル。
+ディスプレイの縁が狭い分、全体的に13インチの中でも小さく、軽く感じます。</p>
+<p><img src="https://pbs.twimg.com/media/GgcK8jmbAAAYwTO?format=jpg&amp;name=large" alt="">
+<img src="https://pbs.twimg.com/media/GgcLH4kbIAAL6TF?format=jpg&amp;name=large" alt=""></p>
+<p><strong>長時間使えて、軽くて外に持ち運べるというのが使ってみてイイよね！</strong>
+というのがこのPCの特徴です。</p>
+<h2 id="copilotpc認定なのでオフラインでaiが使える">Copilot+PC認定なのでオフラインでAIが使える</h2>
+<p>このXPS 13のCPU、Snapdragon X EliteにはAI専用のコア「NPU」が入っています。
+DELLのCopilot+PCの発表会、先日のデルアンバサダー4万人感謝祭で聞いた話だと、
+NPUが内蔵されていることによってオフライン環境でも生成AIを用いてイラストを出力したり、
+英語のコンテンツを視聴しながらリアルタイムで翻訳させることができます。</p>
+<p><img src="https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-com-landing-page/student-laptop-section-dt-mobile.png?fmt=jpg&amp;wid=1600&amp;hei=1084" alt=""></p>
+<p>これは本来、ChatGPTを利用するならインターネット接続が必要になりますが
+ネットに接続することによってセキュリティリスクが発生します。
+NPUでAIを使えたら、そのリスクを避けることができるので、
+セキュリティの厳しい会社でも、資料の挿絵をAIで用意できるようになります。</p>
+<p><img src="https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-com-landing-page/fashion-girl-in-laptop-dt-mobile.png?fmt=jpg&amp;wid=1600&amp;hei=900" alt=""></p>
+<p>オフラインAIは他にも、Zoomなどの会議でWebカメラを使用したときに
+顔を認識してオートで追従してくれたり、音声のノイズ除去をしてくれたり
+そういうところにも活きるみたいです。
+試してみましたが、普通に会議中に挙動不審なやつになりました。</p>
+<h2 id="arm版windowsだけどゲームはできるのかい">Arm版Windowsだけどゲームはできるのかい？</h2>
+<p>SnapdragonはIntelやAMDのCPUとは、根本的に違います。
+そのためWindows用アプリなら全部使えるというわけではなく、
+専用アプリになったり、エミュレーターを介して動かすことになったりします。</p>
+<p>その中で話題にあがりがちなのは「ゲーム」と「業務アプリ」。
+いったん、ゲームができるかを試してみましょうか。</p>
+<h3 id="coral-islands">Coral Islands</h3>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="zxx" dir="ltr"><a href="https://t.co/MTkfjXfKos">pic.twitter.com/MTkfjXfKos</a></p>&mdash; 右ねじ (@Rightscrew) <a href="https://twitter.com/Rightscrew/status/1875499387566293415?ref_src=twsrc%5Etfw">January 4, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p>Steamでわたしがどハマりしていたこのゲームは、比較的軽いということもあり
+特に問題なくサクサク動きました。
+一応本体のファンはフル稼働していたので、
+このPCで動かせるちょうどいいゲームがこれなのかもしれない。</p>
+<h3 id="icarus-survive">ICARUS Survive</h3>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="zxx" dir="ltr"><a href="https://t.co/7HsTM2J0OS">pic.twitter.com/7HsTM2J0OS</a></p>&mdash; 右ねじ (@Rightscrew) <a href="https://twitter.com/Rightscrew/status/1875499636733178049?ref_src=twsrc%5Etfw">January 4, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p>わたしがこの世で一番好きなゲーム、ICARUSは
+ゲーミングPCでプレイしても若干重い部類のゲームです。
+グラフィックス設定を高にしてみましたところ、<strong>「モッサリしてるけど一応動く」</strong> 感じ。
+正直グラフィックカード搭載していないと厳しいと思っていたので、
+よく動いたな！という評価です。</p>
+<h3 id="va-11-hall-a">VA-11 Hall-A</h3>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="zxx" dir="ltr"><a href="https://t.co/O4uF1f6Rg1">pic.twitter.com/O4uF1f6Rg1</a></p>&mdash; 右ねじ (@Rightscrew) <a href="https://twitter.com/Rightscrew/status/1875499548250140918?ref_src=twsrc%5Etfw">January 4, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p>意外だったのは、ビジュアルノベル「VA-11 Hall-A」をプレイした時。
+比較的軽いゲームなので動作はサクサクなのですが、
+ゲーム上のギミックをこなそうとしたところ、バグってしまいました。
+エミュレートの問題なのか、バグなのか不明ですが、
+そういうゲームも多少あるのでしょうね…。</p>
+<p>ただし、忘れちゃいけないのはこの機種、
+<strong>ゲーミングノートPCではないからね！</strong> スペック的に動かなくて当たり前。</p>
+<h2 id="じゃあ動画編集はできるのかい">じゃあ、動画編集はできるのかい？</h2>
+<p>動画編集アプリの操作が快適か、エンコード時間がかかりすぎないかを調べるため、
+37分の動画素材を、Adobe Premiere Proで編集してみました。
+つい最近、エミュレーターモードでArm版に対応してました。ありがたい！</p>
+<p>操作感は結構サクサクで、プレビュー画質フルでも問題なし。
+1/2にするとさらに快適になります。
+わたしが作る動画は基本的に切り抜きかVlogなので、重いエフェクトは無くて
+テロップ入れるくらいだからかもしれませんが、普通に使えます。</p>
+<p>気になったのはエンコード時間で、
+同じプロジェクトをM2 MacBook Air 15インチでは1分半で出力できるものが
+XPS 13(9345)では出力に9分かかりました。
+完成動画が8分という尺なので、う〜んまぁええか…放っておくだけだし…
+30分とか1時間かかるわけじゃないし…。
+ぐらいの差ですね。</p>
+<p>Macbook air13インチぐらいのサイズ感で、
+動画編集ができてWindowsでバッテリー持ちがいい、が欲しければ
+この機種が選択肢に上がるかも。</p>
+<h2 id="誰も競争しなければ市場は育たない">誰も競争しなければ、市場は育たない</h2>
+<p>使い勝手的にも性能的にも、「思っていたより全然使える」。
+打ち合わせとExcel作業が多い管理職なら、
+1日中バッテリーが持つ本機が全然アリになってきます。
+そういった業種の方、ぜひチャレンジしていただきたい。</p>
+<p>パソコンオタクの本音を言うと、
+この機種は市場に投入されるだけで価値があります。</p>
+<p>6月にCopilot+PCが発表されてから9月まで、
+Snapdragon以外にCopilot+PCの要件を満たすCPUはありませんでした。
+9月にAMDがRyzen AIを、IntelがCoreUltra シリーズ2を投入しましたが、
+Intelは当初の計画ではもっと後に投入する予定だったCPUを、
+前倒しで投入したのでは？と言われています。</p>
+<p>Microsoftが定義した「Copilot+PC」というブランドに
+Qualcomm社のSnapdragonというCPUが乗っかってきたから、
+IntelもCopilot+PC準拠のCPUを出さざるを得なくなりました。</p>
+<p>さらに、Snapdragonの強みはスマホで鍛えた省電力性能。
+それに対抗してか、シリーズ1では8時間程度だったIntelCPU搭載PCも、
+シリーズ2では24時間もつことを強調するようになっています。</p>
+<p>ChromeOSが実証したように、ブラウザだけでほとんどの仕事ができてしまう現代では
+ゲームや映像編集のような、専用のPCを必要とするような業務じゃなければ
+多少動かないアプリがあったとしても、Arm版Windowsでも支障がないですよね。
+NotionやZapierなどを組みあわせたり、SaaSをうまく使っている会社なら
+バッテリー持ちを最重要視してPC選定してもおかしくないですね。</p>
+<h2 id="arm版windowsの普及によって期待できる未来">Arm版Windowsの普及によって期待できる未来</h2>
+<p>Qualcomm社のCPUを搭載しているPCが
+今後どんどん増えたらどうなるか考えてみましょう。</p>
+<p>現在ノートPCの多くは無線LANに接続して使っていますよね。
+一部の特殊な機種にはSIMカードスロットがあるものもあり、
+データ通信SIMを挿すことでネット接続しつつ、社内ネットワークにアクセスできるようにしていたりします。
+しかしそういった物理SIMでネットワークに接続できるPCがあると、
+盗難された場合やハッキングされた時の糸口になってしまう可能性があります。</p>
+<p>それに対してQualcommは、<strong>「iSIM」</strong> といってCPUの中にデジタル的にSIMを持つ機能を
+すでに2023年3月から市場に出しています。
+それがノートPCでも当たり前に採用されるようになったら？
+会社のオフィス全体に届くようLANを引かなくて良くなり、かつ回線業社は新たなシェア獲得のために価格競争を始めると思われるので、
+全体的に通信回線の低価格化が起きるかもしれませんね。</p>
+<p>また、QualcommのWindowsが今後も投入され続ければ、AppleのMシリーズCPUがどんどん性能上がっていったように、
+動画処理性能・もしかしたらスマホゲームのノウハウが横展開されてゲーム性能も半端ないCPUができるかも…！</p>
+<p>IntelとAMDだけでは、ノートPCのCPUにはそういったことは期待できなかった。
+そこに何はともあれ風穴を開けてくれたQualcommには感謝です。
+将来が楽しみ！</p>
+<p><img src="https://pbs.twimg.com/media/GgdBDXLa8AA4Yxz?format=jpg&amp;name=4096x4096" alt=""></p>
+<p>というわけで、DELLから発売されているSnapdragon搭載のXPS 13について
+レビューを書いてみました。
+個人的な用途では、動画編集も困らないラインでしたし、
+ブラウザ中心で仕事もできるからアリだな〜という評価になりました。</p>
+<p>特に今のメインで使ってるM2 Macbook Air 15インチはそこそこでかくて重量もあるので…Steamゲームできないし…
+同じ悩みの人で新しいものが好きな方がもしいたら、チャレンジしてみてください。
+その前にデルアンバサダーに登録して、モニター募集に応募するのもありですけどね！</p>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.7489%; padding-top: 120px;"><a href="https://www.dell.com/ja-jp/lp/dell-ambassador" data-iframely-url="//iframely.net/11LNBVp"></a></div></div><script async src="//iframely.net/embed.js"></script>
+
+        
+      </section>
+
+      
+
+      
+    </article>
+  </div>
+
+  <div
+    x-data="tocHighlighter()"
+    @scroll.window="debouncedScroll"
+    class="hidden lg:flex lg:flex-col lg:items-end"
+  >
+    
+  </div>
+</div>
+
+
+            
+<footer class="flex justify-between items-center gap-2 px-4 py-12">
+
+  <div>
+  
+  <p>
+    © 2020 - 2025 右ねじの法則 -それ、いいね。-
+  </p>
+  
+
+  
+  <p class="text-sm">
+    🌱
+    <span class="text-base-content/60">
+      Powered by <a class="hover:underline" href="https://gohugo.io/" target="_blank">Hugo</a> with theme
+      <a class="hover:underline" href="https://github.com/g1eny0ung/hugo-theme-dream" target="_blank">Dream</a>.</span
+    >
+  </p>
+  
+</div>
+
+  <div
+  x-data="{ icons: [
+    { name: 'sunny', status: 'n' },
+    { name: 'moon', status: 'y' },
+    { name: 'desktop', status: 'auto' }
+  ] }"
+  class="flex items-center gap-2 h-[32px] px-2 bg-base-100 border border-base-content/30 rounded-full"
+>
+  <template x-for="icon in icons">
+    <div
+      role="button"
+      tabindex="0"
+      :aria-label="'Select ' + icon.name + ' mode'"
+      class="group inline-flex justify-center items-center p-1 rounded-full cursor-pointer hover:bg-primary"
+      :class="$store.darkMode.icon() === icon.name && 'bg-primary'"
+      @click="$store.darkMode.toggle(icon.status)"
+    >
+      <ion-icon
+        :name="`${icon.name}-outline`"
+        class="group-hover:text-primary-content"
+        :class="$store.darkMode.icon() === icon.name && 'text-primary-content'"
+      >
+      </ion-icon>
+    </div>
+  </template>
+</div>
+
+</footer>
+
+          </div>
+        </div>
+        <div class="back">
+          <div class="container">
+            
+            <div class="dream-grid dream-grid-about">
+  
+  
+  
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <article
+      class="card bg-base-100 hover:bg-base-content/10 shadow-xl dark:border dark:border-base-content/30"
+    >
+      <div class="card-body">
+        <div class="card-title">About</div>
+
+        <div class="prose dark:prose-invert">
+          <h2 id="rightscrew">Rightscrew</h2>
+<p>Rightscrewは、2011年に活動を開始した体験レポ・ガジェットレビューを行うマイクロメディアです。
+DELL社製PCの関連記事を累計21本執筆し、2020年に「デルアンバサダー 最優秀賞」受賞。</p>
+<h2 id="右ねじ">右ねじ</h2>
+<p>Rightscrew代表。学生時代より動画編集を得意とし、本業の傍らウェディングムービーなどを制作。
+幼少期に抱いていた美術に対するコンプレックスを克服してからは、
+イラストやデジタル油彩を中心に、LINEスタンプショップやSuzuriでグッズ化も行っている。</p>
+<p>資格取得が好きで、よく一夜漬けで試験にのぞみ、それもまた体験レポになる。</p>
+
+        </div>
+      </div>
+    </article>
+  </div>
+  
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <article
+      class="card bg-base-100 hover:bg-base-content/10 shadow-xl dark:border dark:border-base-content/30"
+    >
+      <div class="card-body">
+        <div class="card-title">Skills</div>
+
+        <div class="prose dark:prose-invert">
+          <h3 id="資格一覧">資格一覧</h3>
+<div class="box"><p><strong>IT IPA系</strong></p>
+<ul>
+<li>基本情報技術者</li>
+<li>応用情報技術者</li>
+<li>情報セキュリティマネジメント</li>
+<li>ITパスポート</li>
+</ul>
+<br>
+<p><strong>IT 実務系</strong></p>
+<ul>
+<li>AWS Certified Solutions Architect – Professional</li>
+<li>Ruby Association Certified Ruby Programmer Silver version 2.1</li>
+<li>Python3エンジニア認定データ分析試験</li>
+</ul>
+<br>
+<p><strong>商工会議所系</strong></p>
+<ul>
+<li>メンタルヘルス・マネジメント検定試験Ⅱ種（ラインケアコース）</li>
+<li>ビジネス実務法務検定試験2級</li>
+<li>日商簿記検定試験3級</li>
+<li>ビジネスマネジャー検定</li>
+</ul>
+<br>
+<p><strong>語学系</strong></p>
+<ul>
+<li>実用英語技能検定2級</li>
+<li>日本漢字能力検定準二級</li>
+</ul>
+</div>
+
+        </div>
+      </div>
+    </article>
+  </div>
+  
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <article
+      class="card bg-base-100 hover:bg-base-content/10 shadow-xl dark:border dark:border-base-content/30"
+    >
+      <div class="card-body">
+        <div class="card-title">Portfolio</div>
+
+        <div class="prose dark:prose-invert">
+          <h3 id="works">Works</h3>
+<ul>
+<li><strong>DELLアンバサダー</strong>: 関連記事累計25本執筆, 「デルアンバサダー 最優秀賞」受賞 (2020年)</li>
+<li><strong>制作物</strong>:
+<ul>
+<li><a href="https://www.youtube.com/@%E5%8F%B3%E3%81%AD%E3%81%98" target="_blank"><strong>YouTube</strong></a>
+ Vtuberの切り抜き中心</li>
+<li><a href="https://store.line.me/stickershop/author/251528/ja" target="_blank"><strong>LINEスタンプ</strong></a>
+</li>
+<li><a href="https://suzuri.jp/Rightscrew" target="_blank"><strong>Suzuri</strong></a>
+ グッズ販売 (イラスト・デジタル油彩)</li>
+<li><a href="https://www.instagram.com/smitho_00/" target="_blank"><strong>Instagram</strong></a>
+</li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+    </article>
+  </div>
+  
+  
+
+  
+
+  
+</div>
+
+            
+
+            
+<footer class="flex justify-between items-center gap-2 px-4 py-12">
+
+  <div>
+  
+  <p>
+    © 2020 - 2025 右ねじの法則 -それ、いいね。-
+  </p>
+  
+
+  
+  <p class="text-sm">
+    🌱
+    <span class="text-base-content/60">
+      Powered by <a class="hover:underline" href="https://gohugo.io/" target="_blank">Hugo</a> with theme
+      <a class="hover:underline" href="https://github.com/g1eny0ung/hugo-theme-dream" target="_blank">Dream</a>.</span
+    >
+  </p>
+  
+</div>
+
+  <div
+  x-data="{ icons: [
+    { name: 'sunny', status: 'n' },
+    { name: 'moon', status: 'y' },
+    { name: 'desktop', status: 'auto' }
+  ] }"
+  class="flex items-center gap-2 h-[32px] px-2 bg-base-100 border border-base-content/30 rounded-full"
+>
+  <template x-for="icon in icons">
+    <div
+      role="button"
+      tabindex="0"
+      :aria-label="'Select ' + icon.name + ' mode'"
+      class="group inline-flex justify-center items-center p-1 rounded-full cursor-pointer hover:bg-primary"
+      :class="$store.darkMode.icon() === icon.name && 'bg-primary'"
+      @click="$store.darkMode.toggle(icon.status)"
+    >
+      <ion-icon
+        :name="`${icon.name}-outline`"
+        class="group-hover:text-primary-content"
+        :class="$store.darkMode.icon() === icon.name && 'text-primary-content'"
+      >
+      </ion-icon>
+    </div>
+  </template>
+</div>
+
+</footer>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+  window.lightTheme = "emerald"
+  window.darkTheme = "forest"
+</script>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
+
+  
+  
+  <script src="/js/grid.js"></script>
+
+
+
+
+<script src="/js/main.js"></script>
+
+    
+
+
+
+
+
+
+
+<script src="/js/toc.js"></script>
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+    
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-89D5XHLKNM"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-89D5XHLKNM');
+        }
+      </script>
+    
+
+    <script type="module" src="https://cdn.jsdelivr.net/npm/ionicons@7.4.0/dist/ionicons/ionicons.esm.js" integrity="sha256-/IFmi82bIhdYWctu0UddSlJqpnzWm7Vh2C4CM32wF/k=" crossorigin="anonymous"></script>
+    <script nomodule src="https://cdn.jsdelivr.net/npm/ionicons@7.4.0/dist/ionicons/ionicons.js" integrity="sha256-mr7eJMX3VC3F7G32mk4oWp1C6a2tlMYxUdptfT7uKI8=" crossorigin="anonymous"></script>
+  </body>
+</html>

@@ -1,455 +1,514 @@
 <!DOCTYPE html>
-<html lang="ja-jp">
-    <head><meta charset='utf-8'>
-<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content=''><title>Archives</title>
-
-<link rel='canonical' href='https://www.rightscrew.com/archives/'>
-
-<link rel="stylesheet" href="/scss/style.min.css"><meta property='og:title' content='Archives'>
-<meta property='og:description' content=''>
-<meta property='og:url' content='https://www.rightscrew.com/archives/'>
-<meta property='og:site_name' content='右ねじの法則 -それ、いいね-'>
-<meta property='og:type' content='article'><meta property='article:section' content='Page' /><meta property='article:published_time' content='2019-05-28T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2019-05-28T00:00:00&#43;00:00'/>
-<meta name="twitter:site" content="Rightscrew"><meta name="twitter:title" content="Archives">
-<meta name="twitter:description" content="">
-    </head>
-    <body class="template-archives">
-    <script>
-        (function() {
-            const colorSchemeKey = 'StackColorScheme';
-            if(!localStorage.getItem(colorSchemeKey)){
-                localStorage.setItem(colorSchemeKey, "auto");
-            }
-        })();
-    </script><script>
-    (function() {
-        const colorSchemeKey = 'StackColorScheme';
-        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
-        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
-
-        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
-            
-
-            document.body.dataset.scheme = 'dark';
-        } else {
-            document.body.dataset.scheme = 'light';
-        }
-    })();
-</script><div class="container main-container flex on-phone--column extended ">
-            <aside class="sidebar left-sidebar sticky">
-    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="メニューを開く・閉じる">
-        <span class="hamburger-box">
-            <span class="hamburger-inner"></span>
-        </span>
-    </button>
-
-    <header class="site-info">
-        
-            <figure class="site-avatar">
-                
-                    
-                    
-                    
-                        
-                        <img src="/img/avatar_huda2458f72ce188392d75c5d51cd8e24e_373_300x0_resize_box_2.png" width="300"
-                            height="300" class="site-logo" loading="lazy" alt="Avatar">
-                    
-                
-
-                
-                    <span class="emoji">🍥</span>
-                
-            </figure>
-        
-        <h1 class="site-name"><a href="https://www.rightscrew.com">右ねじの法則 -それ、いいね-</a></h1>
-        <h2 class="site-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h2>
-    </header>
-
-    <ol class="menu" id="main-menu">
-        
-        
-        
-
-        <li >
-            <a href='/'>
-                
-                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <polyline points="5 12 3 12 12 3 21 12 19 12" />
-  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
-  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
-</svg>
-
-
-
-                
-                <span>Home</span>
-            </a>
-        </li>
-        
-        
-
-        <li >
-            <a href='/about'>
-                
-                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="12" cy="7" r="4" />
-  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
-</svg>
-
-
-
-                
-                <span>About</span>
-            </a>
-        </li>
-        
-        
-
-        <li  class='current' >
-            <a href='/archives'>
-                
-                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <rect x="3" y="4" width="18" height="4" rx="2" />
-  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
-  <line x1="10" y1="12" x2="14" y2="12" />
-</svg>
-
-
-
-                
-                <span>Archives</span>
-            </a>
-        </li>
-        
-        
-
-        <li >
-            <a href='/search'>
-                
-                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="10" cy="10" r="7" />
-  <line x1="21" y1="21" x2="15" y2="15" />
-</svg>
-
-
-
-                
-                <span>Search</span>
-            </a>
-        </li>
-        
-
-        
-            <li id="dark-mode-toggle">
-                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="8" cy="12" r="2" />
-  <rect x="2" y="6" width="20" height="12" rx="6" />
-</svg>
-
-
-
-                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="16" cy="12" r="2" />
-  <rect x="2" y="6" width="20" height="12" rx="6" />
-</svg>
-
-
-
-                <span>Dark Mode</span>
-            </li>
-        
-    </ol>
-</aside>
-
-            <main class="main full-width">
-    
-    
-    <h2 class="section-title">Categories</h2>
-    <div class="subsection-list">
-        <div class="article-list--tile">
-            
-                
-<article class="has-image">
-    <a href="/categories/test/">
-        
-        
-            <div class="article-image">
-                <img src="/categories/test/_hu8102ac0a5989befdf52fa5096a373f78_52927_ba0b8e744b36f1e48b9c54b5d2847004.jpg" 
-                        width="250" 
-                        height="150" 
-                        loading="lazy" 
-                        data-key="test" 
-                        data-hash="md5-vsif6ZlY2JQT7cD5Noi91g==">
-                
-            </div>
-        
-
-        <div class="article-details">
-            <h2 class="article-title">Test</h2>
-        </div>
-    </a>
-</article>
-            
-                
-<article class="">
-    <a href="/categories/%E6%B5%8B%E8%AF%95/">
-        
-        
-
-        <div class="article-details">
-            <h2 class="article-title">测试</h2>
-        </div>
-    </a>
-</article>
-            
-                
-<article class="">
-    <a href="/categories/syntax/">
-        
-        
-
-        <div class="article-details">
-            <h2 class="article-title">syntax</h2>
-        </div>
-    </a>
-</article>
-            
-                
-<article class="">
-    <a href="/categories/themes/">
-        
-        
-
-        <div class="article-details">
-            <h2 class="article-title">themes</h2>
-        </div>
-    </a>
-</article>
-            
-                
-<article class="">
-    <a href="/categories/test-with-whitespaces/">
-        
-        
-
-        <div class="article-details">
-            <h2 class="article-title">Test with whitespaces</h2>
-        </div>
-    </a>
-</article>
-            
-        </div>
-    </div>
-    
+<html lang="ja-jp"
+  x-data
+  :class="$store.darkMode.class()"
+  :data-theme="$store.darkMode.theme()">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=54411&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Archive | 右ねじの法則 -それ、いいね。-</title>
 
     
-    
-    
+
+<link rel="canonical" href="http://localhost:54411/archives/" />
+
+
+
+<meta name="author" content="右ねじ" />
+<meta name="description" content="" />
+
+
+
+<meta name="generator" content="Hugo 0.152.2">
+
+
+<meta property="og:url" content="http://localhost:54411/archives/">
+  <meta property="og:site_name" content="右ねじの法則 -それ、いいね。-">
+  <meta property="og:title" content="Archive">
+  <meta property="og:description" content="Archive Page">
+  <meta property="og:locale" content="ja_jp">
+  <meta property="og:type" content="website">
+
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Archive">
+  <meta name="twitter:description" content="Archive Page">
+
+
+
+
+<link rel="stylesheet" href="/css/output.css" />
+
+
+
+
+     
 
     
-    
-    <div class="archives-group" id="2021">
-        <h2 class="archives-date section-title"><a href="/archives/#2021">2021</a></h2>
-        <div class="article-list--compact">
-            
-                <article>
-    <a href="/p/%E6%80%A7%E8%83%BD%E3%81%8C%E5%90%8C%E3%81%98pc%E3%81%AE%E4%B8%AD%E3%81%A0%E3%81%A3%E3%81%9F%E3%82%89%E4%BD%95%E3%82%92%E9%81%B8%E3%81%B3%E3%81%BE%E3%81%99%E3%81%8B/">
-        <div class="article-details">
-            <h2 class="article-title">性能が同じPCの中だったら何を選びますか？</h2>
-            <footer class="article-time">
-                <time datetime='2021-01-05T09:59:34&#43;09:00'>Jan 05, 2021</time>
-            </footer>
-        </div>
-    </a>
-</article>
-            
-                <article>
-    <a href="/p/%E5%86%B7%E8%94%B5%E5%BA%AB%E3%81%8C%E5%86%B7%E3%81%88%E3%81%A6%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%AB%E3%81%BC%E3%81%8F%E3%81%AE%E8%82%9D%E3%81%8C%E5%86%B7%E3%81%88%E3%81%9F%E8%A9%B1/">
-        <div class="article-details">
-            <h2 class="article-title">冷蔵庫が冷えてなかった代わりに、ぼくの肝が冷えた話</h2>
-            <footer class="article-time">
-                <time datetime='2021-01-01T17:50:10&#43;09:00'>Jan 01, 2021</time>
-            </footer>
-        </div>
-    </a>
-</article>
-            
-        </div>
-    </div>
-    
-    
-    <div class="archives-group" id="2020">
-        <h2 class="archives-date section-title"><a href="/archives/#2020">2020</a></h2>
-        <div class="article-list--compact">
-            
-                <article>
-    <a href="/p/2020%E5%B9%B4%E3%81%AB%E8%B2%B7%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE%E3%81%BE%E3%81%A8%E3%82%81/">
-        <div class="article-details">
-            <h2 class="article-title">2020年に買ったものまとめ</h2>
-            <footer class="article-time">
-                <time datetime='2020-12-31T17:43:55&#43;09:00'>Dec 31, 2020</time>
-            </footer>
-        </div>
-    </a>
-</article>
-            
-                <article>
-    <a href="/p/www.rightscrew.com%E7%88%86%E8%AA%95/">
-        <div class="article-details">
-            <h2 class="article-title">www.rightscrew.com爆誕</h2>
-            <footer class="article-time">
-                <time datetime='2020-12-25T17:11:09&#43;09:00'>Dec 25, 2020</time>
-            </footer>
-        </div>
-    </a>
-</article>
-            
-                <article>
-    <a href="/p/test-chinese/">
-        <div class="article-details">
-            <h2 class="article-title">Chinese Test</h2>
-            <footer class="article-time">
-                <time datetime='2020-09-09T00:00:00Z'>Sep 09, 2020</time>
-            </footer>
-        </div>
-            <div class="article-image">
-                <img src="/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu45a5e3ad5e058da6a00650ed8fd40bea_15530_120x120_fill_q75_box_smart1.jpg" 
-                        width="120"
-                        height="120" 
-                        loading="lazy">
-                
-            </div>
-        
-    </a>
-</article>
-            
-        </div>
-    </div>
-    
-    
-    <div class="archives-group" id="2019">
-        <h2 class="archives-date section-title"><a href="/archives/#2019">2019</a></h2>
-        <div class="article-list--compact">
-            
-                <article>
-    <a href="/p/markdown-syntax-guide/">
-        <div class="article-details">
-            <h2 class="article-title">Markdown Syntax Guide</h2>
-            <footer class="article-time">
-                <time datetime='2019-03-11T00:00:00Z'>Mar 11, 2019</time>
-            </footer>
-        </div>
-            <div class="article-image">
-                <img src="/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash_hud7e36f7e20e71be184458283bdae4646_55974_120x120_fill_q75_box_smart1.jpg" 
-                        width="120"
-                        height="120" 
-                        loading="lazy">
-                
-            </div>
-        
-    </a>
-</article>
-            
-                <article>
-    <a href="/p/rich-content/">
-        <div class="article-details">
-            <h2 class="article-title">Rich Content</h2>
-            <footer class="article-time">
-                <time datetime='2019-03-10T00:00:00Z'>Mar 10, 2019</time>
-            </footer>
-        </div>
-    </a>
-</article>
-            
-                <article>
-    <a href="/p/placeholder-text/">
-        <div class="article-details">
-            <h2 class="article-title">Placeholder Text</h2>
-            <footer class="article-time">
-                <time datetime='2019-03-09T00:00:00Z'>Mar 09, 2019</time>
-            </footer>
-        </div>
-            <div class="article-image">
-                <img src="/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash_hu958d513eeefe5556a31d065479ecc5ac_14205_120x120_fill_q75_box_smart1.jpg" 
-                        width="120"
-                        height="120" 
-                        loading="lazy">
-                
-            </div>
-        
-    </a>
-</article>
-            
-                <article>
-    <a href="/p/math-typesetting/">
-        <div class="article-details">
-            <h2 class="article-title">Math Typesetting</h2>
-            <footer class="article-time">
-                <time datetime='2019-03-08T00:00:00Z'>Mar 08, 2019</time>
-            </footer>
-        </div>
-    </a>
-</article>
-            
-                <article>
-    <a href="/p/emoji-support/">
-        <div class="article-details">
-            <h2 class="article-title">Emoji Support</h2>
-            <footer class="article-time">
-                <time datetime='2019-03-05T00:00:00Z'>Mar 05, 2019</time>
-            </footer>
-        </div>
-            <div class="article-image">
-                <img src="/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash_huf941de4769045cdfa8c9ee7036519a2a_35369_120x120_fill_q75_box_smart1.jpg" 
-                        width="120"
-                        height="120" 
-                        loading="lazy">
-                
-            </div>
-        
-    </a>
-</article>
-            
-        </div>
-    </div>
-    
 
-    <footer class="site-footer">
-    <section class="copyright">
-        &copy; 
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.15.1/dist/cdn.min.js" integrity="sha256-Rmqrc5SKeSLTSnQ9shSKWmJco1ks8c1hLI8UG2Np03M=" crossorigin="anonymous"></script>
+  </head>
+
+  <body x-data="{
+    flip: false,
+  }">
+    
+    <div id="dream-global-bg"></div>
+
+    
+<nav class="mt-4 lg:mt-8 py-4">
+
+  
+  <div class="container flex justify-between px-4">
+  
+    <section class="flex items-center gap-4">
+      <div class="avatar cursor-pointer hover:avatar-online" @click="flip = !flip" title="Flip it!">
+        <div class="h-10 rounded-full">
+          <img src="/logo.png" alt="右ねじの法則" />
+        </div>
+      </div>
+
+      
+      <div>
         
-            2020 - 
+        <a href="http://localhost:54411/" class="text-lg font-semibold cursor-pointer">
+          右ねじの法則
+        </a>
         
-        2021 右ねじの法則 -それ、いいね-
+        
+        <div class="text-base-content/60 text-sm">それ、いいね。</div>
+        
+      </div>
+      
     </section>
+
     
-    <section class="powerby">
-        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
-        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="2.0.1">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    
+
+    <div class="dropdown dropdown-end sm:hidden">
+      <div tabindex="0" role="button" class="btn btn-ghost btn-square" aria-label="Select an option">
+        <ion-icon name="menu" class="text-2xl"></ion-icon>
+      </div>
+      <ul tabindex="0" class="dropdown-content menu w-36 bg-base-100 rounded-box z-1 shadow-md">
+        
+
+
+
+
+
+
+
+<li>
+  <div role="link" tabindex="0" class="inline-flex items-center p-2 cursor-pointer" @click="flip = !flip" title="About">
+    <ion-icon name="information-circle"></ion-icon>About</div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/posts" title="Archives">
+    <ion-icon name="archive"></ion-icon>
+    Archives
+  </a>
+</li>
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/categories" title="All Categories">
+    <ion-icon name="grid"></ion-icon>
+    All Categories
+  </a>
+</li>
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/tags" title="All Tags">
+    <ion-icon name="pricetags"></ion-icon>
+    All Tags
+  </a>
+</li>
+
+
+
+
+
+
+      </ul>
+    </div>
+    <section class="hidden sm:flex sm:items-center sm:gap-2 md:gap-4">
+      
+
+      
+      
+
+
+
+
+<div role="link" tabindex="0" class="text-sm font-semibold cursor-pointer hover:underline" @click="flip = !flip" title="About">About</div>
+
+
+
+
+
+      
+      
+
+
+
+
+
+      
+      
+
+
+
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/posts" title="Archives">
+  <ion-icon class="group-hover:text-primary-content" name="archive"></ion-icon>
+</a>
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/categories" title="All Categories">
+  <ion-icon class="group-hover:text-primary-content" name="grid"></ion-icon>
+</a>
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/tags" title="All Tags">
+  <ion-icon class="group-hover:text-primary-content" name="pricetags"></ion-icon>
+</a>
+
+
+      
+
+      
+
+      
     </section>
+  </div>
+</nav>
+
+
+    <div class="flip-container" :class="{ 'flip-it': flip }">
+      <div class="flipper">
+        <div class="front">
+          <div class="container">
+            
+
+<div class="mt-8 lg:mt-12 px-4">
+  <div class="mx-auto prose dark:prose-invert">
+    <h1 class="text-3xl">
+      Archive
+    </h1>
+    
+    <p class="text-sm"><p>archive page</p>
+</p>
+    
+  </div>
+
+  <div class="max-w-[65ch] mx-auto mt-8 lg:mt-12">
+    <ul class="timeline timeline-vertical">
+      
+      
+    </ul>
+  </div>
+</div>
+
+
+            
+<footer class="flex justify-between items-center gap-2 px-4 py-12">
+
+  <div>
+  
+  <p>
+    © 2020 - 2025 右ねじの法則 -それ、いいね。-
+  </p>
+  
+
+  
+  <p class="text-sm">
+    🌱
+    <span class="text-base-content/60">
+      Powered by <a class="hover:underline" href="https://gohugo.io/" target="_blank">Hugo</a> with theme
+      <a class="hover:underline" href="https://github.com/g1eny0ung/hugo-theme-dream" target="_blank">Dream</a>.</span
+    >
+  </p>
+  
+</div>
+
+  <div
+  x-data="{ icons: [
+    { name: 'sunny', status: 'n' },
+    { name: 'moon', status: 'y' },
+    { name: 'desktop', status: 'auto' }
+  ] }"
+  class="flex items-center gap-2 h-[32px] px-2 bg-base-100 border border-base-content/30 rounded-full"
+>
+  <template x-for="icon in icons">
+    <div
+      role="button"
+      tabindex="0"
+      :aria-label="'Select ' + icon.name + ' mode'"
+      class="group inline-flex justify-center items-center p-1 rounded-full cursor-pointer hover:bg-primary"
+      :class="$store.darkMode.icon() === icon.name && 'bg-primary'"
+      @click="$store.darkMode.toggle(icon.status)"
+    >
+      <ion-icon
+        :name="`${icon.name}-outline`"
+        class="group-hover:text-primary-content"
+        :class="$store.darkMode.icon() === icon.name && 'text-primary-content'"
+      >
+      </ion-icon>
+    </div>
+  </template>
+</div>
+
 </footer>
 
-            </main>
+          </div>
         </div>
-        <script src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.5/dist/vibrant.min.js"
-    integrity="sha256-5NovOZc4iwiAWTYIFiIM7DxKUXKWvpVEuMEPLzcm5/g=" crossorigin="anonymous"></script><script type="text/javascript" src="/ts/main.js" defer></script>
-<script>
-    (function () {
-        const customFont = document.createElement('link');
-        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+        <div class="back">
+          <div class="container">
+            
+            <div class="dream-grid dream-grid-about">
+  
+  
+  
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <article
+      class="card bg-base-100 hover:bg-base-content/10 shadow-xl dark:border dark:border-base-content/30"
+    >
+      <div class="card-body">
+        <div class="card-title">About</div>
 
-        customFont.type = "text/css";
-        customFont.rel = "stylesheet";
+        <div class="prose dark:prose-invert">
+          <h2 id="rightscrew">Rightscrew</h2>
+<p>Rightscrewは、2011年に活動を開始した体験レポ・ガジェットレビューを行うマイクロメディアです。
+DELL社製PCの関連記事を累計21本執筆し、2020年に「デルアンバサダー 最優秀賞」受賞。</p>
+<h2 id="右ねじ">右ねじ</h2>
+<p>Rightscrew代表。学生時代より動画編集を得意とし、本業の傍らウェディングムービーなどを制作。
+幼少期に抱いていた美術に対するコンプレックスを克服してからは、
+イラストやデジタル油彩を中心に、LINEスタンプショップやSuzuriでグッズ化も行っている。</p>
+<p>資格取得が好きで、よく一夜漬けで試験にのぞみ、それもまた体験レポになる。</p>
 
-        document.head.appendChild(customFont);
-    }());
+        </div>
+      </div>
+    </article>
+  </div>
+  
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <article
+      class="card bg-base-100 hover:bg-base-content/10 shadow-xl dark:border dark:border-base-content/30"
+    >
+      <div class="card-body">
+        <div class="card-title">Skills</div>
+
+        <div class="prose dark:prose-invert">
+          <h3 id="資格一覧">資格一覧</h3>
+<div class="box"><p><strong>IT IPA系</strong></p>
+<ul>
+<li>基本情報技術者</li>
+<li>応用情報技術者</li>
+<li>情報セキュリティマネジメント</li>
+<li>ITパスポート</li>
+</ul>
+<br>
+<p><strong>IT 実務系</strong></p>
+<ul>
+<li>AWS Certified Solutions Architect – Professional</li>
+<li>Ruby Association Certified Ruby Programmer Silver version 2.1</li>
+<li>Python3エンジニア認定データ分析試験</li>
+</ul>
+<br>
+<p><strong>商工会議所系</strong></p>
+<ul>
+<li>メンタルヘルス・マネジメント検定試験Ⅱ種（ラインケアコース）</li>
+<li>ビジネス実務法務検定試験2級</li>
+<li>日商簿記検定試験3級</li>
+<li>ビジネスマネジャー検定</li>
+</ul>
+<br>
+<p><strong>語学系</strong></p>
+<ul>
+<li>実用英語技能検定2級</li>
+<li>日本漢字能力検定準二級</li>
+</ul>
+</div>
+
+        </div>
+      </div>
+    </article>
+  </div>
+  
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <article
+      class="card bg-base-100 hover:bg-base-content/10 shadow-xl dark:border dark:border-base-content/30"
+    >
+      <div class="card-body">
+        <div class="card-title">Portfolio</div>
+
+        <div class="prose dark:prose-invert">
+          <h3 id="works">Works</h3>
+<ul>
+<li><strong>DELLアンバサダー</strong>: 関連記事累計25本執筆, 「デルアンバサダー 最優秀賞」受賞 (2020年)</li>
+<li><strong>制作物</strong>:
+<ul>
+<li><a href="https://www.youtube.com/@%E5%8F%B3%E3%81%AD%E3%81%98" target="_blank"><strong>YouTube</strong></a>
+ Vtuberの切り抜き中心</li>
+<li><a href="https://store.line.me/stickershop/author/251528/ja" target="_blank"><strong>LINEスタンプ</strong></a>
+</li>
+<li><a href="https://suzuri.jp/Rightscrew" target="_blank"><strong>Suzuri</strong></a>
+ グッズ販売 (イラスト・デジタル油彩)</li>
+<li><a href="https://www.instagram.com/smitho_00/" target="_blank"><strong>Instagram</strong></a>
+</li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+    </article>
+  </div>
+  
+  
+
+  
+
+  
+</div>
+
+            
+
+            
+<footer class="flex justify-between items-center gap-2 px-4 py-12">
+
+  <div>
+  
+  <p>
+    © 2020 - 2025 右ねじの法則 -それ、いいね。-
+  </p>
+  
+
+  
+  <p class="text-sm">
+    🌱
+    <span class="text-base-content/60">
+      Powered by <a class="hover:underline" href="https://gohugo.io/" target="_blank">Hugo</a> with theme
+      <a class="hover:underline" href="https://github.com/g1eny0ung/hugo-theme-dream" target="_blank">Dream</a>.</span
+    >
+  </p>
+  
+</div>
+
+  <div
+  x-data="{ icons: [
+    { name: 'sunny', status: 'n' },
+    { name: 'moon', status: 'y' },
+    { name: 'desktop', status: 'auto' }
+  ] }"
+  class="flex items-center gap-2 h-[32px] px-2 bg-base-100 border border-base-content/30 rounded-full"
+>
+  <template x-for="icon in icons">
+    <div
+      role="button"
+      tabindex="0"
+      :aria-label="'Select ' + icon.name + ' mode'"
+      class="group inline-flex justify-center items-center p-1 rounded-full cursor-pointer hover:bg-primary"
+      :class="$store.darkMode.icon() === icon.name && 'bg-primary'"
+      @click="$store.darkMode.toggle(icon.status)"
+    >
+      <ion-icon
+        :name="`${icon.name}-outline`"
+        class="group-hover:text-primary-content"
+        :class="$store.darkMode.icon() === icon.name && 'text-primary-content'"
+      >
+      </ion-icon>
+    </div>
+  </template>
+</div>
+
+</footer>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+  window.lightTheme = "emerald"
+  window.darkTheme = "forest"
 </script>
 
-    </body>
+
+  <script src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
+
+  
+  
+  <script src="/js/grid.js"></script>
+
+
+
+
+<script src="/js/main.js"></script>
+
+     
+
+    
+
+    
+
+    
+
+    
+    
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-89D5XHLKNM"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-89D5XHLKNM');
+        }
+      </script>
+    
+
+    <script type="module" src="https://cdn.jsdelivr.net/npm/ionicons@7.4.0/dist/ionicons/ionicons.esm.js" integrity="sha256-/IFmi82bIhdYWctu0UddSlJqpnzWm7Vh2C4CM32wF/k=" crossorigin="anonymous"></script>
+    <script nomodule src="https://cdn.jsdelivr.net/npm/ionicons@7.4.0/dist/ionicons/ionicons.js" integrity="sha256-mr7eJMX3VC3F7G32mk4oWp1C6a2tlMYxUdptfT7uKI8=" crossorigin="anonymous"></script>
+  </body>
 </html>
