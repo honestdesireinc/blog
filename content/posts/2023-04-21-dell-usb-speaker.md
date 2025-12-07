@@ -4,6 +4,8 @@ date: 2023-04-21T16:48:56+09:00
 draft: false
 toc: true
 cover: "https://user-images.githubusercontent.com/76581368/233587576-9bac7ea8-3fea-412d-9ffc-375437d49767.png"
+images:
+  - "https://user-images.githubusercontent.com/76581368/233587576-9bac7ea8-3fea-412d-9ffc-375437d49767.png"
 tags: ["デルアンバサダー", "PCスピーカー", "DELL"]
 ---
 <!--more-->

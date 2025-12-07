@@ -4,6 +4,8 @@ date: 2023-03-19T20:07:31+09:00
 draft: false
 toc: true
 cover: "https://user-images.githubusercontent.com/76581368/226229923-3d36aff0-ae7b-4de3-ab87-5fea61336189.jpg"
+images:
+  - "https://user-images.githubusercontent.com/76581368/226229923-3d36aff0-ae7b-4de3-ab87-5fea61336189.jpg"
 tags: ["デルアンバサダー", "Alienware", "Alienwarex14"]
 ---
 <!--more-->

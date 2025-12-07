@@ -5,6 +5,8 @@ draft: false
 toc: true
 tags: ["クラファン","電動アシスト自転車"]
 cover: "https://static.camp-fire.jp/uploads/editor_uploaded_image/image/1491986/LaCine_Image_Weight_3.jpg?ixlib=rails-2.1.4&fit=max&auto=format"
+images:
+  - "https://static.camp-fire.jp/uploads/editor_uploaded_image/image/1491986/LaCine_Image_Weight_3.jpg?ixlib=rails-2.1.4&fit=max&auto=format"
 ---
 <!--more-->
 目を覚ます、まだ眠い、頭に靄がかかっている、

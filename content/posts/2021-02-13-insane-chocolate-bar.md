@@ -5,6 +5,8 @@ draft: false
 toc: true
 tags: ["バレンタインデー","お菓子作り","チョコレート","ビーントゥバー"]
 cover: "https://user-images.githubusercontent.com/76581368/107839359-b7e7d500-6dee-11eb-927d-193ac02afc75.jpeg"
+images:
+  - "https://user-images.githubusercontent.com/76581368/107839359-b7e7d500-6dee-11eb-927d-193ac02afc75.jpeg"
 
 ---
 <!--more-->

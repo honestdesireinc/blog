@@ -5,6 +5,8 @@ draft: false
 toc: true
 tags: ["ウルトラワイドモニター", "JAPANNEXT", "アンバサダー"]
 cover: images/JAPANNEXT_29inch_ultrawide_monitor.jpg
+images:
+  - "images/JAPANNEXT_29inch_ultrawide_monitor.jpg"
 ---
 <!--more-->
 ![](https://pbs.twimg.com/media/GIzW-4EaoAAsWDr?format=jpg&name=medium)

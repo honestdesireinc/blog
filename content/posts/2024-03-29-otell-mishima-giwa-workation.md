@@ -5,6 +5,8 @@ draft: false
 toc: true
 tags: ["三島","ワーケーション","Otell","アンバサダー"]
 cover: "images/Otell-giwa-workation.jpg"
+images:
+  - "images/Otell-giwa-workation.jpg"
 ---
 <!--more-->
 ![](https://pbs.twimg.com/media/GJ7DzDgbcAA58F3?format=jpg&name=medium)

@@ -5,6 +5,8 @@ draft: false
 toc: true
 tags: ['VTuber','にじさんじ','黛灰','考察']
 cover: "https://user-images.githubusercontent.com/76581368/118396116-eb096100-b688-11eb-8ae0-247298218182.png"
+images:
+  - "https://user-images.githubusercontent.com/76581368/118396116-eb096100-b688-11eb-8ae0-247298218182.png"
 ---
 <!--more-->
 {{< alert theme="danger" dir="ltr" >}}

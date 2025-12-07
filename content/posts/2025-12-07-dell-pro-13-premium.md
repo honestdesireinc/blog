@@ -6,9 +6,8 @@ author: 右ねじ
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 cover: /images/IMG_3886.jpg
-# covercaption: a description of the cover image
-# images:
-#   - /img/cover.jpg
+images:
+  - /images/IMG_3886.jpg
 categories:
   - category1
 tags:

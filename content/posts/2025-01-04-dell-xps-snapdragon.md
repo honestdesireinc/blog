@@ -5,6 +5,8 @@ draft: false
 toc: true
 tags: ["デルアンバサダー", "DELL", "Copilot+PC", "Snapdragon", "XPS13"]
 cover: "https://pbs.twimg.com/media/GgcKqAJa8AEy_IS?format=jpg&name=large"
+images:
+  - "https://pbs.twimg.com/media/GgcKqAJa8AEy_IS?format=jpg&name=large"
 
 ---
 <!--more-->

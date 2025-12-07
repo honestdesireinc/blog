@@ -5,6 +5,8 @@ draft: false
 toc: true
 tags: ["ウルトラワイドモニター", "JAPANNEXT", "アンバサダー"]
 cover: images/JAPANNEXT_37inch_curved.jpg
+images:
+  - "images/JAPANNEXT_37inch_curved.jpg"
 ---
 <!--more-->
 

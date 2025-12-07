@@ -5,6 +5,8 @@ draft: false
 toc: true
 tags: ["熱川温泉","ワーケーション","Otell","アンバサダー"]
 cover: "images/Otell_AtagawaOceanResort.jpg"
+images:
+  - "images/Otell_AtagawaOceanResort.jpg"
 ---
 <!--more-->
 ![](https://pbs.twimg.com/media/GE2ybuhboAAxUcL?format=jpg&name=4096x4096)

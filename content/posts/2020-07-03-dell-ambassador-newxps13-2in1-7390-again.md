@@ -5,6 +5,8 @@ draft: false
 toc: true
 tags: ["デルアンバサダー", "DELL", "XPS13", "XPS体験モニター", "デルでDAZN", "killercontrolcenter", "dellmobileconnect"]
 cover: "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/d09df43300dd567c057709cc547af9ec_99882e01a9ed7d0d59aea26437d8bdc0.jpg?width=1600"
+images:
+  - "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/d09df43300dd567c057709cc547af9ec_99882e01a9ed7d0d59aea26437d8bdc0.jpg?width=1600"
 ---
 <!--more-->
 {{< img src="https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/d09df43300dd567c057709cc547af9ec_99882e01a9ed7d0d59aea26437d8bdc0.jpg?width=1600" alt="image alt" width="700px" position="center" >}}

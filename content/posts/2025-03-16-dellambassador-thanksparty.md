@@ -5,5 +5,7 @@ draft: true
 toc: true
 tags: ["デルアンバサダー", "DELL",  "新商品発表会", "タッチ＆トライ"]
 cover: images/XPS13-Snapdragon.jpeg
+images:
+  - "images/XPS13-Snapdragon.jpeg"
 ---
 <!--more-->

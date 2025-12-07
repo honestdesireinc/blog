@@ -5,6 +5,8 @@ draft: false
 toc: true
 tags: ["湯西川温泉","ワーケーション","Otell","アンバサダー"]
 cover: "images/Otell_Nikko_Yunishigawa.jpg"
+images:
+  - "images/Otell_Nikko_Yunishigawa.jpg"
 ---
 <!--more-->
 

@@ -4,6 +4,8 @@ date: 2024-01-21T00:45:06+09:00
 draft: false
 toc: true
 cover: "images/FFXIVfafest.jpg"
+images:
+  - "images/FFXIVfafest.jpg"
 tags: ["FFXIVFanFes", "FF14", "デルアンバサダー", "ALIENWARE"]
 ---
 <!--more-->

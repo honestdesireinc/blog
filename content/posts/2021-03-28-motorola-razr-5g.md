@@ -4,6 +4,8 @@ date: 2021-03-28T17:20:51+09:00
 draft: false
 toc: true
 cover: "https://user-images.githubusercontent.com/76581368/112746277-bfeb8500-8fe8-11eb-82a1-ec39091c4036.png"
+images:
+  - "https://user-images.githubusercontent.com/76581368/112746277-bfeb8500-8fe8-11eb-82a1-ec39091c4036.png"
 tags: ["motorola","razr","Android","gadget"]
 ---
 <!--more-->

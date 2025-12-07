@@ -5,6 +5,8 @@ draft: false
 toc: true
 tags: ["デルアンバサダー", "DELL", "座談会"]
 cover: "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/acf6ac80bc47368abbf2c8f4b5ee662d_88866c52a34c618e0214383c68971a86.jpg?width=1600"
+images:
+  - "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/acf6ac80bc47368abbf2c8f4b5ee662d_88866c52a34c618e0214383c68971a86.jpg?width=1600"
 ---
 <!--more-->
 {{< img src="https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/acf6ac80bc47368abbf2c8f4b5ee662d_88866c52a34c618e0214383c68971a86.jpg?width=1600" alt="image alt" width="700px" position="center" >}}

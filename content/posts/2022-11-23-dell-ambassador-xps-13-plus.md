@@ -4,6 +4,8 @@ date: 2022-11-23T10:57:27+09:00
 draft: false
 toc: true
 cover: "https://user-images.githubusercontent.com/76581368/203547692-556b6fc1-05ca-4d1e-a0de-1bdc0104e462.jpg"
+images:
+  - "https://user-images.githubusercontent.com/76581368/203547692-556b6fc1-05ca-4d1e-a0de-1bdc0104e462.jpg"
 tags: ["デルアンバサダー", "DELL", "XPS13PLUS", "XPS体験モニター"]
 ---
 <!--more-->

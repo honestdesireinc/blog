@@ -5,6 +5,8 @@ draft: false
 toc: true
 tags: ["デルアンバサダー", "DELL", "ディスプレイ", "inspiron14", "Ryzen", "AMD"]
 cover: "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/355d64f5ff1033b9caf68809641f997e_305a8a65535a9421ca6bbf7e466c9545.jpg?width=1600"
+images:
+  - "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/355d64f5ff1033b9caf68809641f997e_305a8a65535a9421ca6bbf7e466c9545.jpg?width=1600"
 ---
 <!--more-->
 {{< img src="https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/355d64f5ff1033b9caf68809641f997e_305a8a65535a9421ca6bbf7e466c9545.jpg?width=1600" alt="image alt" width="700px" position="center" >}}

@@ -5,6 +5,8 @@ draft: false
 toc: true
 tags: ["デルアンバサダー", "DELL", "Inspiron11"]
 cover: "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/6612cb98ee5ee2e12bbae1352326cc39_d1f9863074fbfae882b5063f911cbade.jpg?width=1600"
+images:
+  - "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/6612cb98ee5ee2e12bbae1352326cc39_d1f9863074fbfae882b5063f911cbade.jpg?width=1600"
 ---
 <!--more-->
 {{< img src="https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/6612cb98ee5ee2e12bbae1352326cc39_d1f9863074fbfae882b5063f911cbade.jpg?width=1600" alt="image alt" width="700px" position="center" >}}

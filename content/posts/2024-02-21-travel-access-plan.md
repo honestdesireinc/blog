@@ -4,6 +4,8 @@ date: 2024-02-25T15:39:04+09:00
 draft: false
 toc: false
 cover: "images/Bluemusk.jpg"
+images:
+  - "images/Bluemusk.jpg"
 tags: ["旅行"]
 ---
 <!--more-->

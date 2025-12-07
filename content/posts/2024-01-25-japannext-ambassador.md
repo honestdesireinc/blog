@@ -5,6 +5,8 @@ draft: false
 toc: true
 tags: ["モニターアーム", "JAPANNEXT", "アンバサダー"]
 cover: images/JAPANNEXT_monitor_arm.jpg
+images:
+  - "images/JAPANNEXT_monitor_arm.jpg"
 ---
 <!--more-->
 

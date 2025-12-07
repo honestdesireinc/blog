@@ -5,6 +5,8 @@ draft: false
 toc: true
 tags: ["デルアンバサダー", "DELL", "ALIENWAREm15", "ALIENWARE体験モニター", "FF14"]
 cover: "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/60801907a61234fbcb388eeb27efd47c_f6d3dc3cb7b232558177b167d0893f0d.jpg"
+images:
+  - "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/60801907a61234fbcb388eeb27efd47c_f6d3dc3cb7b232558177b167d0893f0d.jpg"
 ---
 <!--more-->
 

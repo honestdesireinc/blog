@@ -4,7 +4,9 @@ date: 2020-12-01T22:27:32+09:00
 draft: false
 toc: true
 tags: ["デルアンバサダー", "DELL", "XPS15", "XPS体験モニター", "デルでDAZN"]
-cover: "https://github.com/honestdesireinc/images/blob/master/posts/130211672_743560009587439_4515971491348063501_n.jpg?raw=true" 
+cover: "https://github.com/honestdesireinc/images/blob/master/posts/130211672_743560009587439_4515971491348063501_n.jpg?raw=true"
+images:
+  - "https://github.com/honestdesireinc/images/blob/master/posts/130211672_743560009587439_4515971491348063501_n.jpg?raw=true" 
 ---
 <!--more-->
 

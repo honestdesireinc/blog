@@ -5,6 +5,8 @@ tags: ["デルアンバサダー", "DELL", "サポート"]
 draft: false
 toc: true
 cover: "https://github.com/honestdesireinc/images/blob/master/posts/DELL_%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B.PNG?raw=true"
+images:
+  - "https://github.com/honestdesireinc/images/blob/master/posts/DELL_%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B.PNG?raw=true"
 ---
 <!--more-->
 右ねじです。

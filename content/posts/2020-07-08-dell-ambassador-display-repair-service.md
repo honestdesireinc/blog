@@ -5,6 +5,8 @@ draft: false
 toc: true
 tags: ["デルアンバサダー", "DELL", "ディスプレイ", "修理手配レポ"]
 cover: "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/ef7270b22c0892dfcf234060460203d1_cf8138229c19faf8f8359ae4e9fefae2.jpg?width=1600"
+images:
+  - "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/ef7270b22c0892dfcf234060460203d1_cf8138229c19faf8f8359ae4e9fefae2.jpg?width=1600"
 
 ---
 <!--more-->

@@ -5,6 +5,8 @@ draft: false
 toc: true
 tags: ["デルアンバサダー", "DELL"]
 cover: images/dellambassador40000.jpeg
+images:
+  - "images/dellambassador40000.jpeg"
 ---
 <!--more-->
 

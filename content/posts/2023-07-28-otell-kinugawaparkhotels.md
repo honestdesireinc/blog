@@ -5,6 +5,8 @@ draft: false
 toc: true
 tags: ["鬼怒川温泉","ワーケーション","日光市","Otell"]
 cover: "https://user-images.githubusercontent.com/76581368/256791072-6e245f36-03b5-4163-93de-d08c67307338.jpg"
+images:
+  - "https://user-images.githubusercontent.com/76581368/256791072-6e245f36-03b5-4163-93de-d08c67307338.jpg"
 ---
 <!--more-->
 

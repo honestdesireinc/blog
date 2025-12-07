@@ -5,6 +5,8 @@ draft: false
 toc: true
 tags: ["デルアンバサダー", "DELL", "XPS17","XPS体験モニター"]
 cover: "https://user-images.githubusercontent.com/76581368/165972309-9b2c7df5-dd93-4d5d-98b9-89ec3314231e.png"
+images:
+  - "https://user-images.githubusercontent.com/76581368/165972309-9b2c7df5-dd93-4d5d-98b9-89ec3314231e.png"
 ---
 <!--more-->
 

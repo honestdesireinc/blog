@@ -5,6 +5,8 @@ draft: false
 toc: true
 tags: ['VTuber','にじさんじ','黛灰','来栖夏芽']
 cover: "https://user-images.githubusercontent.com/76581368/120514063-ddcdcf80-c407-11eb-8c2d-7134d6010f41.png"
+images:
+  - "https://user-images.githubusercontent.com/76581368/120514063-ddcdcf80-c407-11eb-8c2d-7134d6010f41.png"
 ---
 <!--more-->
 

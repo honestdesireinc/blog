@@ -5,6 +5,8 @@ draft: false
 toc: true
 tags: ["デルアンバサダー", "DELL", "NewXPS体験モニター"]
 cover: "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/29f023bd037dba37770a2def7e48617f_f0e91cc11e5b454b96695573814c7137.png?width=1600"
+images:
+  - "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/29f023bd037dba37770a2def7e48617f_f0e91cc11e5b454b96695573814c7137.png?width=1600"
 ---
 <!--more-->
 

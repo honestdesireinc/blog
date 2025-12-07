@@ -5,6 +5,8 @@ draft: false
 toc: true
 tags: ["デルアンバサダー", "DELL", "XPS15", "XPS体験モニター", "デルでDAZN"]
 cover: "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/8e55be3b96b3b794b5bb5acccdec72fc_1f0d0717ca8ab1a9ea568dd9fdd66c5a.png?width=1600"
+images:
+  - "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/199917/8e55be3b96b3b794b5bb5acccdec72fc_1f0d0717ca8ab1a9ea568dd9fdd66c5a.png?width=1600"
 ---
 <!--more-->
 <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 70.1754%; padding-top: 120px;"><a href="https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-xps-15%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/spd/xps-15-9500-laptop" data-iframely-url="//cdn.iframe.ly/Md5k2gX"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>

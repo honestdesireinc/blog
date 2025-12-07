@@ -5,6 +5,8 @@ draft: false
 toc: true
 tags: ["4Kモニター", "JAPANNEXT", "アンバサダー"]
 cover: images/JAPANNEXT_28inch_4k_monitor.png
+images:
+  - "images/JAPANNEXT_28inch_4k_monitor.png"
 ---
 <!--more-->
 ![](https://pbs.twimg.com/media/GEwGbPPbAAAL08m?format=jpg&name=4096x4096)

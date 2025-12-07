@@ -4,6 +4,8 @@ date: 2021-03-06T12:57:31+09:00
 draft: false
 toc: true
 cover: "https://user-images.githubusercontent.com/76581368/110194529-fc114700-7e7b-11eb-865d-aeb35245e709.png"
+images:
+  - "https://user-images.githubusercontent.com/76581368/110194529-fc114700-7e7b-11eb-865d-aeb35245e709.png"
 tags: ["やらかしリカバリ","AWS"]
 ---
 <!--more-->
