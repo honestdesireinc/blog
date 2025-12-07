@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>お菓子作り on 右ねじの法則 -それ、いいね。-</title>
-    <link>http://localhost:54411/tags/%E3%81%8A%E8%8F%93%E5%AD%90%E4%BD%9C%E3%82%8A/</link>
+    <link>https://www.rightscrew.com/tags/%E3%81%8A%E8%8F%93%E5%AD%90%E4%BD%9C%E3%82%8A/</link>
     <description>Recent content in お菓子作り on 右ねじの法則 -それ、いいね。-</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sat, 13 Feb 2021 16:34:54 +0900</lastBuildDate>
-    <atom:link href="http://localhost:54411/tags/%E3%81%8A%E8%8F%93%E5%AD%90%E4%BD%9C%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.rightscrew.com/tags/%E3%81%8A%E8%8F%93%E5%AD%90%E4%BD%9C%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>なめちゃだめ！ビーントゥバーチョコレートを作ってみよう</title>
-      <link>http://localhost:54411/posts/2021-02-13-insane-chocolate-bar/</link>
+      <link>https://www.rightscrew.com/posts/2021-02-13-insane-chocolate-bar/</link>
       <pubDate>Sat, 13 Feb 2021 16:34:54 +0900</pubDate>
-      <guid>http://localhost:54411/posts/2021-02-13-insane-chocolate-bar/</guid>
+      <guid>https://www.rightscrew.com/posts/2021-02-13-insane-chocolate-bar/</guid>
       <description></description>
     </item>
   </channel>

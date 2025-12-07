@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beautifulhugo on 右ねじの法則 -それ、いいね。-</title>
-    <link>http://localhost:54411/tags/beautifulhugo/</link>
+    <link>https://www.rightscrew.com/tags/beautifulhugo/</link>
     <description>Recent content in Beautifulhugo on 右ねじの法則 -それ、いいね。-</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Fri, 25 Dec 2020 17:11:09 +0900</lastBuildDate>
-    <atom:link href="http://localhost:54411/tags/beautifulhugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.rightscrew.com/tags/beautifulhugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>www.rightscrew.com爆誕</title>
-      <link>http://localhost:54411/posts/2020-12-25-honestdesireinc/</link>
+      <link>https://www.rightscrew.com/posts/2020-12-25-honestdesireinc/</link>
       <pubDate>Fri, 25 Dec 2020 17:11:09 +0900</pubDate>
-      <guid>http://localhost:54411/posts/2020-12-25-honestdesireinc/</guid>
+      <guid>https://www.rightscrew.com/posts/2020-12-25-honestdesireinc/</guid>
       <description></description>
     </item>
   </channel>

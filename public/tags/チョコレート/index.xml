@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>チョコレート on 右ねじの法則 -それ、いいね。-</title>
-    <link>http://localhost:54411/tags/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88/</link>
+    <link>https://www.rightscrew.com/tags/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88/</link>
     <description>Recent content in チョコレート on 右ねじの法則 -それ、いいね。-</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sat, 13 Feb 2021 16:34:54 +0900</lastBuildDate>
-    <atom:link href="http://localhost:54411/tags/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.rightscrew.com/tags/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>なめちゃだめ！ビーントゥバーチョコレートを作ってみよう</title>
-      <link>http://localhost:54411/posts/2021-02-13-insane-chocolate-bar/</link>
+      <link>https://www.rightscrew.com/posts/2021-02-13-insane-chocolate-bar/</link>
       <pubDate>Sat, 13 Feb 2021 16:34:54 +0900</pubDate>
-      <guid>http://localhost:54411/posts/2021-02-13-insane-chocolate-bar/</guid>
+      <guid>https://www.rightscrew.com/posts/2021-02-13-insane-chocolate-bar/</guid>
       <description></description>
     </item>
   </channel>

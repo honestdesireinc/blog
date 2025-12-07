@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>カメラ on 右ねじの法則 -それ、いいね。-</title>
-    <link>http://localhost:54411/tags/%E3%82%AB%E3%83%A1%E3%83%A9/</link>
+    <link>https://www.rightscrew.com/tags/%E3%82%AB%E3%83%A1%E3%83%A9/</link>
     <description>Recent content in カメラ on 右ねじの法則 -それ、いいね。-</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 31 Dec 2020 17:43:55 +0900</lastBuildDate>
-    <atom:link href="http://localhost:54411/tags/%E3%82%AB%E3%83%A1%E3%83%A9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.rightscrew.com/tags/%E3%82%AB%E3%83%A1%E3%83%A9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2020年に買ったものまとめ</title>
-      <link>http://localhost:54411/posts/2020-12-31-2020summery/</link>
+      <link>https://www.rightscrew.com/posts/2020-12-31-2020summery/</link>
       <pubDate>Thu, 31 Dec 2020 17:43:55 +0900</pubDate>
-      <guid>http://localhost:54411/posts/2020-12-31-2020summery/</guid>
+      <guid>https://www.rightscrew.com/posts/2020-12-31-2020summery/</guid>
       <description></description>
     </item>
   </channel>

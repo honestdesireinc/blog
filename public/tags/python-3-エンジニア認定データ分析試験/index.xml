@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python 3 エンジニア認定データ分析試験 on 右ねじの法則 -それ、いいね。-</title>
-    <link>http://localhost:54411/tags/python-3-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E8%AA%8D%E5%AE%9A%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E8%A9%A6%E9%A8%93/</link>
+    <link>https://www.rightscrew.com/tags/python-3-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E8%AA%8D%E5%AE%9A%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E8%A9%A6%E9%A8%93/</link>
     <description>Recent content in Python 3 エンジニア認定データ分析試験 on 右ねじの法則 -それ、いいね。-</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Fri, 31 Dec 2021 15:17:39 +0900</lastBuildDate>
-    <atom:link href="http://localhost:54411/tags/python-3-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E8%AA%8D%E5%AE%9A%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E8%A9%A6%E9%A8%93/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.rightscrew.com/tags/python-3-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E8%AA%8D%E5%AE%9A%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E8%A9%A6%E9%A8%93/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「Python 3 エンジニア認定データ分析試験」に合格してきた</title>
-      <link>http://localhost:54411/posts/2021-12-31-python-data-analyst/</link>
+      <link>https://www.rightscrew.com/posts/2021-12-31-python-data-analyst/</link>
       <pubDate>Fri, 31 Dec 2021 15:17:39 +0900</pubDate>
-      <guid>http://localhost:54411/posts/2021-12-31-python-data-analyst/</guid>
+      <guid>https://www.rightscrew.com/posts/2021-12-31-python-data-analyst/</guid>
       <description></description>
     </item>
   </channel>

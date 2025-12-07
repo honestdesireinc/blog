@@ -2,31 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ALIENWARE on 右ねじの法則 -それ、いいね。-</title>
-    <link>http://localhost:54411/tags/alienware/</link>
+    <link>https://www.rightscrew.com/tags/alienware/</link>
     <description>Recent content in ALIENWARE on 右ねじの法則 -それ、いいね。-</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 21 Jan 2024 00:45:06 +0900</lastBuildDate>
-    <atom:link href="http://localhost:54411/tags/alienware/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.rightscrew.com/tags/alienware/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>デルアンバサダーが見た本気全力の感謝祭、FFXIV FAN FESTIVAL参加レポート</title>
-      <link>http://localhost:54411/posts/2024-01-21-ffxiv-fan-festival/</link>
+      <link>https://www.rightscrew.com/posts/2024-01-21-ffxiv-fan-festival/</link>
       <pubDate>Sun, 21 Jan 2024 00:45:06 +0900</pubDate>
-      <guid>http://localhost:54411/posts/2024-01-21-ffxiv-fan-festival/</guid>
+      <guid>https://www.rightscrew.com/posts/2024-01-21-ffxiv-fan-festival/</guid>
       <description></description>
     </item>
     <item>
       <title>ゲーマー長年の夢叶う。本当のカジュアルゲーミングPC、Alienware x14</title>
-      <link>http://localhost:54411/posts/2023-03-19-dell-ambassador-alienwarex14/</link>
+      <link>https://www.rightscrew.com/posts/2023-03-19-dell-ambassador-alienwarex14/</link>
       <pubDate>Sun, 19 Mar 2023 20:07:31 +0900</pubDate>
-      <guid>http://localhost:54411/posts/2023-03-19-dell-ambassador-alienwarex14/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>薄くなって新登場。Alienware x17 R1</title>
-      <link>http://localhost:54411/posts/2022-07-02-dell-ambassador-alienware-x17-r1/</link>
-      <pubDate>Sun, 03 Jul 2022 01:40:08 +0900</pubDate>
-      <guid>http://localhost:54411/posts/2022-07-02-dell-ambassador-alienware-x17-r1/</guid>
+      <guid>https://www.rightscrew.com/posts/2023-03-19-dell-ambassador-alienwarex14/</guid>
       <description></description>
     </item>
   </channel>

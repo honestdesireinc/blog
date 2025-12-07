@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on 右ねじの法則 -それ、いいね。-</title>
-    <link>http://localhost:54411/page/</link>
+    <link>https://www.rightscrew.com/page/</link>
     <description>Recent content in Pages on 右ねじの法則 -それ、いいね。-</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 18 Jun 2023 12:13:25 +0900</lastBuildDate>
-    <atom:link href="http://localhost:54411/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.rightscrew.com/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:54411/page/about/</link>
+      <link>https://www.rightscrew.com/page/about/</link>
       <pubDate>Sun, 18 Jun 2023 12:13:25 +0900</pubDate>
-      <guid>http://localhost:54411/page/about/</guid>
+      <guid>https://www.rightscrew.com/page/about/</guid>
       <description>&lt;h2 id=&#34;rightscrew&#34;&gt;Rightscrew&lt;/h2&gt;&#xA;&lt;p&gt;Rightscrewは、2011年に活動を開始した体験レポ・ガジェットレビューを行うマイクロメディアです。&lt;/p&gt;&#xA;&lt;h2 id=&#34;右ねじ&#34;&gt;右ねじ&lt;/h2&gt;&#xA;&lt;p&gt;Rightscrew代表。学生時代より動画編集を得意とし、本業の傍らウェディングムービーなどを制作。&#xA;2017年までに日本の47都道府県を制覇し、各地の風景をカメラに収めている。&lt;/p&gt;&#xA;&lt;p&gt;幼少期に抱いていた美術に対するコンプレックスを克服してからは、&#xA;イラストやデジタル油彩を中心に、LINEスタンプショップやSuzuriでグッズ化も行っている。&lt;/p&gt;&#xA;&lt;p&gt;資格取得が好きで、よく一夜漬けで試験にのぞみ、それもまた体験レポになる。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Archives</title>
-      <link>http://localhost:54411/page/archives/</link>
+      <link>https://www.rightscrew.com/page/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54411/page/archives/</guid>
+      <guid>https://www.rightscrew.com/page/archives/</guid>
       <description></description>
     </item>
     <item>
       <title>Search</title>
-      <link>http://localhost:54411/page/search/</link>
+      <link>https://www.rightscrew.com/page/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54411/page/search/</guid>
+      <guid>https://www.rightscrew.com/page/search/</guid>
       <description></description>
     </item>
   </channel>

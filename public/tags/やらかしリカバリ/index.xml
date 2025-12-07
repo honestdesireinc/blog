@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>やらかしリカバリ on 右ねじの法則 -それ、いいね。-</title>
-    <link>http://localhost:54411/tags/%E3%82%84%E3%82%89%E3%81%8B%E3%81%97%E3%83%AA%E3%82%AB%E3%83%90%E3%83%AA/</link>
+    <link>https://www.rightscrew.com/tags/%E3%82%84%E3%82%89%E3%81%8B%E3%81%97%E3%83%AA%E3%82%AB%E3%83%90%E3%83%AA/</link>
     <description>Recent content in やらかしリカバリ on 右ねじの法則 -それ、いいね。-</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 05 Dec 2021 15:55:11 +0900</lastBuildDate>
-    <atom:link href="http://localhost:54411/tags/%E3%82%84%E3%82%89%E3%81%8B%E3%81%97%E3%83%AA%E3%82%AB%E3%83%90%E3%83%AA/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.rightscrew.com/tags/%E3%82%84%E3%82%89%E3%81%8B%E3%81%97%E3%83%AA%E3%82%AB%E3%83%90%E3%83%AA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Impulse shopping -PS5無限連鎖編-</title>
-      <link>http://localhost:54411/posts/2021-12-05-shopping/</link>
+      <link>https://www.rightscrew.com/posts/2021-12-05-shopping/</link>
       <pubDate>Sun, 05 Dec 2021 15:55:11 +0900</pubDate>
-      <guid>http://localhost:54411/posts/2021-12-05-shopping/</guid>
+      <guid>https://www.rightscrew.com/posts/2021-12-05-shopping/</guid>
       <description></description>
     </item>
     <item>
       <title>AWSのインスタンスを消し忘れるくせに2段階認証アプリは消すアホが、公証役場で外国文認証を取得することになった話</title>
-      <link>http://localhost:54411/posts/2021-03-06-aws-billing-and-affidavit/</link>
+      <link>https://www.rightscrew.com/posts/2021-03-06-aws-billing-and-affidavit/</link>
       <pubDate>Sat, 06 Mar 2021 12:57:31 +0900</pubDate>
-      <guid>http://localhost:54411/posts/2021-03-06-aws-billing-and-affidavit/</guid>
+      <guid>https://www.rightscrew.com/posts/2021-03-06-aws-billing-and-affidavit/</guid>
       <description></description>
     </item>
     <item>
       <title>冷蔵庫が冷えてなかった代わりに、ぼくの肝が冷えた話</title>
-      <link>http://localhost:54411/posts/2021-01-01-refrigerator-repair/</link>
+      <link>https://www.rightscrew.com/posts/2021-01-01-refrigerator-repair/</link>
       <pubDate>Fri, 01 Jan 2021 17:50:10 +0900</pubDate>
-      <guid>http://localhost:54411/posts/2021-01-01-refrigerator-repair/</guid>
+      <guid>https://www.rightscrew.com/posts/2021-01-01-refrigerator-repair/</guid>
       <description></description>
     </item>
   </channel>

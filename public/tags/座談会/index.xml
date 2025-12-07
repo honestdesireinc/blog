@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>座談会 on 右ねじの法則 -それ、いいね。-</title>
-    <link>http://localhost:54411/tags/%E5%BA%A7%E8%AB%87%E4%BC%9A/</link>
+    <link>https://www.rightscrew.com/tags/%E5%BA%A7%E8%AB%87%E4%BC%9A/</link>
     <description>Recent content in 座談会 on 右ねじの法則 -それ、いいね。-</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 29 Jan 2020 17:43:09 +0900</lastBuildDate>
-    <atom:link href="http://localhost:54411/tags/%E5%BA%A7%E8%AB%87%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.rightscrew.com/tags/%E5%BA%A7%E8%AB%87%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第7回デルアンバサダー座談会に参加しました。</title>
-      <link>http://localhost:54411/posts/2020-01-29-dell-ambassador-symposium/</link>
+      <link>https://www.rightscrew.com/posts/2020-01-29-dell-ambassador-symposium/</link>
       <pubDate>Wed, 29 Jan 2020 17:43:09 +0900</pubDate>
-      <guid>http://localhost:54411/posts/2020-01-29-dell-ambassador-symposium/</guid>
+      <guid>https://www.rightscrew.com/posts/2020-01-29-dell-ambassador-symposium/</guid>
       <description></description>
     </item>
   </channel>

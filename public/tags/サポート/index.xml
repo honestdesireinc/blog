@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>サポート on 右ねじの法則 -それ、いいね。-</title>
-    <link>http://localhost:54411/tags/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/</link>
+    <link>https://www.rightscrew.com/tags/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/</link>
     <description>Recent content in サポート on 右ねじの法則 -それ、いいね。-</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Tue, 05 Jan 2021 09:59:34 +0900</lastBuildDate>
-    <atom:link href="http://localhost:54411/tags/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.rightscrew.com/tags/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「日本のPCメーカーはサポートがしっかりしている」は本当か？</title>
-      <link>http://localhost:54411/posts/2021-01-05-choose-pc-by-same-range/</link>
+      <link>https://www.rightscrew.com/posts/2021-01-05-choose-pc-by-same-range/</link>
       <pubDate>Tue, 05 Jan 2021 09:59:34 +0900</pubDate>
-      <guid>http://localhost:54411/posts/2021-01-05-choose-pc-by-same-range/</guid>
+      <guid>https://www.rightscrew.com/posts/2021-01-05-choose-pc-by-same-range/</guid>
       <description></description>
     </item>
   </channel>

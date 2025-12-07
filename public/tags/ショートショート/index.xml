@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ショートショート on 右ねじの法則 -それ、いいね。-</title>
-    <link>http://localhost:54411/tags/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88/</link>
+    <link>https://www.rightscrew.com/tags/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88/</link>
     <description>Recent content in ショートショート on 右ねじの法則 -それ、いいね。-</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 17 Jun 2021 21:19:07 +0900</lastBuildDate>
-    <atom:link href="http://localhost:54411/tags/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.rightscrew.com/tags/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>口頭語頭</title>
-      <link>http://localhost:54411/posts/2021-06-17-ktgt/</link>
+      <link>https://www.rightscrew.com/posts/2021-06-17-ktgt/</link>
       <pubDate>Thu, 17 Jun 2021 21:19:07 +0900</pubDate>
-      <guid>http://localhost:54411/posts/2021-06-17-ktgt/</guid>
+      <guid>https://www.rightscrew.com/posts/2021-06-17-ktgt/</guid>
       <description></description>
     </item>
     <item>
       <title>世界の終わり、語り部のチャットログより</title>
-      <link>http://localhost:54411/posts/2021-05-10-worlds-end-roll/</link>
+      <link>https://www.rightscrew.com/posts/2021-05-10-worlds-end-roll/</link>
       <pubDate>Mon, 10 May 2021 01:29:02 +0900</pubDate>
-      <guid>http://localhost:54411/posts/2021-05-10-worlds-end-roll/</guid>
+      <guid>https://www.rightscrew.com/posts/2021-05-10-worlds-end-roll/</guid>
       <description></description>
     </item>
     <item>
       <title>(C)rices</title>
-      <link>http://localhost:54411/posts/2021-01-22-crices/</link>
+      <link>https://www.rightscrew.com/posts/2021-01-22-crices/</link>
       <pubDate>Sat, 23 Jan 2021 01:38:29 +0900</pubDate>
-      <guid>http://localhost:54411/posts/2021-01-22-crices/</guid>
+      <guid>https://www.rightscrew.com/posts/2021-01-22-crices/</guid>
       <description></description>
     </item>
   </channel>

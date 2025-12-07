@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AWS on 右ねじの法則 -それ、いいね。-</title>
-    <link>http://localhost:54411/tags/aws/</link>
+    <link>https://www.rightscrew.com/tags/aws/</link>
     <description>Recent content in AWS on 右ねじの法則 -それ、いいね。-</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sat, 06 Mar 2021 12:57:31 +0900</lastBuildDate>
-    <atom:link href="http://localhost:54411/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.rightscrew.com/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AWSのインスタンスを消し忘れるくせに2段階認証アプリは消すアホが、公証役場で外国文認証を取得することになった話</title>
-      <link>http://localhost:54411/posts/2021-03-06-aws-billing-and-affidavit/</link>
+      <link>https://www.rightscrew.com/posts/2021-03-06-aws-billing-and-affidavit/</link>
       <pubDate>Sat, 06 Mar 2021 12:57:31 +0900</pubDate>
-      <guid>http://localhost:54411/posts/2021-03-06-aws-billing-and-affidavit/</guid>
+      <guid>https://www.rightscrew.com/posts/2021-03-06-aws-billing-and-affidavit/</guid>
       <description></description>
     </item>
   </channel>

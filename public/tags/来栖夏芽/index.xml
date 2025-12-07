@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>来栖夏芽 on 右ねじの法則 -それ、いいね。-</title>
-    <link>http://localhost:54411/tags/%E6%9D%A5%E6%A0%96%E5%A4%8F%E8%8A%BD/</link>
+    <link>https://www.rightscrew.com/tags/%E6%9D%A5%E6%A0%96%E5%A4%8F%E8%8A%BD/</link>
     <description>Recent content in 来栖夏芽 on 右ねじの法則 -それ、いいね。-</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 02 Jun 2021 23:35:19 +0900</lastBuildDate>
-    <atom:link href="http://localhost:54411/tags/%E6%9D%A5%E6%A0%96%E5%A4%8F%E8%8A%BD/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.rightscrew.com/tags/%E6%9D%A5%E6%A0%96%E5%A4%8F%E8%8A%BD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>推しVTuberのアーカイブサイトをNotionでサクっと作った</title>
-      <link>http://localhost:54411/posts/2021-06-02-fave-vtuber-notion/</link>
+      <link>https://www.rightscrew.com/posts/2021-06-02-fave-vtuber-notion/</link>
       <pubDate>Wed, 02 Jun 2021 23:35:19 +0900</pubDate>
-      <guid>http://localhost:54411/posts/2021-06-02-fave-vtuber-notion/</guid>
+      <guid>https://www.rightscrew.com/posts/2021-06-02-fave-vtuber-notion/</guid>
       <description></description>
     </item>
   </channel>
