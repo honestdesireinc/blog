@@ -25,4 +25,4 @@ git commit -m "$msg"
 # Push source and build repos.
 git push origin master
 
-copy C://Users/dell/Documents/GitHub/blog/public/ C://Users/dell/Documents/GitHub/honestdesireinc.github.io/
+cp -p /Users/rightscrew/Documents/GitHub/blog/public/ /Users/rightscrew/Documents/GitHub/honestdesireinc.github.io/

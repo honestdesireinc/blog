@@ -1,0 +1,1140 @@
+<!DOCTYPE html>
+<html lang="ja-jp"
+  x-data
+  :class="$store.darkMode.class()"
+  :data-theme="$store.darkMode.theme()">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>エクステンション | 右ねじの法則 -それ、いいね。-</title>
+
+    
+
+<link rel="canonical" href="http://localhost:1313/tags/%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%86%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3/" />
+
+
+
+<meta name="author" content="右ねじ" />
+<meta name="description" content="" />
+
+
+
+<meta name="generator" content="Hugo 0.152.2">
+
+
+<meta property="og:url" content="http://localhost:1313/tags/%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%86%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3/">
+  <meta property="og:site_name" content="右ねじの法則 -それ、いいね。-">
+  <meta property="og:title" content="エクステンション">
+  <meta property="og:locale" content="ja_jp">
+  <meta property="og:type" content="website">
+
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="エクステンション">
+
+
+
+
+<link rel="stylesheet" href="/css/output.css" />
+
+
+
+
+     
+
+    
+
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.15.1/dist/cdn.min.js" integrity="sha256-Rmqrc5SKeSLTSnQ9shSKWmJco1ks8c1hLI8UG2Np03M=" crossorigin="anonymous"></script>
+  </head>
+
+  <body x-data="{
+    flip: false,
+  }">
+    
+    <div id="dream-global-bg"></div>
+
+    
+<nav class="mt-4 lg:mt-8 py-4">
+
+  
+  <div class="container flex justify-between px-4">
+  
+    <section class="flex items-center gap-4">
+      <div class="avatar cursor-pointer hover:avatar-online" @click="flip = !flip" title="Flip it!">
+        <div class="h-10 rounded-full">
+          <img src="/logo.png" alt="右ねじの法則" />
+        </div>
+      </div>
+
+      
+      <div>
+        
+        <a href="http://localhost:1313/" class="text-lg font-semibold cursor-pointer">
+          右ねじの法則
+        </a>
+        
+        
+        <div class="text-base-content/60 text-sm">それ、いいね。</div>
+        
+      </div>
+      
+    </section>
+
+    
+    
+
+    <div class="dropdown dropdown-end sm:hidden">
+      <div tabindex="0" role="button" class="btn btn-ghost btn-square" aria-label="Select an option">
+        <ion-icon name="menu" class="text-2xl"></ion-icon>
+      </div>
+      <ul tabindex="0" class="dropdown-content menu w-36 bg-base-100 rounded-box z-1 shadow-md">
+        
+
+
+
+
+
+
+
+<li>
+  <div role="link" tabindex="0" class="inline-flex items-center p-2 cursor-pointer" @click="flip = !flip" title="About">
+    <ion-icon name="information-circle"></ion-icon>About</div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/posts" title="Archives">
+    <ion-icon name="archive"></ion-icon>
+    Archives
+  </a>
+</li>
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/categories" title="All Categories">
+    <ion-icon name="grid"></ion-icon>
+    All Categories
+  </a>
+</li>
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/tags" title="All Tags">
+    <ion-icon name="pricetags"></ion-icon>
+    All Tags
+  </a>
+</li>
+
+
+
+
+
+
+      </ul>
+    </div>
+    <section class="hidden sm:flex sm:items-center sm:gap-2 md:gap-4">
+      
+
+      
+      
+
+
+
+
+<div role="link" tabindex="0" class="text-sm font-semibold cursor-pointer hover:underline" @click="flip = !flip" title="About">About</div>
+
+
+
+
+
+      
+      
+
+
+
+
+
+      
+      
+
+
+
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/posts" title="Archives">
+  <ion-icon class="group-hover:text-primary-content" name="archive"></ion-icon>
+</a>
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/categories" title="All Categories">
+  <ion-icon class="group-hover:text-primary-content" name="grid"></ion-icon>
+</a>
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/tags" title="All Tags">
+  <ion-icon class="group-hover:text-primary-content" name="pricetags"></ion-icon>
+</a>
+
+
+      
+
+      
+
+      
+    </section>
+  </div>
+</nav>
+
+
+    <div class="flip-container" :class="{ 'flip-it': flip }">
+      <div class="flipper">
+        <div class="front">
+          <div class="container">
+            
+
+
+<div class="flex flex-col md:flex-row mt-4">
+
+  <div class="md:basis-[200px] lg:basis-[300px] p-4 prose dark:prose-invert">
+    <h1 class="text-2xl">エクステンション</h1>
+    <p class="text-sm">1 article</p>
+    <div class="flex flex-wrap gap-4 mt-6">
+      
+
+      
+      
+      <a href="/tags/4k%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC/" class="badge h-6 no-underline hover:badge-primary">
+        4Kモニター
+      </a>
+      
+      
+      
+      <a href="/tags/adobe-premiere-pro/" class="badge h-6 no-underline hover:badge-primary">
+        Adobe Premiere Pro
+      </a>
+      
+      
+      
+      <a href="/tags/alienware/" class="badge h-6 no-underline hover:badge-primary">
+        ALIENWARE
+      </a>
+      
+      
+      
+      <a href="/tags/alienwarem15/" class="badge h-6 no-underline hover:badge-primary">
+        ALIENWAREm15
+      </a>
+      
+      
+      
+      <a href="/tags/alienwarex14/" class="badge h-6 no-underline hover:badge-primary">
+        Alienwarex14
+      </a>
+      
+      
+      
+      <a href="/tags/alienwarex17r1/" class="badge h-6 no-underline hover:badge-primary">
+        Alienwarex17R1
+      </a>
+      
+      
+      
+      <a href="/tags/alienware%E4%BD%93%E9%A8%93%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC/" class="badge h-6 no-underline hover:badge-primary">
+        ALIENWARE体験モニター
+      </a>
+      
+      
+      
+      <a href="/tags/amd/" class="badge h-6 no-underline hover:badge-primary">
+        AMD
+      </a>
+      
+      
+      
+      <a href="/tags/amebaownd/" class="badge h-6 no-underline hover:badge-primary">
+        Amebaownd
+      </a>
+      
+      
+      
+      <a href="/tags/android/" class="badge h-6 no-underline hover:badge-primary">
+        Android
+      </a>
+      
+      
+      
+      <a href="/tags/aws/" class="badge h-6 no-underline hover:badge-primary">
+        AWS
+      </a>
+      
+      
+      
+      <a href="/tags/beautifulhugo/" class="badge h-6 no-underline hover:badge-primary">
+        Beautifulhugo
+      </a>
+      
+      
+      
+      <a href="/tags/blog/" class="badge h-6 no-underline hover:badge-primary">
+        Blog
+      </a>
+      
+      
+      
+      <a href="/tags/copilot&#43;pc/" class="badge h-6 no-underline hover:badge-primary">
+        Copilot&#43;PC
+      </a>
+      
+      
+      
+      <a href="/tags/dell/" class="badge h-6 no-underline hover:badge-primary">
+        DELL
+      </a>
+      
+      
+      
+      <a href="/tags/dellmobileconnect/" class="badge h-6 no-underline hover:badge-primary">
+        Dellmobileconnect
+      </a>
+      
+      
+      
+      <a href="/tags/editnote/" class="badge h-6 no-underline hover:badge-primary">
+        Editnote
+      </a>
+      
+      
+      
+      <a href="/tags/ff14/" class="badge h-6 no-underline hover:badge-primary">
+        FF14
+      </a>
+      
+      
+      
+      <a href="/tags/ffxivfanfes/" class="badge h-6 no-underline hover:badge-primary">
+        FFXIVFanFes
+      </a>
+      
+      
+      
+      <a href="/tags/gadget/" class="badge h-6 no-underline hover:badge-primary">
+        Gadget
+      </a>
+      
+      
+      
+      <a href="/tags/githubpages/" class="badge h-6 no-underline hover:badge-primary">
+        Githubpages
+      </a>
+      
+      
+      
+      <a href="/tags/index/" class="badge h-6 no-underline hover:badge-primary">
+        Index
+      </a>
+      
+      
+      
+      <a href="/tags/inspiron11/" class="badge h-6 no-underline hover:badge-primary">
+        Inspiron11
+      </a>
+      
+      
+      
+      <a href="/tags/inspiron14/" class="badge h-6 no-underline hover:badge-primary">
+        Inspiron14
+      </a>
+      
+      
+      
+      <a href="/tags/instagram/" class="badge h-6 no-underline hover:badge-primary">
+        Instagram
+      </a>
+      
+      
+      
+      <a href="/tags/intel-core-ultra-series-2/" class="badge h-6 no-underline hover:badge-primary">
+        Intel Core Ultra Series 2
+      </a>
+      
+      
+      
+      <a href="/tags/intelcoreultra/" class="badge h-6 no-underline hover:badge-primary">
+        IntelCoreUltra
+      </a>
+      
+      
+      
+      <a href="/tags/japannext/" class="badge h-6 no-underline hover:badge-primary">
+        JAPANNEXT
+      </a>
+      
+      
+      
+      <a href="/tags/jn-27ib120q-h-c6/" class="badge h-6 no-underline hover:badge-primary">
+        JN-27iB120Q-H-C6
+      </a>
+      
+      
+      
+      <a href="/tags/jn-vcg30202wfhdr-n/" class="badge h-6 no-underline hover:badge-primary">
+        JN-VCG30202WFHDR-N
+      </a>
+      
+      
+      
+      <a href="/tags/killercontrolcenter/" class="badge h-6 no-underline hover:badge-primary">
+        Killercontrolcenter
+      </a>
+      
+      
+      
+      <a href="/tags/motorola/" class="badge h-6 no-underline hover:badge-primary">
+        Motorola
+      </a>
+      
+      
+      
+      <a href="/tags/newinspiron13/" class="badge h-6 no-underline hover:badge-primary">
+        NewInspiron13
+      </a>
+      
+      
+      
+      <a href="/tags/newxps%E4%BD%93%E9%A8%93%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC/" class="badge h-6 no-underline hover:badge-primary">
+        NewXPS体験モニター
+      </a>
+      
+      
+      
+      <a href="/tags/otell/" class="badge h-6 no-underline hover:badge-primary">
+        Otell
+      </a>
+      
+      
+      
+      <a href="/tags/pc%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC/" class="badge h-6 no-underline hover:badge-primary">
+        PCスピーカー
+      </a>
+      
+      
+      
+      <a href="/tags/python-3-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E8%AA%8D%E5%AE%9A%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E8%A9%A6%E9%A8%93/" class="badge h-6 no-underline hover:badge-primary">
+        Python 3 エンジニア認定データ分析試験
+      </a>
+      
+      
+      
+      <a href="/tags/python%E8%A9%A6%E9%A8%93/" class="badge h-6 no-underline hover:badge-primary">
+        Python試験
+      </a>
+      
+      
+      
+      <a href="/tags/razr/" class="badge h-6 no-underline hover:badge-primary">
+        Razr
+      </a>
+      
+      
+      
+      <a href="/tags/ryzen/" class="badge h-6 no-underline hover:badge-primary">
+        Ryzen
+      </a>
+      
+      
+      
+      <a href="/tags/snapdragon/" class="badge h-6 no-underline hover:badge-primary">
+        Snapdragon
+      </a>
+      
+      
+      
+      <a href="/tags/tag1/" class="badge h-6 no-underline hover:badge-primary">
+        Tag1
+      </a>
+      
+      
+      
+      <a href="/tags/tag2/" class="badge h-6 no-underline hover:badge-primary">
+        Tag2
+      </a>
+      
+      
+      
+      <a href="/tags/vtuber/" class="badge h-6 no-underline hover:badge-primary">
+        VTuber
+      </a>
+      
+      
+      
+      <a href="/tags/xps13/" class="badge h-6 no-underline hover:badge-primary">
+        XPS13
+      </a>
+      
+      
+      
+      <a href="/tags/xps13plus/" class="badge h-6 no-underline hover:badge-primary">
+        XPS13PLUS
+      </a>
+      
+      
+      
+      <a href="/tags/xps15/" class="badge h-6 no-underline hover:badge-primary">
+        XPS15
+      </a>
+      
+      
+      
+      <a href="/tags/xps17/" class="badge h-6 no-underline hover:badge-primary">
+        XPS17
+      </a>
+      
+      
+      
+      <a href="/tags/xps%E4%BD%93%E9%A8%93%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC/" class="badge h-6 no-underline hover:badge-primary">
+        XPS体験モニター
+      </a>
+      
+      
+      
+      <a href="/tags/%E3%82%A2%E3%83%B3%E3%83%90%E3%82%B5%E3%83%80%E3%83%BC/" class="badge h-6 no-underline hover:badge-primary">
+        アンバサダー
+      </a>
+      
+      
+      
+      <a href="/tags/%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%83%AF%E3%82%A4%E3%83%89%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC/" class="badge h-6 no-underline hover:badge-primary">
+        ウルトラワイドモニター
+      </a>
+      
+      
+      
+      <span class="badge h-6 badge-primary">
+        エクステンション
+      </span>
+      
+      
+      
+      <a href="/tags/%E3%81%8A%E8%8F%93%E5%AD%90%E4%BD%9C%E3%82%8A/" class="badge h-6 no-underline hover:badge-primary">
+        お菓子作り
+      </a>
+      
+      
+      
+      <a href="/tags/%E3%82%AB%E3%83%A1%E3%83%A9/" class="badge h-6 no-underline hover:badge-primary">
+        カメラ
+      </a>
+      
+      
+      
+      <a href="/tags/%E3%82%AB%E3%83%AC%E3%83%BC/" class="badge h-6 no-underline hover:badge-primary">
+        カレー
+      </a>
+      
+      
+      
+      <a href="/tags/%E3%82%AF%E3%83%A9%E3%83%95%E3%82%A1%E3%83%B3/" class="badge h-6 no-underline hover:badge-primary">
+        クラファン
+      </a>
+      
+      
+      
+      <a href="/tags/%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC/" class="badge h-6 no-underline hover:badge-primary">
+        ゲーミングモニター
+      </a>
+      
+      
+      
+      <a href="/tags/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/" class="badge h-6 no-underline hover:badge-primary">
+        サポート
+      </a>
+      
+      
+      
+      <a href="/tags/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88/" class="badge h-6 no-underline hover:badge-primary">
+        ショートショート
+      </a>
+      
+      
+      
+      <a href="/tags/%E3%82%BF%E3%83%83%E3%83%81%E3%83%88%E3%83%A9%E3%82%A4/" class="badge h-6 no-underline hover:badge-primary">
+        タッチ＆トライ
+      </a>
+      
+      
+      
+      <a href="/tags/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88/" class="badge h-6 no-underline hover:badge-primary">
+        チョコレート
+      </a>
+      
+      
+      
+      <a href="/tags/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/" class="badge h-6 no-underline hover:badge-primary">
+        ディスプレイ
+      </a>
+      
+      
+      
+      <a href="/tags/%E3%83%87%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%90%E3%82%B5%E3%83%80%E3%83%BC/" class="badge h-6 no-underline hover:badge-primary">
+        デルアンバサダー
+      </a>
+      
+      
+      
+      <a href="/tags/%E3%83%87%E3%83%AB%E3%81%A7dazn/" class="badge h-6 no-underline hover:badge-primary">
+        デルでDAZN
+      </a>
+      
+      
+      
+      <a href="/tags/%E3%81%AB%E3%81%98%E3%81%95%E3%82%93%E3%81%98/" class="badge h-6 no-underline hover:badge-primary">
+        にじさんじ
+      </a>
+      
+      
+      
+      <a href="/tags/%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%89%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC/" class="badge h-6 no-underline hover:badge-primary">
+        ハイエンドモニター
+      </a>
+      
+      
+      
+      <a href="/tags/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/" class="badge h-6 no-underline hover:badge-primary">
+        パソコン
+      </a>
+      
+      
+      
+      <a href="/tags/%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%E3%83%87%E3%83%BC/" class="badge h-6 no-underline hover:badge-primary">
+        バレンタインデー
+      </a>
+      
+      
+      
+      <a href="/tags/%E3%83%93%E3%83%BC%E3%83%B3%E3%83%88%E3%82%A5%E3%83%90%E3%83%BC/" class="badge h-6 no-underline hover:badge-primary">
+        ビーントゥバー
+      </a>
+      
+      
+      
+      <a href="/tags/%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E7%B4%8D%E7%A8%8E/" class="badge h-6 no-underline hover:badge-primary">
+        ふるさと納税
+      </a>
+      
+      
+      
+      <a href="/tags/%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%A0/" class="badge h-6 no-underline hover:badge-primary">
+        モニターアーム
+      </a>
+      
+      
+      
+      <a href="/tags/%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC/" class="badge h-6 no-underline hover:badge-primary">
+        モバイルモニター
+      </a>
+      
+      
+      
+      <a href="/tags/%E3%82%84%E3%82%89%E3%81%8B%E3%81%97%E3%83%AA%E3%82%AB%E3%83%90%E3%83%AA/" class="badge h-6 no-underline hover:badge-primary">
+        やらかしリカバリ
+      </a>
+      
+      
+      
+      <a href="/tags/%E3%83%AF%E3%83%BC%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/" class="badge h-6 no-underline hover:badge-primary">
+        ワーケーション
+      </a>
+      
+      
+      
+      <a href="/tags/%E4%B8%89%E5%B3%B6/" class="badge h-6 no-underline hover:badge-primary">
+        三島
+      </a>
+      
+      
+      
+      <a href="/tags/%E4%BF%AE%E7%90%86%E6%89%8B%E9%85%8D%E3%83%AC%E3%83%9D/" class="badge h-6 no-underline hover:badge-primary">
+        修理手配レポ
+      </a>
+      
+      
+      
+      <a href="/tags/%E5%86%B7%E8%94%B5%E5%BA%AB/" class="badge h-6 no-underline hover:badge-primary">
+        冷蔵庫
+      </a>
+      
+      
+      
+      <a href="/tags/%E5%A3%81%E6%8E%9B%E3%81%91/" class="badge h-6 no-underline hover:badge-primary">
+        壁掛け
+      </a>
+      
+      
+      
+      <a href="/tags/%E5%BA%A7%E8%AB%87%E4%BC%9A/" class="badge h-6 no-underline hover:badge-primary">
+        座談会
+      </a>
+      
+      
+      
+      <a href="/tags/%E6%96%B0%E5%95%86%E5%93%81%E7%99%BA%E8%A1%A8%E4%BC%9A/" class="badge h-6 no-underline hover:badge-primary">
+        新商品発表会
+      </a>
+      
+      
+      
+      <a href="/tags/%E6%96%B0%E8%A3%BD%E5%93%81%E7%99%BA%E8%A1%A8%E4%BC%9A/" class="badge h-6 no-underline hover:badge-primary">
+        新製品発表会
+      </a>
+      
+      
+      
+      <a href="/tags/%E6%97%85%E8%A1%8C/" class="badge h-6 no-underline hover:badge-primary">
+        旅行
+      </a>
+      
+      
+      
+      <a href="/tags/%E6%97%A5%E5%85%89%E5%B8%82/" class="badge h-6 no-underline hover:badge-primary">
+        日光市
+      </a>
+      
+      
+      
+      <a href="/tags/%E6%9D%A5%E6%A0%96%E5%A4%8F%E8%8A%BD/" class="badge h-6 no-underline hover:badge-primary">
+        来栖夏芽
+      </a>
+      
+      
+      
+      <a href="/tags/%E6%A9%9F%E6%9D%90/" class="badge h-6 no-underline hover:badge-primary">
+        機材
+      </a>
+      
+      
+      
+      <a href="/tags/%E6%B9%AF%E8%A5%BF%E5%B7%9D%E6%B8%A9%E6%B3%89/" class="badge h-6 no-underline hover:badge-primary">
+        湯西川温泉
+      </a>
+      
+      
+      
+      <a href="/tags/%E7%86%B1%E5%B7%9D%E6%B8%A9%E6%B3%89/" class="badge h-6 no-underline hover:badge-primary">
+        熱川温泉
+      </a>
+      
+      
+      
+      <a href="/tags/%E8%80%83%E5%AF%9F/" class="badge h-6 no-underline hover:badge-primary">
+        考察
+      </a>
+      
+      
+      
+      <a href="/tags/%E9%8F%91%E6%9C%A8%E3%82%8D%E3%81%93ss%E4%BA%BA%E7%8B%BC/" class="badge h-6 no-underline hover:badge-primary">
+        鏑木ろこSS人狼
+      </a>
+      
+      
+      
+      <a href="/tags/%E9%9B%BB%E5%8B%95%E3%82%A2%E3%82%B7%E3%82%B9%E3%83%88%E8%87%AA%E8%BB%A2%E8%BB%8A/" class="badge h-6 no-underline hover:badge-primary">
+        電動アシスト自転車
+      </a>
+      
+      
+      
+      <a href="/tags/%E9%AC%BC%E6%80%92%E5%B7%9D%E6%B8%A9%E6%B3%89/" class="badge h-6 no-underline hover:badge-primary">
+        鬼怒川温泉
+      </a>
+      
+      
+      
+      <a href="/tags/%E9%BB%9B%E7%81%B0/" class="badge h-6 no-underline hover:badge-primary">
+        黛灰
+      </a>
+      
+      
+    </div>
+  </div>
+  
+  <div class="divider divider-vertical md:divider-horizontal px-4 md:px-0"></div>
+  
+  <div class="flex-1">
+    
+
+    
+      <div class="dream-grid">
+        
+          <div class="w-full md:w-1/2 lg:w-1/3 p-4 dream-column">
+            <a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="/posts/2025-12-09-editnote/">
+  
+  <figure>
+    
+    <img src="/imgages/plugin@2x.png" alt="Premiere Pro上でメモができる「Editnote」をリリースしました" />
+    
+  </figure>
+  
+
+  <div class="card-body">
+    <h2 class="card-title">Premiere Pro上でメモができる「Editnote」をリリースしました</h2>
+
+    <p class="date text-base-content/60">
+    
+      Tuesday, Dec 9, 2025
+    
+    </p>
+
+    <p>どうも右ねじです。</p>
+<p>皆さんはPremiereで動画編集をしている時、
+**「あ〜これ後でやらないといけないな」**みたいなことが発生しませんか？
+例えば使ったBGMのクレジット表記をYoutubeの概要欄に入れないといけなかったり、
+カット編集しながら魅力的な演出案が思いついたり…。</p>
+<p>その度に皆さんはメモ帳やNotionを開いたり、自分宛のメールに書いておいたり
+Premiereの画面から離れてメモをしますよね。</p>
+<p>そして忘れるんです。メモしていたことを。
+それに気づいた時の絶望・悔しさ。もう二度と繰り返したくないはず。</p>
+<p>こう思いませんか？
+「Premiereの画面上でメモができたらいいのに。」</p>
+<p>はい、そう思います。なので、
+<strong>Adobe Premiere Pro上でメモができる「Editnote」をリリースしました。</strong></p>
+
+    
+    <div class="card-actions justify-between items-center mt-4">
+      
+        <div class="flex items-center">
+  
+  <span>@</span>
+  
+
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+  
+    
+      <span itemprop="name">Author Name</span>
+    
+  
+  </span>
+</div>
+
+      
+
+      <div class="flex items-center">
+        <ion-icon name="time" class="mr-1"></ion-icon>
+        <span>1 minute read</span>
+      </div>
+    </div>
+  </div>
+</a>
+
+          </div>
+        
+      </div>
+    
+
+    
+  </div>
+</div>
+
+
+
+            
+<footer class="flex justify-between items-center gap-2 px-4 py-12">
+
+  <div>
+  
+  <p>
+    © 2020 - 2025 右ねじの法則 -それ、いいね。-
+  </p>
+  
+
+  
+  <p class="text-sm">
+    🌱
+    <span class="text-base-content/60">
+      Powered by <a class="hover:underline" href="https://gohugo.io/" target="_blank">Hugo</a> with theme
+      <a class="hover:underline" href="https://github.com/g1eny0ung/hugo-theme-dream" target="_blank">Dream</a>.</span
+    >
+  </p>
+  
+</div>
+
+  <div
+  x-data="{ icons: [
+    { name: 'sunny', status: 'n' },
+    { name: 'moon', status: 'y' },
+    { name: 'desktop', status: 'auto' }
+  ] }"
+  class="flex items-center gap-2 h-[32px] px-2 bg-base-100 border border-base-content/30 rounded-full"
+>
+  <template x-for="icon in icons">
+    <div
+      role="button"
+      tabindex="0"
+      :aria-label="'Select ' + icon.name + ' mode'"
+      class="group inline-flex justify-center items-center p-1 rounded-full cursor-pointer hover:bg-primary"
+      :class="$store.darkMode.icon() === icon.name && 'bg-primary'"
+      @click="$store.darkMode.toggle(icon.status)"
+    >
+      <ion-icon
+        :name="`${icon.name}-outline`"
+        class="group-hover:text-primary-content"
+        :class="$store.darkMode.icon() === icon.name && 'text-primary-content'"
+      >
+      </ion-icon>
+    </div>
+  </template>
+</div>
+
+</footer>
+
+          </div>
+        </div>
+        <div class="back">
+          <div class="container">
+            
+            <div class="dream-grid dream-grid-about">
+  
+  
+  
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <article
+      class="card bg-base-100 hover:bg-base-content/10 shadow-xl dark:border dark:border-base-content/30"
+    >
+      <div class="card-body">
+        <div class="card-title">About</div>
+
+        <div class="prose dark:prose-invert">
+          <h2 id="rightscrew">Rightscrew</h2>
+<p>Rightscrewは、2011年に活動を開始した体験レポ・ガジェットレビューを行うマイクロメディアです。
+DELL社製PCの関連記事を累計21本執筆し、2020年に「デルアンバサダー 最優秀賞」受賞。</p>
+<h2 id="右ねじ">右ねじ</h2>
+<p>Rightscrew代表。学生時代より動画編集を得意とし、本業の傍らウェディングムービーなどを制作。
+幼少期に抱いていた美術に対するコンプレックスを克服してからは、
+イラストやデジタル油彩を中心に、LINEスタンプショップやSuzuriでグッズ化も行っている。</p>
+<p>資格取得が好きで、よく一夜漬けで試験にのぞみ、それもまた体験レポになる。</p>
+
+        </div>
+      </div>
+    </article>
+  </div>
+  
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <article
+      class="card bg-base-100 hover:bg-base-content/10 shadow-xl dark:border dark:border-base-content/30"
+    >
+      <div class="card-body">
+        <div class="card-title">Skills</div>
+
+        <div class="prose dark:prose-invert">
+          <h3 id="資格一覧">資格一覧</h3>
+<div class="box"><p><strong>IT IPA系</strong></p>
+<ul>
+<li>基本情報技術者</li>
+<li>応用情報技術者</li>
+<li>情報セキュリティマネジメント</li>
+<li>ITパスポート</li>
+</ul>
+<br>
+<p><strong>IT 実務系</strong></p>
+<ul>
+<li>AWS Certified Solutions Architect – Professional</li>
+<li>Ruby Association Certified Ruby Programmer Silver version 2.1</li>
+<li>Python3エンジニア認定データ分析試験</li>
+</ul>
+<br>
+<p><strong>商工会議所系</strong></p>
+<ul>
+<li>メンタルヘルス・マネジメント検定試験Ⅱ種（ラインケアコース）</li>
+<li>ビジネス実務法務検定試験2級</li>
+<li>日商簿記検定試験3級</li>
+<li>ビジネスマネジャー検定</li>
+</ul>
+<br>
+<p><strong>語学系</strong></p>
+<ul>
+<li>実用英語技能検定2級</li>
+<li>日本漢字能力検定準二級</li>
+</ul>
+</div>
+
+        </div>
+      </div>
+    </article>
+  </div>
+  
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <article
+      class="card bg-base-100 hover:bg-base-content/10 shadow-xl dark:border dark:border-base-content/30"
+    >
+      <div class="card-body">
+        <div class="card-title">Portfolio</div>
+
+        <div class="prose dark:prose-invert">
+          <h3 id="works">Works</h3>
+<ul>
+<li><strong>DELLアンバサダー</strong>: 関連記事累計25本執筆, 「デルアンバサダー 最優秀賞」受賞 (2020年)</li>
+<li><strong>制作物</strong>:
+<ul>
+<li><a href="https://www.youtube.com/@%E5%8F%B3%E3%81%AD%E3%81%98" target="_blank"><strong>YouTube</strong></a>
+ Vtuberの切り抜き中心</li>
+<li><a href="https://store.line.me/stickershop/author/251528/ja" target="_blank"><strong>LINEスタンプ</strong></a>
+</li>
+<li><a href="https://suzuri.jp/Rightscrew" target="_blank"><strong>Suzuri</strong></a>
+ グッズ販売 (イラスト・デジタル油彩)</li>
+<li><a href="https://www.instagram.com/smitho_00/" target="_blank"><strong>Instagram</strong></a>
+</li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+    </article>
+  </div>
+  
+  
+
+  
+
+  
+</div>
+
+            
+
+            
+<footer class="flex justify-between items-center gap-2 px-4 py-12">
+
+  <div>
+  
+  <p>
+    © 2020 - 2025 右ねじの法則 -それ、いいね。-
+  </p>
+  
+
+  
+  <p class="text-sm">
+    🌱
+    <span class="text-base-content/60">
+      Powered by <a class="hover:underline" href="https://gohugo.io/" target="_blank">Hugo</a> with theme
+      <a class="hover:underline" href="https://github.com/g1eny0ung/hugo-theme-dream" target="_blank">Dream</a>.</span
+    >
+  </p>
+  
+</div>
+
+  <div
+  x-data="{ icons: [
+    { name: 'sunny', status: 'n' },
+    { name: 'moon', status: 'y' },
+    { name: 'desktop', status: 'auto' }
+  ] }"
+  class="flex items-center gap-2 h-[32px] px-2 bg-base-100 border border-base-content/30 rounded-full"
+>
+  <template x-for="icon in icons">
+    <div
+      role="button"
+      tabindex="0"
+      :aria-label="'Select ' + icon.name + ' mode'"
+      class="group inline-flex justify-center items-center p-1 rounded-full cursor-pointer hover:bg-primary"
+      :class="$store.darkMode.icon() === icon.name && 'bg-primary'"
+      @click="$store.darkMode.toggle(icon.status)"
+    >
+      <ion-icon
+        :name="`${icon.name}-outline`"
+        class="group-hover:text-primary-content"
+        :class="$store.darkMode.icon() === icon.name && 'text-primary-content'"
+      >
+      </ion-icon>
+    </div>
+  </template>
+</div>
+
+</footer>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+  window.lightTheme = "emerald"
+  window.darkTheme = "forest"
+</script>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
+
+  
+  
+  <script src="/js/grid.js"></script>
+
+
+
+
+<script src="/js/main.js"></script>
+
+    
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+    
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-89D5XHLKNM"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-89D5XHLKNM');
+        }
+      </script>
+    
+
+    <script type="module" src="https://cdn.jsdelivr.net/npm/ionicons@7.4.0/dist/ionicons/ionicons.esm.js" integrity="sha256-/IFmi82bIhdYWctu0UddSlJqpnzWm7Vh2C4CM32wF/k=" crossorigin="anonymous"></script>
+    <script nomodule src="https://cdn.jsdelivr.net/npm/ionicons@7.4.0/dist/ionicons/ionicons.js" integrity="sha256-mr7eJMX3VC3F7G32mk4oWp1C6a2tlMYxUdptfT7uKI8=" crossorigin="anonymous"></script>
+  </body>
+</html>

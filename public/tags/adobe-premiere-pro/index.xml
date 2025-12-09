@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adobe Premiere Pro on 右ねじの法則 -それ、いいね。-</title>
+    <link>http://localhost:1313/tags/adobe-premiere-pro/</link>
+    <description>Recent content in Adobe Premiere Pro on 右ねじの法則 -それ、いいね。-</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 09 Dec 2025 17:04:08 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/adobe-premiere-pro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Premiere Pro上でメモができる「Editnote」をリリースしました</title>
+      <link>http://localhost:1313/posts/2025-12-09-editnote/</link>
+      <pubDate>Tue, 09 Dec 2025 17:04:08 +0900</pubDate>
+      <guid>http://localhost:1313/posts/2025-12-09-editnote/</guid>
+      <description>&lt;p&gt;どうも右ねじです。&lt;/p&gt;&#xA;&lt;p&gt;皆さんはPremiereで動画編集をしている時、&#xA;**「あ〜これ後でやらないといけないな」**みたいなことが発生しませんか？&#xA;例えば使ったBGMのクレジット表記をYoutubeの概要欄に入れないといけなかったり、&#xA;カット編集しながら魅力的な演出案が思いついたり…。&lt;/p&gt;&#xA;&lt;p&gt;その度に皆さんはメモ帳やNotionを開いたり、自分宛のメールに書いておいたり&#xA;Premiereの画面から離れてメモをしますよね。&lt;/p&gt;&#xA;&lt;p&gt;そして忘れるんです。メモしていたことを。&#xA;それに気づいた時の絶望・悔しさ。もう二度と繰り返したくないはず。&lt;/p&gt;&#xA;&lt;p&gt;こう思いませんか？&#xA;「Premiereの画面上でメモができたらいいのに。」&lt;/p&gt;&#xA;&lt;p&gt;はい、そう思います。なので、&#xA;&lt;strong&gt;Adobe Premiere Pro上でメモができる「Editnote」をリリースしました。&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
