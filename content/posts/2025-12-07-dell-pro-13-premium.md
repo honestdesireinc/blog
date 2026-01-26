@@ -11,8 +11,8 @@ images:
 categories:
   - category1
 tags:
-  - tag1
-  - tag2
+  - DELL
+  - デルアンバサダー
 # nolastmod: true
 # math: true
 draft: false
