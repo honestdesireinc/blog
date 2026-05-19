@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tag1 on 右ねじの法則 -それ、いいね。-</title>
-    <link>https://www.rightscrew.com/tags/tag1/</link>
+    <link>http://localhost:1313/tags/tag1/</link>
     <description>Recent content in Tag1 on 右ねじの法則 -それ、いいね。-</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 07 Dec 2025 20:06:47 +0900</lastBuildDate>
-    <atom:link href="https://www.rightscrew.com/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Apr 2026 22:50:45 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>堅牢で軽く、どこでも繋がりすべてが満たされる | DELL Pro 13 Premium</title>
-      <link>https://www.rightscrew.com/posts/2025-12-07-dell-pro-13-premium/</link>
-      <pubDate>Sun, 07 Dec 2025 20:06:47 +0900</pubDate>
-      <guid>https://www.rightscrew.com/posts/2025-12-07-dell-pro-13-premium/</guid>
-      <description></description>
+      <title>2026 04 04 Dell Xps14</title>
+      <link>http://localhost:1313/posts/2026-04-04-dell-xps14/</link>
+      <pubDate>Sat, 04 Apr 2026 22:50:45 +0900</pubDate>
+      <guid>http://localhost:1313/posts/2026-04-04-dell-xps14/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

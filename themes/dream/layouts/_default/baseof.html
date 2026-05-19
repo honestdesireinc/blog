@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="{{ site.LanguageCode }}"
+<html lang="{{ site.Language.Locale }}"
   x-data
-  :class="$store.darkMode.class()"
+  :class="$store.darkMode.isDark() ? 'dark' : 'light'"
   :data-theme="$store.darkMode.theme()">
   <head>
     <meta charset="UTF-8">
@@ -16,14 +16,28 @@
     <link rel="stylesheet" href="{{ . | relURL }}" />
     {{ end }}
 
+    <script>
+      window.lightTheme = '{{ site.Params.lightTheme }}'
+      window.darkTheme = '{{ site.Params.darkTheme }}'
+
+      ;(function() {
+        const isDark = ('hugo-theme-dream-is-dark' in localStorage)
+          ? window.localStorage.getItem('hugo-theme-dream-is-dark') === 'y'
+          : window.matchMedia('(prefers-color-scheme: dark)').matches
+        const theme = isDark ? window.darkTheme : window.lightTheme
+
+        document.documentElement.setAttribute('data-theme', theme)
+      })()
+    </script>
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.15.1/dist/cdn.min.js" integrity="sha256-Rmqrc5SKeSLTSnQ9shSKWmJco1ks8c1hLI8UG2Np03M=" crossorigin="anonymous"></script>
   </head>
 
   <body x-data="{
     flip: false,
   }">
-    <!-- If backgroundImage defined -->
-    <div id="dream-global-bg"></div>
+    {{ with or site.Params.backgroundImage site.Params.backgroundImageDark }}
+      <div id="dream-global-bg"></div>
+    {{ end }}
 
     {{ partial "nav.html" . }}
 
@@ -36,7 +50,11 @@
             {{ partial "footer.html" . }}
           </div>
         </div>
+        {{ if .IsHome }}
         <div class="back">
+        {{ else }}
+        <div class="back" data-nosnippet>
+        {{ end }}
           <div class="container">
             {{ if site.Params.zenMode }}
             {{ partial "zen-back.html" . }}

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja-jp"
   x-data
-  :class="$store.darkMode.class()"
+  :class="$store.darkMode.isDark() ? 'dark' : 'light'"
   :data-theme="$store.darkMode.theme()">
   <head>
     <meta charset="UTF-8">
@@ -19,7 +19,7 @@
 
 
 
-<meta name="generator" content="Hugo 0.152.2">
+<meta name="generator" content="Hugo 0.158.0">
 
 
 <meta property="og:url" content="https://www.rightscrew.com/">
@@ -48,6 +48,19 @@
 
     
 
+    <script>
+      window.lightTheme = 'emerald'
+      window.darkTheme = 'forest'
+
+      ;(function() {
+        const isDark = ('hugo-theme-dream-is-dark' in localStorage)
+          ? window.localStorage.getItem('hugo-theme-dream-is-dark') === 'y'
+          : window.matchMedia('(prefers-color-scheme: dark)').matches
+        const theme = isDark ? window.darkTheme : window.lightTheme
+
+        document.documentElement.setAttribute('data-theme', theme)
+      })()
+    </script>
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.15.1/dist/cdn.min.js" integrity="sha256-Rmqrc5SKeSLTSnQ9shSKWmJco1ks8c1hLI8UG2Np03M=" crossorigin="anonymous"></script>
   </head>
 
@@ -55,7 +68,6 @@
     flip: false,
   }">
     
-    <div id="dream-global-bg"></div>
 
     
 <nav class="mt-4 lg:mt-8 py-4">
@@ -63,9 +75,9 @@
   
   <div class="container flex justify-between px-4">
   
-    <section class="flex items-center gap-4">
+    <section class="flex items-center gap-2">
       <div class="avatar cursor-pointer hover:avatar-online" @click="flip = !flip" title="Flip it!">
-        <div class="h-10 rounded-full">
+        <div class="w-12 h-12 rounded-full select-none">
           <img src="/logo.png" alt="右ねじの法則" />
         </div>
       </div>
@@ -104,6 +116,10 @@
   <div role="link" tabindex="0" class="inline-flex items-center p-2 cursor-pointer" @click="flip = !flip" title="About">
     <ion-icon name="information-circle"></ion-icon>About</div>
 </li>
+
+
+
+
 
 
 
@@ -181,8 +197,12 @@
 
 
 
+
+
       
       
+
+
 
 
 
@@ -230,14 +250,14 @@
 
 <div class="dream-grid opacity-0">
   
-    <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
-      <a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="/posts/2021-08-29-diary/">
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="/posts/2021-08-29-diary/">
   
   <figure>
     
     
     <picture>
-      <source srcset="/images/default3_hu_599e07ea93afc07d.webp" type="image/webp" />
+      <source srcset="/images/default3_hu_73dbe1abd907c2da.webp" type="image/webp" />
       <img src="/images/default3.jpg" alt="/images/default3.jpg" />
     </picture>
     
@@ -280,16 +300,16 @@
   </div>
 </a>
 
-    </div>
+  </div>
   
-    <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
-      <a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="/posts/2021-08-01-shopping/">
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="/posts/2021-08-01-shopping/">
   
   <figure>
     
     
     <picture>
-      <source srcset="/images/default3_hu_599e07ea93afc07d.webp" type="image/webp" />
+      <source srcset="/images/default3_hu_73dbe1abd907c2da.webp" type="image/webp" />
       <img src="/images/default3.jpg" alt="/images/default3.jpg" />
     </picture>
     
@@ -332,10 +352,10 @@
   </div>
 </a>
 
-    </div>
+  </div>
   
-    <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
-      <a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="/posts/2021-06-23-mayuzumi-forecast/">
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="/posts/2021-06-23-mayuzumi-forecast/">
   
   <figure>
     
@@ -380,10 +400,10 @@
   </div>
 </a>
 
-    </div>
+  </div>
   
-    <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
-      <a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="/posts/2021-06-20-reality-of-mayuzumikai/">
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="/posts/2021-06-20-reality-of-mayuzumikai/">
   
   <figure>
     
@@ -428,10 +448,10 @@
   </div>
 </a>
 
-    </div>
+  </div>
   
-    <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
-      <a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="/posts/2021-06-18-mayuzumikai-isnot-lain/">
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="/posts/2021-06-18-mayuzumikai-isnot-lain/">
   
   <figure>
     
@@ -476,17 +496,17 @@
   </div>
 </a>
 
-    </div>
+  </div>
   
-    <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
-      <a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="/posts/2021-06-17-ktgt/">
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="/posts/2021-06-17-ktgt/">
   
   <figure>
     
     
     <picture>
-      <source srcset="/images/default2_hu_c96b8a8cc3f55f81.webp" type="image/webp" />
-      <img src="/images/default2.jpg" alt="/images/default2.jpg" />
+      <source srcset="/images/default4_hu_15dcecd535951044.webp" type="image/webp" />
+      <img src="/images/default4.jpg" alt="/images/default4.jpg" />
     </picture>
     
   </figure>
@@ -528,10 +548,10 @@
   </div>
 </a>
 
-    </div>
+  </div>
   
-    <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
-      <a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="/posts/2021-06-02-fave-vtuber-notion/">
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="/posts/2021-06-02-fave-vtuber-notion/">
   
   <figure>
     
@@ -576,10 +596,10 @@
   </div>
 </a>
 
-    </div>
+  </div>
   
-    <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
-      <a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="/posts/2021-05-31-myzm-logue/">
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="/posts/2021-05-31-myzm-logue/">
   
   <figure>
     
@@ -624,10 +644,10 @@
   </div>
 </a>
 
-    </div>
+  </div>
   
-    <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
-      <a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="/posts/2021-05-16-2434system-myzm-future/">
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="/posts/2021-05-16-2434system-myzm-future/">
   
   <figure>
     
@@ -672,10 +692,10 @@
   </div>
 </a>
 
-    </div>
+  </div>
   
-    <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
-      <a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="/posts/2021-05-15-lacine-tsubame-e-time/">
+  <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 dream-column">
+    <a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="/posts/2021-05-15-lacine-tsubame-e-time/">
   
   <figure>
     
@@ -720,7 +740,7 @@
   </div>
 </a>
 
-    </div>
+  </div>
   
 </div>
 
@@ -746,7 +766,7 @@
 
 
             
-<footer class="flex justify-between items-center gap-2 px-4 py-12">
+<footer class="flex flex-col md:flex-row justify-between items-center gap-4 px-4 py-12">
 
   <div>
   
@@ -772,7 +792,7 @@
     { name: 'moon', status: 'y' },
     { name: 'desktop', status: 'auto' }
   ] }"
-  class="flex items-center gap-2 h-[32px] px-2 bg-base-100 border border-base-content/30 rounded-full"
+  class="flex items-center gap-2 h-8 px-2 bg-base-100 border border-base-content/30 rounded-full"
 >
   <template x-for="icon in icons">
     <div
@@ -797,7 +817,9 @@
 
           </div>
         </div>
+        
         <div class="back">
+        
           <div class="container">
             
             <div class="dream-grid dream-grid-about">
@@ -910,7 +932,7 @@ DELL社製PCの関連記事を累計21本執筆し、2020年に「デルアン�
             
 
             
-<footer class="flex justify-between items-center gap-2 px-4 py-12">
+<footer class="flex flex-col md:flex-row justify-between items-center gap-4 px-4 py-12">
 
   <div>
   
@@ -936,7 +958,7 @@ DELL社製PCの関連記事を累計21本執筆し、2020年に「デルアン�
     { name: 'moon', status: 'y' },
     { name: 'desktop', status: 'auto' }
   ] }"
-  class="flex items-center gap-2 h-[32px] px-2 bg-base-100 border border-base-content/30 rounded-full"
+  class="flex items-center gap-2 h-8 px-2 bg-base-100 border border-base-content/30 rounded-full"
 >
   <template x-for="icon in icons">
     <div
@@ -964,12 +986,7 @@ DELL社製PCの関連記事を累計21本執筆し、2020年に「デルアン�
       </div>
     </div>
 
-    <script>
-  window.lightTheme = "emerald"
-  window.darkTheme = "forest"
-</script>
-
-
+    
   <script src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
 
@@ -1003,7 +1020,7 @@ DELL社製PCの関連記事を累計21本執筆し、2020年に「デルアン�
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-89D5XHLKNM"></script>
       <script>
         var doNotTrack = false;
-        if ( false ) {
+        if ( true ) {
           var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
           var doNotTrack = (dnt == "1" || dnt == "yes");
         }

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja-jp"
   x-data
-  :class="$store.darkMode.class()"
+  :class="$store.darkMode.isDark() ? 'dark' : 'light'"
   :data-theme="$store.darkMode.theme()">
   <head>
     <meta charset="UTF-8">
@@ -19,7 +19,7 @@
 
 
 
-<meta name="generator" content="Hugo 0.152.2">
+<meta name="generator" content="Hugo 0.158.0">
 
 
 <meta property="og:url" content="https://www.rightscrew.com/tags/android/">
@@ -48,6 +48,19 @@
 
     
 
+    <script>
+      window.lightTheme = 'emerald'
+      window.darkTheme = 'forest'
+
+      ;(function() {
+        const isDark = ('hugo-theme-dream-is-dark' in localStorage)
+          ? window.localStorage.getItem('hugo-theme-dream-is-dark') === 'y'
+          : window.matchMedia('(prefers-color-scheme: dark)').matches
+        const theme = isDark ? window.darkTheme : window.lightTheme
+
+        document.documentElement.setAttribute('data-theme', theme)
+      })()
+    </script>
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.15.1/dist/cdn.min.js" integrity="sha256-Rmqrc5SKeSLTSnQ9shSKWmJco1ks8c1hLI8UG2Np03M=" crossorigin="anonymous"></script>
   </head>
 
@@ -55,7 +68,6 @@
     flip: false,
   }">
     
-    <div id="dream-global-bg"></div>
 
     
 <nav class="mt-4 lg:mt-8 py-4">
@@ -63,9 +75,9 @@
   
   <div class="container flex justify-between px-4">
   
-    <section class="flex items-center gap-4">
+    <section class="flex items-center gap-2">
       <div class="avatar cursor-pointer hover:avatar-online" @click="flip = !flip" title="Flip it!">
-        <div class="h-10 rounded-full">
+        <div class="w-12 h-12 rounded-full select-none">
           <img src="/logo.png" alt="右ねじの法則" />
         </div>
       </div>
@@ -104,6 +116,10 @@
   <div role="link" tabindex="0" class="inline-flex items-center p-2 cursor-pointer" @click="flip = !flip" title="About">
     <ion-icon name="information-circle"></ion-icon>About</div>
 </li>
+
+
+
+
 
 
 
@@ -181,8 +197,12 @@
 
 
 
+
+
       
       
+
+
 
 
 
@@ -826,7 +846,7 @@
 
 
             
-<footer class="flex justify-between items-center gap-2 px-4 py-12">
+<footer class="flex flex-col md:flex-row justify-between items-center gap-4 px-4 py-12">
 
   <div>
   
@@ -852,7 +872,7 @@
     { name: 'moon', status: 'y' },
     { name: 'desktop', status: 'auto' }
   ] }"
-  class="flex items-center gap-2 h-[32px] px-2 bg-base-100 border border-base-content/30 rounded-full"
+  class="flex items-center gap-2 h-8 px-2 bg-base-100 border border-base-content/30 rounded-full"
 >
   <template x-for="icon in icons">
     <div
@@ -877,7 +897,9 @@
 
           </div>
         </div>
-        <div class="back">
+        
+        <div class="back" data-nosnippet>
+        
           <div class="container">
             
             <div class="dream-grid dream-grid-about">
@@ -990,7 +1012,7 @@ DELL社製PCの関連記事を累計21本執筆し、2020年に「デルアン�
             
 
             
-<footer class="flex justify-between items-center gap-2 px-4 py-12">
+<footer class="flex flex-col md:flex-row justify-between items-center gap-4 px-4 py-12">
 
   <div>
   
@@ -1016,7 +1038,7 @@ DELL社製PCの関連記事を累計21本執筆し、2020年に「デルアン�
     { name: 'moon', status: 'y' },
     { name: 'desktop', status: 'auto' }
   ] }"
-  class="flex items-center gap-2 h-[32px] px-2 bg-base-100 border border-base-content/30 rounded-full"
+  class="flex items-center gap-2 h-8 px-2 bg-base-100 border border-base-content/30 rounded-full"
 >
   <template x-for="icon in icons">
     <div
@@ -1044,12 +1066,7 @@ DELL社製PCの関連記事を累計21本執筆し、2020年に「デルアン�
       </div>
     </div>
 
-    <script>
-  window.lightTheme = "emerald"
-  window.darkTheme = "forest"
-</script>
-
-
+    
   <script src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
 
@@ -1083,7 +1100,7 @@ DELL社製PCの関連記事を累計21本執筆し、2020年に「デルアン�
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-89D5XHLKNM"></script>
       <script>
         var doNotTrack = false;
-        if ( false ) {
+        if ( true ) {
           var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
           var doNotTrack = (dnt == "1" || dnt == "yes");
         }

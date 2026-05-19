@@ -9,7 +9,7 @@ cover: /images/IMG_3886.jpg
 images:
   - /images/IMG_3886.jpg
 categories:
-  - category1
+  - デルアンバサダー
 tags:
   - DELL
   - デルアンバサダー
