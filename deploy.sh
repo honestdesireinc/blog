@@ -26,4 +26,4 @@ git commit -m "$msg"
 git push origin master
 
 # cp -R /Users/rightscrew/Documents/GitHub/blog/public/ /Users/rightscrew/Documents/GitHub/honestdesireinc.github.io/
-robocopy "C:\Users\rightscrew\Documents\GitHub\blog\public" "C:\Users\rightscrew\Documents\GitHub\honestdesireinc.github.io" /MIR
+robocopy "C:\Users\rightscrew\Documents\GitHub\blog\public" "C:\Users\rightscrew\Documents\GitHub\honestdesireinc.github.io"
