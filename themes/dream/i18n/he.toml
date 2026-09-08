@@ -1,48 +1,41 @@
-[home]
-other = "דף הבית"
+# התראות
+note = "הערה"
+tip = "טיפ"
+important = "חשוב"
+warning = "אזהרה"
+caution = "זהירות"
 
-[backToHome]
-other = "חזור לדף הבית"
+home = "דף הבית"
+backToHome = "חזרה לדף הבית"
+flip = "הפוך!"
+about = "אודות"
+search = "חיפוש"
+prevPage = "העמוד הקודם"
+nextPage = "העמוד הבא"
 
-[flip]
-other = "!להפוך"
+archives = "ארכיון"
+allCategories = "כל הקטגוריות"
+allTags = "כל התגיות"
 
-[archives]
-other = "ארכיון"
-
-[allTags]
-other = "כל התגים"
-
-[tag]
-one = "1 תג"
-other = "תגים {{ .Count }}"
-
-[allCategories]
-other = "כל הקטגוריות"
-
-[category]
-one = "1 קטגוריה"
-other = "קטגוריות {{ .Count }}"
-
-[article]
-one = "מאמר  1"
-other = "מאמרים {{ .Count }}"
-
-[socialLinks]
-other = "קישורים למדיה חברתית"
+updatedAt = "עודכן בתאריך"
+socialLinks = "קישורים לרשתות חברתיות"
 
 [minuteRead]
-one = " דקה לקרוא"
-other = " דקות לקריאה"
+one = " דקת קריאה"
+two = " דקות קריאה"
+other = " דקות קריאה"
 
-[updatedAt]
-other = "עודכן בשעה"
+[article]
+one = "מאמר אחד"
+two = "שני מאמרים"
+other = "{{ .Count }} מאמרים"
 
-[prevPage]
-other = "עמוד קודם"
+[category]
+one = "קטגוריה אחת"
+two = "שתי קטגוריות"
+other = "{{ .Count }} קטגוריות"
 
-[nextPage]
-other = "עמוד הבא"
-
-[search]
-other = "לחפש"
+[tag]
+one = "תגית אחת"
+two = "שתי תגיות"
+other = "{{ .Count }} תגיות"

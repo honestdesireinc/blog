@@ -1,48 +1,34 @@
-[home]
-other = "Ana Sayfa"
+# Uyarılar
+note = "Not"
+tip = "İpucu"
+important = "Önemli"
+warning = "Uyarı"
+caution = "Dikkat"
 
-[backToHome]
-other = "Ana sayfaya geri dön"
+home = "Ana sayfa"
+backToHome = "Ana sayfaya dön"
+flip = "Çevir!"
+about = "Hakkında"
+search = "Arama"
+prevPage = "Önceki sayfa"
+nextPage = "Sonraki sayfa"
 
-[flip]
-other = "Çevir!"
+archives = "Arşivler"
+allCategories = "Tüm kategoriler"
+allTags = "Tüm etiketler"
 
-[archives]
-other = "Arşivler"
-
-[allTags]
-other = "Tüm etiketler"
-
-[tag]
-one = "1 etiket"
-other = "{{ .Count }} etiket"
-
-[allCategories]
-other = "Tüm kategoriler"
-
-[category]
-one = "1 kategori"
-other = "{{ .Count }} kategori"
+minuteRead = " dakikalık okuma"
+updatedAt = "Güncellenme tarihi"
+socialLinks = "Sosyal bağlantılar"
 
 [article]
 one = "1 makale"
 other = "{{ .Count }} makale"
 
-[socialLinks]
-other = "Sosyal Bağlantılar"
+[category]
+one = "1 kategori"
+other = "{{ .Count }} kategori"
 
-[minuteRead]
-one = " dakika okuma süresi"
-other = " dakika okuma süresi"
-
-[updatedAt]
-other = "Güncellenme tarihi"
-
-[prevPage]
-other = "Önceki sayfa"
-
-[nextPage]
-other = "Sonraki sayfa"
-
-[search]
-other = "Arama"
+[tag]
+one = "1 etiket"
+other = "{{ .Count }} etiket"

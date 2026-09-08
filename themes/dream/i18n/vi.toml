@@ -1,13 +1,13 @@
-# Alerts
+# Cảnh báo
 note = "Ghi chú"
-tip = "Mẹo vặt"
+tip = "Mẹo"
 important = "Quan trọng"
 warning = "Cảnh báo"
 caution = "Thận trọng"
 
 home = "Trang chủ"
 backToHome = "Quay lại trang chủ"
-flip = "Lật nó!"
+flip = "Lật!"
 about = "Giới thiệu"
 search = "Tìm kiếm"
 prevPage = "Trang trước"
@@ -19,7 +19,7 @@ allTags = "Tất cả thẻ"
 
 minuteRead = " phút đọc"
 updatedAt = "Cập nhật lúc"
-socialLinks = "Liên kết xã hội"
+socialLinks = "Liên kết mạng xã hội"
 
 [article]
 one = "1 bài viết"

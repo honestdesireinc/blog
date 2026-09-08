@@ -1,48 +1,34 @@
-[home]
-other = "হোম"
+# সতর্কবার্তা
+note = "নোট"
+tip = "পরামর্শ"
+important = "গুরুত্বপূর্ণ"
+warning = "সতর্কতা"
+caution = "সাবধান"
 
-[backToHome]
-other = "হোমে ফেরত"
+home = "হোম"
+backToHome = "হোমে ফিরুন"
+flip = "উল্টে দিন!"
+about = "পরিচিতি"
+search = "অনুসন্ধান"
+prevPage = "আগের পৃষ্ঠা"
+nextPage = "পরের পৃষ্ঠা"
 
-[flip]
-other = "ফ্লিপ!"
+archives = "আর্কাইভ"
+allCategories = "সব বিভাগ"
+allTags = "সব ট্যাগ"
 
-[archives]
-other = "আর্কাইভ"
-
-[allTags]
-other = "সকল ট্যাগ"
-
-[tag]
-one = "একটি ট্যাগ"
-other = "{{ .Count }}টি ট্যাগ"
-
-[allCategories]
-other = "সকল ক্যাটাগরি"
-
-[category]
-one = "একটি ক্যাটাগরি"
-other = "{{ .Count }}টি ক্যাটাগরি"
+minuteRead = " মিনিটে পড়া যাবে"
+updatedAt = "আপডেট করা হয়েছে"
+socialLinks = "সামাজিক যোগাযোগের লিংক"
 
 [article]
-one = "একটি আর্টিকেল"
-other = "{{ .Count }}টি আর্টিকেল"
+one = "1টি নিবন্ধ"
+other = "{{ .Count }}টি নিবন্ধ"
 
-[socialLinks]
-other = "সোশাল লিঙ্কস"
+[category]
+one = "1টি বিভাগ"
+other = "{{ .Count }}টি বিভাগ"
 
-[minuteRead]
-one = " মিনিট"
-other = " মিনিট"
-
-[updatedAt]
-other = "সর্বশেষ আপডেট"
-
-[prevPage]
-other = "আগের পেইজ"
-
-[nextPage]
-other = "পরের পেইজ"
-
-[search]
-other = "সার্চ"
+[tag]
+one = "1টি ট্যাগ"
+other = "{{ .Count }}টি ট্যাগ"

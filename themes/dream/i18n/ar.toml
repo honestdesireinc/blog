@@ -1,48 +1,53 @@
-[home]
-other = "الصفحة الرئيسية"
+# التنبيهات
+note = "ملاحظة"
+tip = "تلميح"
+important = "مهم"
+warning = "تحذير"
+caution = "تنبيه"
 
-[backToHome]
-other = "العودة إلى الصفحة الرئيسية"
+home = "الرئيسية"
+backToHome = "العودة إلى الصفحة الرئيسية"
+flip = "اقلبها!"
+about = "حول"
+search = "بحث"
+prevPage = "الصفحة السابقة"
+nextPage = "الصفحة التالية"
 
-[flip]
-other = "!اقلب"
+archives = "الأرشيف"
+allCategories = "جميع الفئات"
+allTags = "جميع الوسوم"
 
-[archives]
-other = "أرشيف"
-
-[allTags]
-other = "كل العلامات"
-
-[tag]
-one = "1 علامة"
-other = "{{ .Count }} علامتان"
-
-[allCategories]
-other = "جميع الفئات"
-
-[category]
-one = "1 فئة"
-other = "{{ .Count }} فئات"
-
-[article]
-one = "1 مقال"
-other = "{{ .Count }} مقالات"
-
-[socialLinks]
-other = "روابط وسائل التواصل الاجتماعي"
+updatedAt = "آخر تحديث في"
+socialLinks = "روابط التواصل الاجتماعي"
 
 [minuteRead]
-one = " قراءة دقيقة"
-other = " ست دقائق للقر"
+zero = " دقيقة للقراءة"
+one = " دقيقة للقراءة"
+two = " دقيقة للقراءة"
+few = " دقائق للقراءة"
+many = " دقيقة للقراءة"
+other = " دقيقة للقراءة"
 
-[updatedAt]
-other = "تم التحديث في"
+[article]
+zero = "لا مقالات"
+one = "مقال واحد"
+two = "مقالان"
+few = "{{ .Count }} مقالات"
+many = "{{ .Count }} مقالًا"
+other = "{{ .Count }} مقال"
 
-[prevPage]
-other = "الصفحة السابقة"
+[category]
+zero = "لا فئات"
+one = "فئة واحدة"
+two = "فئتان"
+few = "{{ .Count }} فئات"
+many = "{{ .Count }} فئة"
+other = "{{ .Count }} فئة"
 
-[nextPage]
-other = "الصفحة التالية"
-
-[search]
-other = "يبحث"
+[tag]
+zero = "لا وسوم"
+one = "وسم واحد"
+two = "وسمان"
+few = "{{ .Count }} وسوم"
+many = "{{ .Count }} وسمًا"
+other = "{{ .Count }} وسم"

@@ -1,48 +1,41 @@
-[home]
-other = "Mājas lapa"
+# Brīdinājumi
+note = "Piezīme"
+tip = "Padoms"
+important = "Svarīgi"
+warning = "Brīdinājums"
+caution = "Uzmanību"
 
-[backToHome]
-other = "Atpakaļ uz sākumlapu"
+home = "Sākums"
+backToHome = "Atpakaļ uz sākumu"
+flip = "Apgriezt!"
+about = "Par"
+search = "Meklēt"
+prevPage = "Iepriekšējā lapa"
+nextPage = "Nākamā lapa"
 
-[flip]
-other = "Uzsist!"
+archives = "Arhīvs"
+allCategories = "Visas kategorijas"
+allTags = "Visi tagi"
 
-[archives]
-other = "Arhīvs"
+updatedAt = "Atjaunināts"
+socialLinks = "Sociālo tīklu saites"
 
-[allTags]
-other = "Visi tagi"
-
-[tag]
-one = "1 tagu"
-other = "{{ .Count }} tagi"
-
-[allCategories]
-other = "Visas kategorijas"
-
-[category]
-one = "1 kategorija"
-other = "{{ .Count }} kategorijas"
+[minuteRead]
+zero = " minūšu lasīšanai"
+one = " minūte lasīšanai"
+other = " minūtes lasīšanai"
 
 [article]
+zero = "{{ .Count }} rakstu"
 one = "1 raksts"
 other = "{{ .Count }} raksti"
 
-[socialLinks]
-other = "Saites sociālajos tīklos"
+[category]
+zero = "{{ .Count }} kategoriju"
+one = "1 kategorija"
+other = "{{ .Count }} kategorijas"
 
-[minuteRead]
-one = " minūte lasīta"
-other = " minūtes lasīts"
-
-[updatedAt]
-other = "Atjaunināts plkst"
-
-[prevPage]
-other = "Iepriekšējā lapa"
-
-[nextPage]
-other = "Nākamā lapaspuse"
-
-[search]
-other = "Meklēt"
+[tag]
+zero = "{{ .Count }} tagu"
+one = "1 tags"
+other = "{{ .Count }} tagi"

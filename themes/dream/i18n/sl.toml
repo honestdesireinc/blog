@@ -1,48 +1,45 @@
-[home]
-other = "Domača stran"
+# Opozorila
+note = "Opomba"
+tip = "Nasvet"
+important = "Pomembno"
+warning = "Opozorilo"
+caution = "Previdno"
 
-[backToHome]
-other = "Vrnite se na domačo stran"
+home = "Domov"
+backToHome = "Nazaj domov"
+flip = "Obrni!"
+about = "O spletišču"
+search = "Iskanje"
+prevPage = "Prejšnja stran"
+nextPage = "Naslednja stran"
 
-[flip]
-other = "Obrniti!"
+archives = "Arhiv"
+allCategories = "Vse kategorije"
+allTags = "Vse oznake"
 
-[archives]
-other = "Arhiv"
+updatedAt = "Posodobljeno"
+socialLinks = "Povezave do družbenih omrežij"
 
-[allTags]
-other = "Vse oznake"
-
-[tag]
-one = "1 oznaka"
-other = "{{ .Count }} oznaki"
-
-[allCategories]
-other = "Vse kategorije"
-
-[category]
-one = "1 kategorija"
-other = "{{ .Count }} kategoriji"
+[minuteRead]
+one = " minuta branja"
+two = " minuti branja"
+few = " minute branja"
+other = " minut branja"
 
 [article]
 one = "1 članek"
-other = "{{ .Count }} članka"
+two = "{{ .Count }} članka"
+few = "{{ .Count }} članki"
+other = "{{ .Count }} člankov"
 
-[socialLinks]
-other = "Povezave do družabnih medijev"
+[category]
+one = "1 kategorija"
+two = "{{ .Count }} kategoriji"
+few = "{{ .Count }} kategorije"
+other = "{{ .Count }} kategorij"
 
-[minuteRead]
-one = " minuta za branje"
-other = " minuti za branje"
-
-[updatedAt]
-other = "Posodobljeno ob"
-
-[prevPage]
-other = "Prejšnja stran"
-
-[nextPage]
-other = "Naslednja stran"
-
-[search]
-other = "Iskanje"
+[tag]
+one = "1 oznaka"
+two = "{{ .Count }} oznaki"
+few = "{{ .Count }} oznake"
+other = "{{ .Count }} oznak"

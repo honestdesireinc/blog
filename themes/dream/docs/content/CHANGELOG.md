@@ -7,6 +7,38 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [3.17.0] - 2026-08-02
+
+### Changed
+
+- Update all i18n files by GPT 5.6 Sol High
+  - AI may make mistakes. If you find any problems, please [open an issue](https://github.com/g1eny0ung/hugo-theme-dream/issues) to tell me. Thank you!
+
+## [3.16.1] - 2026-07-20
+
+### Changed
+
+- Update search keys to include `description` or `summary`
+
+### Fixed
+
+- Prevent TOC from overlapping the article [#412](https://github.com/g1eny0ung/hugo-theme-dream/pull/412)
+
+## [3.16.0] - 2026-07-13
+
+### Added
+
+- Add optional pan and zoom controls for Mermaid diagrams with a reset button [#410](https://github.com/g1eny0ung/hugo-theme-dream/pull/410)
+
+### Changed
+
+- Update cdn dependencies to the latest version
+
+### Fixed
+
+- Remove the extra space at the end of markdown links
+- Allow links in the summary [#409](https://github.com/g1eny0ung/hugo-theme-dream/pull/409)
+
 ## [3.15.0] - 2026-04-30
 
 ### Changed

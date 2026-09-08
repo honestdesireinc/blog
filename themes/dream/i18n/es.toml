@@ -3,21 +3,21 @@ note = "Nota"
 tip = "Consejo"
 important = "Importante"
 warning = "Advertencia"
-caution = "Cuidado"
+caution = "Precaución"
 
 home = "Inicio"
-backToHome = "Volver a inicio"
-flip = "Voltear!"
-about = "Acerca"
+backToHome = "Volver al inicio"
+flip = "¡Voltear!"
+about = "Acerca de"
 search = "Buscar"
 prevPage = "Página anterior"
 nextPage = "Página siguiente"
 
-archives = "Archivos"
+archives = "Archivo"
 allCategories = "Todas las categorías"
 allTags = "Todas las etiquetas"
 
-updatedAt = "Actualizado en"
+updatedAt = "Actualizado el"
 socialLinks = "Enlaces sociales"
 
 [minuteRead]

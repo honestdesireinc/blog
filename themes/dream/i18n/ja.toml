@@ -1,50 +1,34 @@
-[home]
-other = "Home"
+# アラート
+note = "注記"
+tip = "ヒント"
+important = "重要"
+warning = "警告"
+caution = "注意"
 
-[backToHome]
-other = "Back to home"
+home = "ホーム"
+backToHome = "ホームに戻る"
+flip = "裏返す！"
+about = "このサイトについて"
+search = "検索"
+prevPage = "前のページ"
+nextPage = "次のページ"
 
-[flip]
-other = "Flip it!"
+archives = "アーカイブ"
+allCategories = "すべてのカテゴリー"
+allTags = "すべてのタグ"
 
-[about]
-other = "About"
-
-[archives]
-other = "アーカイブ"
-
-[allTags]
-other = "タグ一覧"
-
-[tag]
-one = "1タグ"
-other = "{{ .Count }}タグ"
-
-[allCategories]
-other = "カテゴリー一覧"
-
-[category]
-one = "1カテゴリー"
-other = "{{ .Count }}カテゴリー"
+minuteRead = "分で読めます"
+updatedAt = "更新日"
+socialLinks = "ソーシャルリンク"
 
 [article]
-one = "1記事"
-other = "{{ .Count }}記事"
+one = "1件の記事"
+other = "{{ .Count }}件の記事"
 
-[socialLinks]
-other = "SNS"
+[category]
+one = "1件のカテゴリー"
+other = "{{ .Count }}件のカテゴリー"
 
-[minuteRead]
-other = "分で読めます"
-
-[updatedAt]
-other = "更新日時"
-
-[prevPage]
-other = "前へ"
-
-[nextPage]
-other = "次へ"
-
-[search]
-other = "検索"
+[tag]
+one = "1件のタグ"
+other = "{{ .Count }}件のタグ"

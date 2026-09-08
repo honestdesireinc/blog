@@ -1,3 +1,4 @@
+# Alertas
 note = "Nota"
 tip = "Dica"
 important = "Importante"
@@ -5,8 +6,8 @@ warning = "Aviso"
 caution = "Cuidado"
 
 home = "Página inicial"
-backToHome = "Voltar para a página inicial"
-flip = "Girar!"
+backToHome = "Voltar à página inicial"
+flip = "Virar!"
 about = "Sobre"
 search = "Pesquisar"
 prevPage = "Página anterior"
@@ -16,7 +17,7 @@ archives = "Arquivos"
 allCategories = "Todas as categorias"
 allTags = "Todas as tags"
 
-updatedAt = "Atualizado"
+updatedAt = "Atualizado em"
 socialLinks = "Links de redes sociais"
 
 [minuteRead]
