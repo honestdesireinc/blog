@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja-jp"
   x-data
-  :class="$store.darkMode.class()"
+  :class="$store.darkMode.isDark() ? 'dark' : 'light'"
   :data-theme="$store.darkMode.theme()">
   <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="UTF-8">
@@ -46,14 +46,26 @@
 
     
 
-    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.15.1/dist/cdn.min.js" integrity="sha256-Rmqrc5SKeSLTSnQ9shSKWmJco1ks8c1hLI8UG2Np03M=" crossorigin="anonymous"></script>
+    <script>
+      window.lightTheme = 'emerald'
+      window.darkTheme = 'forest'
+
+      ;(function() {
+        const isDark = ('hugo-theme-dream-is-dark' in localStorage)
+          ? window.localStorage.getItem('hugo-theme-dream-is-dark') === 'y'
+          : window.matchMedia('(prefers-color-scheme: dark)').matches
+        const theme = isDark ? window.darkTheme : window.lightTheme
+
+        document.documentElement.setAttribute('data-theme', theme)
+      })()
+    </script>
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.15.12/dist/cdn.min.js" integrity="sha256-V7N9fK6aJ9ll/a5K3MhEJF39xAfmVa7oXc//OggDaj8=" crossorigin="anonymous"></script>
   </head>
 
   <body x-data="{
     flip: false,
   }">
     
-    <div id="dream-global-bg"></div>
 
     
 <nav class="mt-4 lg:mt-8 py-4">
@@ -61,9 +73,9 @@
   
   <div class="container flex justify-between px-4">
   
-    <section class="flex items-center gap-4">
+    <section class="flex items-center gap-2">
       <div class="avatar cursor-pointer hover:avatar-online" @click="flip = !flip" title="Flip it!">
-        <div class="h-10 rounded-full">
+        <div class="w-12 h-12 rounded-full select-none">
           <img src="/logo.png" alt="右ねじの法則" />
         </div>
       </div>
@@ -89,7 +101,7 @@
       <div tabindex="0" role="button" class="btn btn-ghost btn-square" aria-label="Select an option">
         <ion-icon name="menu" class="text-2xl"></ion-icon>
       </div>
-      <ul tabindex="0" class="dropdown-content menu w-36 bg-base-100 rounded-box z-1 shadow-md">
+      <ul tabindex="0" class="dropdown-content menu w-36 bg-base-100 rounded-box z-10 shadow-md">
         
 
 
@@ -102,6 +114,10 @@
   <div role="link" tabindex="0" class="inline-flex items-center p-2 cursor-pointer" @click="flip = !flip" title="About">
     <ion-icon name="information-circle"></ion-icon>About</div>
 </li>
+
+
+
+
 
 
 
@@ -179,8 +195,12 @@
 
 
 
+
+
       
       
+
+
 
 
 
@@ -325,7 +345,7 @@
       
       
       <a href="/tags/dellmobileconnect/" class="badge h-6 no-underline hover:badge-primary">
-        DellMobileConnect
+        Dellmobileconnect
       </a>
       
       
@@ -506,6 +526,12 @@
       
       <a href="/tags/xps13plus/" class="badge h-6 no-underline hover:badge-primary">
         XPS13PLUS
+      </a>
+      
+      
+      
+      <a href="/tags/xps14/" class="badge h-6 no-underline hover:badge-primary">
+        XPS14
       </a>
       
       
@@ -797,25 +823,27 @@
       <div class="dream-grid">
         
           <div class="w-full md:w-1/2 lg:w-1/3 p-4 dream-column">
-            <a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="/posts/2026-04-04-dell-xps14/">
+            <div class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30">
   
   <figure>
     
-    <img src="/img/cover.jpg" alt="2026 04 04 Dell Xps14" />
+    <img src="/img/cover.jpg" alt="2026 09 08 Asus Rog PG34WCDN" />
     
   </figure>
   
 
   <div class="card-body">
-    <h2 class="card-title">2026 04 04 Dell Xps14</h2>
+    <h2 class="card-title">
+      <a class="after:absolute after:inset-0" href="/posts/2026-09-08-asus-rog-pg34wcdn/">2026 09 08 Asus Rog PG34WCDN</a>
+    </h2>
 
     <p class="date text-base-content/60">
-    
-      Saturday, Apr 4, 2026
-    
+      
+        Tuesday, Sep 8, 2026
+      
     </p>
 
-    <p>Cut out summary from your post content here.</p>
+    <p class="[&_a]:font-medium [&_a]:underline z-10">Cut out summary from your post content here.</p>
 
     
     <div class="card-actions justify-between items-center mt-4">
@@ -842,7 +870,7 @@
       </div>
     </div>
   </div>
-</a>
+</div>
 
           </div>
         
@@ -856,7 +884,7 @@
 
 
             
-<footer class="flex justify-between items-center gap-2 px-4 py-12">
+<footer class="flex flex-col md:flex-row justify-between items-center gap-4 px-4 py-12">
 
   <div>
   
@@ -882,7 +910,7 @@
     { name: 'moon', status: 'y' },
     { name: 'desktop', status: 'auto' }
   ] }"
-  class="flex items-center gap-2 h-[32px] px-2 bg-base-100 border border-base-content/30 rounded-full"
+  class="flex items-center gap-2 h-8 px-2 bg-base-100 border border-base-content/30 rounded-full"
 >
   <template x-for="icon in icons">
     <div
@@ -907,10 +935,12 @@
 
           </div>
         </div>
-        <div class="back">
+        
+        <div class="back" data-nosnippet>
+        
           <div class="container">
             
-            <div class="dream-grid dream-grid-about">
+              <div class="dream-grid dream-grid-about">
   
   
   
@@ -993,14 +1023,10 @@ DELL社製PCの関連記事を累計21本執筆し、2020年に「デルアン�
 <li><strong>DELLアンバサダー</strong>: 関連記事累計25本執筆, 「デルアンバサダー 最優秀賞」受賞 (2020年)</li>
 <li><strong>制作物</strong>:
 <ul>
-<li><a href="https://www.youtube.com/@%E5%8F%B3%E3%81%AD%E3%81%98" target="_blank"><strong>YouTube</strong></a>
- Vtuberの切り抜き中心</li>
-<li><a href="https://store.line.me/stickershop/author/251528/ja" target="_blank"><strong>LINEスタンプ</strong></a>
-</li>
-<li><a href="https://suzuri.jp/Rightscrew" target="_blank"><strong>Suzuri</strong></a>
- グッズ販売 (イラスト・デジタル油彩)</li>
-<li><a href="https://www.instagram.com/smitho_00/" target="_blank"><strong>Instagram</strong></a>
-</li>
+<li><a href="https://www.youtube.com/@%E5%8F%B3%E3%81%AD%E3%81%98" target="_blank"><strong>YouTube</strong></a> Vtuberの切り抜き中心</li>
+<li><a href="https://store.line.me/stickershop/author/251528/ja" target="_blank"><strong>LINEスタンプ</strong></a></li>
+<li><a href="https://suzuri.jp/Rightscrew" target="_blank"><strong>Suzuri</strong></a> グッズ販売 (イラスト・デジタル油彩)</li>
+<li><a href="https://www.instagram.com/smitho_00/" target="_blank"><strong>Instagram</strong></a></li>
 </ul>
 </li>
 </ul>
@@ -1020,7 +1046,7 @@ DELL社製PCの関連記事を累計21本執筆し、2020年に「デルアン�
             
 
             
-<footer class="flex justify-between items-center gap-2 px-4 py-12">
+<footer class="flex flex-col md:flex-row justify-between items-center gap-4 px-4 py-12">
 
   <div>
   
@@ -1046,7 +1072,7 @@ DELL社製PCの関連記事を累計21本執筆し、2020年に「デルアン�
     { name: 'moon', status: 'y' },
     { name: 'desktop', status: 'auto' }
   ] }"
-  class="flex items-center gap-2 h-[32px] px-2 bg-base-100 border border-base-content/30 rounded-full"
+  class="flex items-center gap-2 h-8 px-2 bg-base-100 border border-base-content/30 rounded-full"
 >
   <template x-for="icon in icons">
     <div
@@ -1074,12 +1100,7 @@ DELL社製PCの関連記事を累計21本執筆し、2020年に「デルアン�
       </div>
     </div>
 
-    <script>
-  window.lightTheme = "emerald"
-  window.darkTheme = "forest"
-</script>
-
-
+    
   <script src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
 
@@ -1105,24 +1126,7 @@ DELL社製PCの関連記事を累計21本執筆し、2020年に「デルアン�
     
 
     
-    
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-89D5XHLKNM"></script>
-      <script>
-        var doNotTrack = false;
-        if ( true ) {
-          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
-          var doNotTrack = (dnt == "1" || dnt == "yes");
-        }
-        if (!doNotTrack) {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-89D5XHLKNM');
-        }
-      </script>
-    
 
-    <script type="module" src="https://cdn.jsdelivr.net/npm/ionicons@7.4.0/dist/ionicons/ionicons.esm.js" integrity="sha256-/IFmi82bIhdYWctu0UddSlJqpnzWm7Vh2C4CM32wF/k=" crossorigin="anonymous"></script>
-    <script nomodule src="https://cdn.jsdelivr.net/npm/ionicons@7.4.0/dist/ionicons/ionicons.js" integrity="sha256-mr7eJMX3VC3F7G32mk4oWp1C6a2tlMYxUdptfT7uKI8=" crossorigin="anonymous"></script>
+    <script type="module" src="https://cdn.jsdelivr.net/npm/ionicons@8.0.13/dist/ionicons/ionicons.esm.js" integrity="sha256-46Vf2l/aX0tBSf2YXcaYMxF7JVJl30zn8Y9L9zZNXMA=" crossorigin="anonymous"></script>
   </body>
 </html>
